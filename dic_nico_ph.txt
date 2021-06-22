@@ -1,0 +1,45 @@
+! Title: ニコニコ大百科不要要素フィルタ(スマホ版)
+! Last modified: 2021-05-30
+
+! ------ 上部 ------ !
+! 広告
+dic.nicovideo.jp##.st-Ad_Normal
+
+! 検索窓下の急上昇ワード改
+dic.nicovideo.jp##.st-Header_PushWord
+ 
+! ほめられた数 SNSボタン など
+dic.nicovideo.jp##.sw-Article_Title-counters
+dic.nicovideo.jp##.sw-Article_Title-sns
+
+! ほめる 広告する など
+dic.nicovideo.jp##.sw-Article_Menu
+
+! 生放送
+||live2.nicovideo.jp^$domain=dic.nicovideo.jp
+
+
+! ------ 下部 -----!
+! おすすめトレンド
+dic.nicovideo.jp##[class="sw-Column tp-TrendWord"]
+
+! 急上昇ワード改
+dic.nicovideo.jp###sp-nicodic-hotwords
+dic.nicovideo.jp##.sw-Article_SubContents-pushword
+
+! ニコニ広告された記事
+dic.nicovideo.jp###nicoad_article_sp
+
+! ほめられた記事
+dic.nicovideo.jp##.tp-PopularArticle
+
+! スマホで作られた新規記事
+dic.nicovideo.jp##.sw-Article_SubContents-spnew
+dic.nicovideo.jp##.sw-Column_List
+
+! 検索結果下のニコニ広告された記事
+dic.nicovideo.jp##.sr-List_Nicoad
+
+! いろいろネットワークフィルタ
+||dic.nicovideo.jp/img/icon_sns-*.svg
+||dic.nicovideo.jp/v1/recommended_contents
