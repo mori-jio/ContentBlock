@@ -1,5 +1,7 @@
 ## 広告ブロッカー向けフィルタ
 
-<strong>comments_block.txt（コメントブロックフィルタ）<strong>
-  
-各サイト（自分が見るサイト＆悪名高いサイト）のコメント欄をブロック（読み込まない）します。
+<strong>comments_block.txt（コメントブロックフィルタ）</strong>
+*YouTube
+*niconico
+*Yahoo!ニュース
+などの（というか現時点で他にナイ）コメント欄をブロック（読み込まない）します。
