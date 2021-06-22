@@ -32,9 +32,7 @@ omocoro.jp##.social
 watch.impress.co.jp###floating-social-buttons
 
 ||agree.5ch.net/mona.png
-||youtube.com/watch_comment?action_get_comments=
 ||w.atwiki.jp^*/counter_token
-||connect.facebook.net^*/sdk.js
 ||watch.impress.co.jp^*/special-sites
 ||watch.impress.co.jp^*/ranking
 
