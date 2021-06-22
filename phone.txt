@@ -37,3 +37,7 @@ watch.impress.co.jp###floating-social-buttons
 ||connect.facebook.net^*/sdk.js
 ||watch.impress.co.jp^*/special-sites
 ||watch.impress.co.jp^*/ranking
+
+! #include comments_block.txt
+! #include dic_nico_ph.txt
+! #include fix.txt
