@@ -1,0 +1,21 @@
+! Title: Supplement filter
+! Description: 個人的に不要な要素フィルタ
+
+www.google.*##.AUiS2
+www.google.*##.UUbT9
+www.google.*###bres
+www.nicovideo.jp##.SeekBarHoverItem-hoverElement
+www.nicovideo.jp##.MainContainer-playerPanel
+
+||parts.blog.livedoor.jp/img/*/icon_twitter.png
+||watch.impress.co.jp/img/watch/parts/icon/facebook.svg
+||watch.impress.co.jp/img/watch/parts/icon/rss.svg
+||watch.impress.co.jp/img/watch/parts/icon/twitter.svg
+||watch.impress.co.jp^*/ranking$domain=watch.impress.co.jp
+||watch.impress.co.jp^*/special-sites$domain=watch.impress.co.jp
+||agree.5ch.net/mona.png
+/json/matomeportal_support_jp_blog.json|
+
+!#include comments_block.txt
+!#include dic_nico_pc.txt
+!#include fix.txt
