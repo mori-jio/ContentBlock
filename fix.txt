@@ -1,0 +1,7 @@
+! Title: 追加＆修正フィルタ
+
+||connect.facebook.net^*/sdk.js
+/_/json/ranking_category_min_$badfilter
+/_/json/ranking_
+/jquery.socialbutton-$badfilter
+/jquery.socialbutton-$domain=~gw.sega.jp
