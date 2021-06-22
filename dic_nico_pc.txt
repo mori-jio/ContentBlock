@@ -1,0 +1,9 @@
+! Title: ニコニコ大百科不要要素フィルタ(PC版)
+! Last modified: 2021-05-30
+
+! 右側
+dic.nicovideo.jp###right-column
+
+! ネットワークフィルタ
+||dic.nicovideo.jp/img/icon_sns-*.svg
+||dic.nicovideo.jp/v1/recommended_contents
