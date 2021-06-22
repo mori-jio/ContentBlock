@@ -1,5 +1,5 @@
-! Title: Please be quiet in the comments part1
-! Description: 各サイトのコメント欄を読み込まない（ブロック）非表示フィルタはありません。
+! Title: コメント欄はお静かに
+! Description: 各サイトのコメントをブロックする
 
 ! ------ ブロックを無効にしたい場合（例；YouTube） ------ !
 ! ||www.youtube.com/comment_service_ajax
@@ -7,9 +7,10 @@
 ! ||www.youtube.com/comment_service_ajax,badfilter
 
 ! ------ 本文 ------ !
-! YouTube
-||www.youtube.com/comment_service_ajax
+! YouTube（PC，モバイル）
+||www.youtube.com/comment_service_ajax$domain=www.youtube.com
+||m.youtube.com/watch_comment?action_get_comments=$domain=m.youtube.com
 ! Yahoo!ニュース
-||s.yimg.jp/images/news/v2/comment/js/comment-*.min.js|
+||s.yimg.jp/images/news/v2/comment/js/comment-*.min.js|$domain=www.youtube.com
 ! niconico 流れるコメント
 ||nicovideo.cdn.nimg.jp/web/scripts/pages/watch/modern/*.js|$domain=www.nicovideo.jp
