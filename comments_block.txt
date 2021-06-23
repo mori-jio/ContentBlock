@@ -8,9 +8,9 @@
 
 ! ------ 本文 ------ !
 ! YouTube（PC，モバイル）
-||www.youtube.com/comment_service_ajax$domain=www.youtube.com
-||m.youtube.com/watch_comment?action_get_comments=$domain=m.youtube.com
+||www.youtube.com/comment_service_ajax
+||m.youtube.com/watch_comment?action_get_comments=
 ! Yahoo!ニュース
-||s.yimg.jp/images/news/v2/comment/js/comment-*.min.js|$domain=www.youtube.com
+||s.yimg.jp/images/news/v2/comment/js/comment-*.min.js|
 ! niconico 流れるコメント
 ||nicovideo.cdn.nimg.jp/web/scripts/pages/watch/modern/*.js|$domain=www.nicovideo.jp
