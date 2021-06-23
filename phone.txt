@@ -1,20 +1,25 @@
 ! Title: スマホ用フィルタ
 
-##.ad_footer
 ###ad_header
-##[id^="div-gpt-ad"]
-!##iframe[id^=aswift_]
-###lite_link
-##.article-button-simple
-##.extlink.outside-border.blog-footer
+##+js(no-floc)
+##.ad_footer
 ##.plugin-ad
-##.plugin-blogroll
 ##.plugin-follow_buttons
 ##.plugin-popular_articles-new
-##[id^="blogroll"]
-##div[id="ld-floating-menu"][class="anime"]
-##+js(no-floc)
+##[id^="div-gpt-ad"]
+##iframe[id^=aswift_]
+2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp###lite_link
+2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.article-button-simple
+2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.extlink.outside-border.blog-footer
+2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.plugin-blogroll
+2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##[id^="blogroll"]
+2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##div[id="ld-floating-menu"][class="anime"]
 m.imgur.com##.smartbanner
+omocoro.jp##.social
+watch.impress.co.jp###floating-social-buttons
+wikiwiki.jp###inbound-ad-container
+wikiwiki.jp###pc-bottom-parent-ad-container
+wikiwiki.jp##.try-responsive
 m.youtube.com###YtSparklesVisibilityIdentifier
 youtube.com###pla-shelf
 youtube.com###player-ads
@@ -25,11 +30,6 @@ youtube.com##.ytp-ad-progress-list
 youtube.com##.ytp-cued-thumbnail-overlay-image
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytm-promoted-video-renderer
-wikiwiki.jp##.try-responsive
-wikiwiki.jp###inbound-ad-container
-wikiwiki.jp###pc-bottom-parent-ad-container
-omocoro.jp##.social
-watch.impress.co.jp###floating-social-buttons
 
 ||agree.5ch.net/mona.png
 ||w.atwiki.jp^*/counter_token
