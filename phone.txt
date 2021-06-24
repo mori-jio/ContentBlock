@@ -31,13 +31,6 @@ youtube.com##.ytp-cued-thumbnail-overlay-image
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytm-promoted-video-renderer
 
-||agree.5ch.net/mona.png
-||w.atwiki.jp^*/counter_token
-||watch.impress.co.jp^*/special-sites
-||watch.impress.co.jp^*/ranking
-/_/json/ranking_category_min_$badfilter
-/_/json/ranking_
-
 !#include comments_block.txt
 !#include dic_nico_ph.txt
-!#include fix.txt
+!#include add_fix.txt
