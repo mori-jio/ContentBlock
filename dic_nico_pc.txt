@@ -5,5 +5,5 @@
 dic.nicovideo.jp###right-column
 
 ! ネットワークフィルタ
-||dic.nicovideo.jp/img/icon_sns-*.svg
+||dic.nicovideo.jp/img/icon_sns-*.svg|
 ||dic.nicovideo.jp/v1/recommended_contents
