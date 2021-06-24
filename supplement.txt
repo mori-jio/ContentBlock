@@ -14,6 +14,9 @@ www.nicovideo.jp##.MainContainer-playerPanel
 ||watch.impress.co.jp^*/ranking$domain=watch.impress.co.jp
 ||watch.impress.co.jp^*/special-sites$domain=watch.impress.co.jp
 ||agree.5ch.net/mona.png
+||connect.facebook.net^*/sdk.js
+/_/json/ranking_category_min_$badfilter
+/_/json/ranking_
 /json/matomeportal_support_jp_blog.json|
 
 !#include comments_block.txt
