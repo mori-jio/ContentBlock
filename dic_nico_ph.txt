@@ -41,5 +41,5 @@ dic.nicovideo.jp##.sw-Column_List
 dic.nicovideo.jp##.sr-List_Nicoad
 
 ! いろいろネットワークフィルタ
-||dic.nicovideo.jp/img/icon_sns-*.svg
+||dic.nicovideo.jp/img/icon_sns-*.svg|
 ||dic.nicovideo.jp/v1/recommended_contents
