@@ -1,9 +1,15 @@
 ! Title: 共通追加・修正フィルタ
 
+! supplement
 ||connect.facebook.net^*/sdk.js
 ||w.atwiki.jp/common/dist/js/social_button.js
 !||w.atwiki.jp^*/counter_token
 ||watch.impress.co.jp^*/ranking
 ||watch.impress.co.jp^*/special-sites
-/_/json/ranking_category_min_$badfilter
 /_/json/ranking_
+
+! allow
+@@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
+
+! badfilter
+/_/json/ranking_category_min_$badfilter
