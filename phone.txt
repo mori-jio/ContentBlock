@@ -2,7 +2,6 @@
 
 ###ad_header
 ###lite_link
-##+js(no-floc)
 ##.ad_footer
 ##.article-button-simple
 ##.extlink.outside-border.blog-footer
@@ -14,6 +13,7 @@
 ##[id^="div-gpt-ad"]
 ##div[id="ld-floating-menu"][class="anime"]
 ##iframe[id^=aswift_]
+*##+js(no-floc)
 m.imgur.com##.smartbanner
 omocoro.jp##.social
 watch.impress.co.jp###floating-social-buttons
