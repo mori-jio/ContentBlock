@@ -1,19 +1,19 @@
 ! Title: スマホ用フィルタ
 
 ###ad_header
+###lite_link
 ##+js(no-floc)
 ##.ad_footer
+##.article-button-simple
+##.extlink.outside-border.blog-footer
 ##.plugin-ad
+##.plugin-blogroll
 ##.plugin-follow_buttons
 ##.plugin-popular_articles-new
+##[id^="blogroll"]
 ##[id^="div-gpt-ad"]
+##div[id="ld-floating-menu"][class="anime"]
 ##iframe[id^=aswift_]
-2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.*,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp###lite_link
-2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.*,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.article-button-simple
-2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.*,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.extlink.outside-border.blog-footer
-2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.*,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.plugin-blogroll
-2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.*,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##[id^="blogroll"]
-2chblog.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.*,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##div[id="ld-floating-menu"][class="anime"]
 m.imgur.com##.smartbanner
 omocoro.jp##.social
 watch.impress.co.jp###floating-social-buttons
@@ -35,6 +35,8 @@ youtube.com##ytm-promoted-video-renderer
 ||w.atwiki.jp^*/counter_token
 ||watch.impress.co.jp^*/special-sites
 ||watch.impress.co.jp^*/ranking
+/_/json/ranking_category_min_$badfilter
+/_/json/ranking_
 
 !#include comments_block.txt
 !#include dic_nico_ph.txt
