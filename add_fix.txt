@@ -8,7 +8,7 @@
 ||watch.impress.co.jp^*/special-sites
 /_/json/ranking_
 
-! allow
+! exception
 @@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
 
 ! badfilter
