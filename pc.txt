@@ -1,4 +1,4 @@
-! Title: Supplement filter
+! Title: PC用フィルタ
 ! Description: 個人的に不要な要素フィルタ
 
 www.google.*##.AUiS2
@@ -21,4 +21,4 @@ www.nicovideo.jp##.MainContainer-playerPanel
 
 !#include comments_block.txt
 !#include dic_nico_pc.txt
-!#include fix.txt
+!#include add_fix.txt
