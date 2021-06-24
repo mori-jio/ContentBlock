@@ -13,4 +13,3 @@
 ! Yahoo!ニュース
 ||s.yimg.jp/images/news/v2/comment/js/comment-*.min.js|
 ! niconico 流れるコメント
-||nicovideo.cdn.nimg.jp/web/scripts/pages/watch/modern/*.js|$domain=www.nicovideo.jp
