@@ -1,9 +1,8 @@
 ! Title: 共通追加・修正フィルタ
-||agree.5ch.net/mona.png
-connect.facebook.net^*/sdk.js
+
+||connect.facebook.net^*/sdk.js
 ||w.atwiki.jp^*/counter_token
-||watch.impress.co.jp^*/special-sites
 ||watch.impress.co.jp^*/ranking
-/json/matomeportal_support_jp_blog.json|
+||watch.impress.co.jp^*/special-sites
 /_/json/ranking_category_min_$badfilter
 /_/json/ranking_
