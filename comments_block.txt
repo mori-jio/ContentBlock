@@ -1,5 +1,5 @@
 ! Title: コメント欄はお静かに
-! Description: 各サイトのコメントをブロックする
+! Description: 各サイトのコメントをブロックまたは非表示にする
 
 ! ------ ブロックを無効にしたい場合（例；YouTube） ------ !
 ! ||www.youtube.com/comment_service_ajax
@@ -13,3 +13,6 @@
 ! Yahoo!ニュース
 ||s.yimg.jp/images/news/v2/comment/js/comment-*.min.js|
 ! niconico 流れるコメント
+! むりだった
+! fc2ブログ
+blog.fc2.com##.thread
