@@ -1,6 +1,7 @@
 ! Title: 共通追加・修正フィルタ
 
 ! supplement
+||5ch.net/mona.png
 ||connect.facebook.net^*/sdk.js
 ||w.atwiki.jp/common/dist/js/social_button.js
 !||w.atwiki.jp^*/counter_token
