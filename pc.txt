@@ -9,6 +9,7 @@ www.nicovideo.jp##.MainContainer-playerPanel
 nicovideo.jp##.common-header-6zywm
 nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register?"]
 
+||nvapi.nicovideo.jp/v1/recommend$domain=www.nicovideo.jp
 ||parts.blog.livedoor.jp/img/*/icon_twitter.png
 ||watch.impress.co.jp/img/watch/parts/icon/facebook.svg
 ||watch.impress.co.jp/img/watch/parts/icon/rss.svg
