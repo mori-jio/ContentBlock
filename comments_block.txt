@@ -16,3 +16,5 @@
 ! むりだった
 ! fc2ブログ
 blog.fc2.com##.thread
+! wikiwiki
+wikiwiki.jp##.trolling-defence-check-on-submission.prevent-repeated-submission
