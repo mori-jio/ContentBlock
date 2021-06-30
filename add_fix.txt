@@ -8,6 +8,7 @@
 ||watch.impress.co.jp^*/ranking
 ||watch.impress.co.jp^*/special-sites
 /_/json/ranking_
+recommend$domain=nicovideo.jp
 
 ! exception
 @@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
