@@ -13,6 +13,8 @@ nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register?"]
 ||watch.impress.co.jp/img/watch/parts/icon/facebook.svg
 ||watch.impress.co.jp/img/watch/parts/icon/rss.svg
 ||watch.impress.co.jp/img/watch/parts/icon/twitter.svg
+||twimg.com^$domain=nicovideo.jp
+nicolive-hamster-lv$domain=ext.live.nicovideo.jp
 
 !#include comments_block.txt
 !#include dic_nico_pc.txt
