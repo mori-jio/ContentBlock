@@ -7,6 +7,7 @@ www.google.*##.UUbT9
 www.google.*###bres
 www.nicovideo.jp##.SeekBarHoverItem-hoverElement
 www.nicovideo.jp##.common-header-6zywm
+www.nicovideo.jp##.MainContainer-marquee
 nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register?"]
 
 ||nvapi.nicovideo.jp/v1/recommend$domain=www.nicovideo.jp
