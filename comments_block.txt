@@ -1,12 +1,6 @@
 ! Title: コメント欄はお静かに
 ! Description: 各サイトのコメントをブロックまたは非表示にする
 
-! ------ ブロックを無効にしたい場合（例；YouTube） ------ !
-! ||www.youtube.com/comment_service_ajax
-! フィルタの最後に「,badfilter」をつける
-! ||www.youtube.com/comment_service_ajax,badfilter
-
-! ------ 本文 ------ !
 ! YouTube（PC，モバイル）
 ||www.youtube.com/comment_service_ajax
 ||m.youtube.com/watch_comment?action_get_comments=
