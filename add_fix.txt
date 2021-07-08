@@ -13,6 +13,7 @@ recommend$domain=nicovideo.jp
 
 ! exception
 @@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
+dic.nicovideo.jp#@##right-column[style]:style(height:auto!important)
 
 ! badfilter
 /_/json/ranking_category_min_$badfilter
