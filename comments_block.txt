@@ -6,8 +6,6 @@
 ||m.youtube.com/watch_comment?action_get_comments=
 ! Yahoo!ニュース
 ||s.yimg.jp/images/news/v2/comment/js/comment-*.min.js|
-! niconico 流れるコメント
-! むりだった
 ! fc2ブログ
 blog.fc2.com##.thread
 ! wikiwiki
