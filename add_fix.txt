@@ -8,6 +8,7 @@
 !||w.atwiki.jp^*/counter_token
 ||watch.impress.co.jp^*/ranking
 ||watch.impress.co.jp^*/special-sites
+||staticflickr.com^*.jpg|
 /_/json/ranking_
 recommend$domain=nicovideo.jp
 
