@@ -10,10 +10,7 @@
 ##.plugin-follow_buttons
 ##.plugin-popular_articles-new
 ##[id^="blogroll"]
-##[id^="div-gpt-ad"]
 ##div[id="ld-floating-menu"][class="anime"]
-##iframe[id^=aswift_]
-*##+js(no-floc)
 m.imgur.com##.smartbanner
 omocoro.jp##.social
 watch.impress.co.jp###floating-social-buttons
