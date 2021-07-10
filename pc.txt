@@ -1,6 +1,7 @@
 ! Title: PC用フィルタ
 ! Description: 個人的に不要な要素フィルタ
 
+! 非表示
 5ch.net##.thumb_i
 www.google.*###bres
 www.google.*##.AUiS2
@@ -11,7 +12,7 @@ www.nicovideo.jp##.MainContainer-marquee
 nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register?"]
 nicovideo.jp##.common-header-6zywm
 
-
+! ブロック
 ||parts.blog.livedoor.jp/img/*/icon_twitter.png|
 ||watch.impress.co.jp/img/watch/parts/icon/facebook.svg
 ||watch.impress.co.jp/img/watch/parts/icon/rss.svg
