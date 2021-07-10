@@ -1,6 +1,7 @@
 ! Title: 共通追加・修正フィルタ
 
 ! supplement
+5ch.net##.post:has-text(/《プレミアム会員の主な特典》|life time: /)
 ||ad.pr.ameba.jp/tpc/list/$xmlhttprequest,important
 ||agree.5ch.net/mona.png
 ||connect.facebook.net^*/sdk.js
