@@ -37,6 +37,9 @@ dic.nicovideo.jp##.tp-PopularArticle
 dic.nicovideo.jp##.sw-Article_SubContents-spnew
 dic.nicovideo.jp##.sw-Column_List
 
+! ポータルサイトリンク
+dic.nicovideo.jp##.sw-Article_SubContents-portal-link
+
 ! 検索結果下のニコニ広告された記事
 dic.nicovideo.jp##.sr-List_Nicoad
 
