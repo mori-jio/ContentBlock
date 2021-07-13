@@ -7,3 +7,4 @@ dic.nicovideo.jp###right-column
 ! ネットワークフィルタ
 ||dic.nicovideo.jp/img/icon_sns-*.svg|
 ||secure-dcdn.cdn.nimg.jp/nicocc/wakutkool/v2/*.png|
+||api.nicoad.nicovideo.jp^$important
