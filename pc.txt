@@ -2,7 +2,6 @@
 ! Description: 個人的に不要な要素フィルタ
 
 ! 非表示
-5ch.net##.thumb_i
 www.google.*###bres
 www.google.*##.AUiS2
 www.google.*##.Bhmw4
