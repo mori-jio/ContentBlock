@@ -1,0 +1,26 @@
+! Title: 共通追加・修正フィルタ
+
+! supplement
+
+! 荒らし対策
+5ch.net##.post:has-text(/《プレミアム会員の主な特典》|life time:/)
+egg.5ch.net##.post:has-text(/ﾜｯﾁｮｲ[ ].{2}03-.{4}|ﾃﾃﾝ/)
+
+||ad.pr.ameba.jp/tpc/list/$xmlhttprequest,important
+||agree.5ch.net/mona.png
+||img.5ch.net/ico/*.gif|
+||connect.facebook.net^*/sdk.js
+||w.atwiki.jp/common/dist/js/social_button.js
+!||w.atwiki.jp^*/counter_token
+||watch.impress.co.jp^*/ranking
+||watch.impress.co.jp^*/special-sites
+||staticflickr.com^*.jpg|
+/_/json/ranking_
+recommend$domain=nicovideo.jp
+
+! exception
+@@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
+dic.nicovideo.jp#@##right-column[style]:style(height:auto!important)
+
+! badfilter
+/_/json/ranking_category_min_$badfilter
