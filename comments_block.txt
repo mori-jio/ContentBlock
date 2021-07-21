@@ -2,7 +2,8 @@
 ! Description: 各サイトのコメントをブロックまたは非表示にする
 
 ! YouTube（PC，モバイル）
-||www.youtube.com/comment_service_ajax
+!||www.youtube.com/comment_service_ajax
+||www.youtube.com/youtubei/v1/next?key=
 ||m.youtube.com/watch_comment?action_get_comments=
 ! Yahoo!ニュース
 ||s.yimg.jp/images/news/v2/comment/js/comment-*.min.js|
