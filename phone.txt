@@ -17,6 +17,7 @@ dic.pixiv.net###ad-d-sp-toparticle
 dic.pixiv.net###bottom_pixivcomic_touch
 dic.pixiv.net###bottom_spotlight_touch
 dic.pixiv.net###inner_pixivcomic_touch
+dic.pixiv.net###inner_pixivnovel_touch
 m.imgur.com##.smartbanner
 omocoro.jp##.social
 watch.impress.co.jp###floating-social-buttons
