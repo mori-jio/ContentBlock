@@ -18,6 +18,7 @@ nicovideo.jp##.common-header-6zywm
 ||watch.impress.co.jp/img/watch/parts/icon/twitter.svg
 ||twimg.com^$domain=nicovideo.jp
 ||ext.live.nicovideo.jp/watch/lv$domain=www.nicovideo.jp
+||ilovemakingpics.com^$subdocument
 
 !#include comments_block.txt
 !#include dic_nico_pc.txt
