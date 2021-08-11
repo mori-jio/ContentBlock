@@ -20,7 +20,7 @@ egg.5ch.net##.post:has-text(/ﾜｯﾁｮｲ[ ].{2}03-.{4}|ﾃﾃﾝ/)
 recommend$domain=nicovideo.jp
 
 ! exception
-@@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
+@@||atwiki.jp/common/*/spacer.gif?$image,domain=atwiki.jp
 dic.nicovideo.jp#@##right-column[style]:style(height:auto!important)
 
 ! badfilter
