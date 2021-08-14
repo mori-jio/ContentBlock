@@ -5,6 +5,7 @@
 ! 荒らし対策
 5ch.net##.post:has-text(/《プレミアム会員の主な特典》|life time:/)
 egg.5ch.net##.post:has-text(/ﾜｯﾁｮｲ[ ].{2}03-.{4}|ﾃﾃﾝ/)
+5ch.net##.thumb_i
 
 ||ad.pr.ameba.jp/tpc/list/$xmlhttprequest,important
 ||agree.5ch.net/mona.png
