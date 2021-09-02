@@ -11,9 +11,6 @@
 ##[id^="blogroll"]
 ##div[id="ld-floating-menu"][class="anime"]
 ! ###ad_header
-dic.pixiv.net###ad-d-sp-footer
-dic.pixiv.net###ad-d-sp-rectangle
-dic.pixiv.net###ad-d-sp-toparticle
 dic.pixiv.net###bottom_pixivcomic_touch
 dic.pixiv.net###bottom_spotlight_touch
 dic.pixiv.net###inner_pixivcomic_touch
