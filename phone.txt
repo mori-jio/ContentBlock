@@ -19,21 +19,8 @@ m.imgur.com##.smartbanner
 omocoro.jp##.social
 watch.impress.co.jp###floating-social-buttons
 wikiwiki.jp##.try-responsive
-! wikiwiki.jp###inbound-ad-container
-! wikiwiki.jp###pc-bottom-parent-ad-container
-m.youtube.com###YtSparklesVisibilityIdentifier
-youtube.com###pla-shelf
-youtube.com##.ytp-ad-action-interstitial
-youtube.com##.ytp-cued-thumbnail-overlay-image
-! youtube.com###player-ads
-! youtube.com##.ytp-ad-action-interstitial-background-container
-! youtube.com##.ytp-ad-action-interstitial-slot
-! youtube.com##.ytp-ad-progress-list
-! youtube.com##ytd-promoted-sparkles-web-renderer
-! youtube.com##ytm-promoted-video-renderer
 
 bnner_sp$image
 
-!#include comments_block.txt
 !#include dic_nico_ph.txt
 !#include add_fix.txt
