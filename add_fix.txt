@@ -6,7 +6,6 @@
 ! 荒らし対策
 5ch.net##.post:has-text(/《プレミアム会員の主な特典》|life time:/)
 5ch.net##.thumb_i
-egg.5ch.net##.post:has-text(/ﾜｯﾁｮｲ[ ].{2}03-.{4}|ﾃﾃﾝ/)
 
 ||ad.pr.ameba.jp/tpc/list/$xmlhttprequest,important
 ||agree.5ch.net/mona.png
@@ -25,6 +24,3 @@ recommend$domain=nicovideo.jp
 ! exception
 @@||atwiki.jp/common/*/spacer.gif?$image,domain=atwiki.jp
 dic.nicovideo.jp#@##right-column[style]:style(height:auto!important)
-
-! badfilter
-/_/json/ranking_category_min_$badfilter
