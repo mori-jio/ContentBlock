@@ -8,6 +8,7 @@ www.google.*##.Bhmw4
 www.google.*##.UUbT9
 www.nicovideo.jp##.SeekBarHoverItem-hoverElement
 www.nicovideo.jp##.MainContainer-marquee
+www.youtube.com##.ytp-ce-covering-overlay
 nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register?"]
 nicovideo.jp##.common-header-6zywm
 
