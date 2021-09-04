@@ -1,10 +1,10 @@
-! Title: 共通追加・修正フィルタ
+! Title: 共通追加・例外フィルタ
 
 ! supplement
 ##[href^="https://www.dlsite.com/maniax/dlaf/=/t/n/link/work/aid/"]
 ##a[href^="https://al.dmm.co.jp/"]
 ! 荒らし対策
-5ch.net##.post:has-text(/《プレミアム会員の主な特典》|life time:/)
+5ch.net##.post:has-text(/《プレミアム会員の主な特典》|life time:|💣/)
 5ch.net##.thumb_i
 
 ||ad.pr.ameba.jp/tpc/list/$xmlhttprequest,important
