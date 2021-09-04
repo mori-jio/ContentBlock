@@ -20,6 +20,7 @@
 ||staticflickr.com^*.jpg|
 /_/json/ranking_
 recommend$domain=nicovideo.jp
+||rebiraert.com^
 
 ! exception
 @@||atwiki.jp/common/*/spacer.gif?$image,domain=atwiki.jp
