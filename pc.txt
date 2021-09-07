@@ -23,4 +23,4 @@ nicovideo.jp##.common-header-6zywm
 
 !#include comments_block.txt
 !#include dic_nico_pc.txt
-!#include add_fix.txt
+!#include add_exc.txt
