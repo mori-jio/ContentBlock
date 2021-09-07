@@ -23,4 +23,4 @@ wikiwiki.jp##.try-responsive
 bnner_sp$image
 
 !#include dic_nico_ph.txt
-!#include add_fix.txt
+!#include add_exc.txt
