@@ -1,8 +1,10 @@
 ! Title: ニコニコ大百科不要要素フィルタ(PC版)
-! Last modified: 2021-06-25
+! Last modified: 2021-09-07
 
 ! 右側
 dic.nicovideo.jp###right-column
+! ニコニ広告
+dic.nicovideo.jp###nicoad_article_pc
 
 ! ネットワークフィルタ
 ||dic.nicovideo.jp/img/icon_sns-*.svg|
