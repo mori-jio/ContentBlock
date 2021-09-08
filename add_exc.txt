@@ -4,6 +4,8 @@
 5ch.net##.back-links
 5ch.net##.thumb_i
 5ch.net##.post:has-text(/《プレミアム会員の主な特典》|life time:|💣/)
+kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/livejupiter/"]
+kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news4vip/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
 
 ||ad.pr.ameba.jp/tpc/list/$xmlhttprequest,important
