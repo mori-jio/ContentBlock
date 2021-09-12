@@ -11,6 +11,9 @@ kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news4vip/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
 
+! Google Chrome を入手
+||ogs.google.com/u/0/widget/callout/sid?
+
 ||ad.pr.ameba.jp/tpc/list/$xmlhttprequest,important
 ||agree.5ch.net/mona.png
 ||img.5ch.net/ico/*.gif|
