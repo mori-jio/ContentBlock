@@ -1,11 +1,11 @@
 ! Title: スマホ用フィルタ
 
 ###lite_link
-##.ad_footer
+! ##.ad_footer
 ##.article-button-simple
 ##.extlink.outside-border.blog-footer
 ##.plugin-ad
-##.plugin-blogroll
+! ##.plugin-blogroll
 ##.plugin-follow_buttons
 ##.plugin-popular_articles-new
 ##[id^="blogroll"]
