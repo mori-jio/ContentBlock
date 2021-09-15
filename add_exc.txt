@@ -10,6 +10,7 @@ kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/mnewsplus/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news4vip/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
+w.atwiki.jp##.atwiki-tanuki-recommend
 
 ! Google Chrome を入手
 ||ogs.google.com/u/0/widget/callout/sid?
@@ -24,7 +25,7 @@ kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
 ||assets.nakamap.com/img/banner/$image,domain=web.lobi.co
 ||watch.impress.co.jp^*/ranking
 ||watch.impress.co.jp^*/special-sites
-||staticflickr.com^*.jpg|
+||tanukimatome.jp^$domain=w.atwiki.jp
 /_/json/ranking_
 recommend$domain=nicovideo.jp
 ||rebiraert.com^
