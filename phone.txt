@@ -8,8 +8,6 @@
 ! ##.plugin-blogroll
 ##.plugin-follow_buttons
 ##.plugin-popular_articles-new
-##[id^="blogroll"]
-##div[id="ld-floating-menu"][class="anime"]
 ! ###ad_header
 dic.pixiv.net###bottom_pixivcomic_touch
 dic.pixiv.net###bottom_spotlight_touch
