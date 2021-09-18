@@ -4,7 +4,7 @@
 ! ##.ad_footer
 ##.article-button-simple
 ##.extlink.outside-border.blog-footer
-##.plugin-ad
+!##.plugin-ad
 ! ##.plugin-blogroll
 ##.plugin-follow_buttons
 ##.plugin-popular_articles-new
