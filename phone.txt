@@ -1,19 +1,18 @@
 ! Title: スマホ用フィルタ
 
-##.article-button-simple
 *###lite_link
 *##.plugin-follow_buttons
 *##.plugin-popular_articles-new
 blog.livedoor.jp##.extlink.outside-border.blog-footer
 !###ad_header
 !##.ad_footer
+!##.article-button-simple
 !##.plugin-blogroll
 !##.plugin-ad
 dic.pixiv.net###bottom_pixivcomic_touch
 dic.pixiv.net###bottom_spotlight_touch
 dic.pixiv.net###inner_pixivcomic_touch
 dic.pixiv.net###inner_pixivnovel_touch
-m.imgur.com##.smartbanner
 omocoro.jp##.social
 watch.impress.co.jp###floating-social-buttons
 wikiwiki.jp##.try-responsive
