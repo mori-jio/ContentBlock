@@ -1,5 +1,5 @@
 ! Title: afksフィルタ
-! Description: まとめサイトフィルタ
+! Description: まとめサイトをフィルタリングする
 
 ! ------ 要素隠蔽 ------ !
 ! ライブドア 5chまとめが多い
@@ -19,12 +19,15 @@ blog.livedoor.jp,www.google.*##[href^="http://yaraon.blog109.fc2.com/"]
 ! 他
 blog.livedoor.jp,www.google.*##[href^="https://blog.hokanko-alt.com/"]
 blog.livedoor.jp,www.google.*##[href^="https://ch.nicovideo.jp/"]
+www.google.*##[href^="https://togetter.com/"]
 
 ! ------ ドメインブロック ------ !
 ||blog.esuteru.com^$all
+||blog.hokanko-alt.com^$all
+||ch.nicovideo.jp^$all
 ||hamusoku.com^$all
 ||jin115.com^$all
+||togetter.com^all
 ||yaraon.blog109.fc2.com^$all
 |http://blog.livedoor.jp/dqnplus/$all
 |http://blog.livedoor.jp/news23vip/$all
-|https://blog.hokanko-alt.com/$all
