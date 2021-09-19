@@ -1,14 +1,14 @@
 ! Title: スマホ用フィルタ
 
-###lite_link
-! ##.ad_footer
 ##.article-button-simple
-##.extlink.outside-border.blog-footer
+*###lite_link
+*##.plugin-follow_buttons
+*##.plugin-popular_articles-new
+blog.livedoor.jp##.extlink.outside-border.blog-footer
+!###ad_header
+!##.ad_footer
+!##.plugin-blogroll
 !##.plugin-ad
-! ##.plugin-blogroll
-##.plugin-follow_buttons
-##.plugin-popular_articles-new
-! ###ad_header
 dic.pixiv.net###bottom_pixivcomic_touch
 dic.pixiv.net###bottom_spotlight_touch
 dic.pixiv.net###inner_pixivcomic_touch
@@ -22,3 +22,4 @@ bnner_sp$image
 
 !#include dic_nico_ph.txt
 !#include add_exc.txt
+!#include afks.txt
