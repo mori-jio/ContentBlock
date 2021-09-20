@@ -17,9 +17,6 @@ w.atwiki.jp##.atwiki-tanuki-recommend
 w.atwiki.jp##^.atwiki-tanuki-recommend
 !#endif
 
-! Google Chrome を入手
-||ogs.google.com/u/0/widget/callout/sid?
-
 ||ad.pr.ameba.jp/tpc/list/$xmlhttprequest,important
 ||agree.5ch.net/mona.png
 ||img.5ch.net/ico/*.gif|
