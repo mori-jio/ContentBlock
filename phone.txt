@@ -9,13 +9,11 @@ blog.livedoor.jp##.extlink.outside-border.blog-footer
 !##.article-button-simple
 !##.plugin-blogroll
 !##.plugin-ad
-dic.pixiv.net###bottom_pixivcomic_touch
-dic.pixiv.net###bottom_spotlight_touch
-dic.pixiv.net###inner_pixivcomic_touch
-dic.pixiv.net###inner_pixivnovel_touch
-omocoro.jp##.social
-watch.impress.co.jp###floating-social-buttons
-wikiwiki.jp##.try-responsive
+dic.pixiv.net##^#bottom_pixivcomic_touch
+dic.pixiv.net##^#bottom_spotlight_touch
+dic.pixiv.net##^#inner_pixivcomic_touch
+dic.pixiv.net##^#inner_pixivnovel_touch
+omocoro.jp##^.social
 
 bnner_sp$image
 
