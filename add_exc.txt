@@ -10,7 +10,13 @@ kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/mnewsplus/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news4vip/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
+!#if !env_firefox
 w.atwiki.jp##.atwiki-tanuki-recommend
+!#endif
+
+!#if env_firefox
+w.atwiki.jp##^.atwiki-tanuki-recommend
+!#endif
 
 ! Google Chrome を入手
 ||ogs.google.com/u/0/widget/callout/sid?
