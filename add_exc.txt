@@ -13,7 +13,6 @@ kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
 !#if !env_firefox
 w.atwiki.jp##.atwiki-tanuki-recommend
 !#endif
-
 !#if env_firefox
 w.atwiki.jp##^.atwiki-tanuki-recommend
 !#endif
