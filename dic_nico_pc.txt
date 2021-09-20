@@ -5,7 +5,6 @@
 !#if !env_firefox
 dic.nicovideo.jp###right-column
 !#endif
-
 !#if env_firefox
 dic.nicovideo.jp##^#right-column
 !#endif
@@ -14,7 +13,6 @@ dic.nicovideo.jp##^#right-column
 !#if !env_firefox
 dic.nicovideo.jp###nicoad_article_pc
 !#endif
-
 !#if env_firefox
 dic.nicovideo.jp##^#nicoad_article_pc
 !#endif
