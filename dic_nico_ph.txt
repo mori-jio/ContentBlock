@@ -2,17 +2,17 @@
 
 ! ------ 上部 ------ !
 ! 広告
-dic.nicovideo.jp##.st-Ad_Normal
+dic.nicovideo.jp##^.st-Ad_Normal
 
 ! 検索窓下の急上昇ワード改
-dic.nicovideo.jp##.st-Header_PushWord
+dic.nicovideo.jp##^.st-Header_PushWord
  
 ! ほめられた数 SNSボタン など
 dic.nicovideo.jp##.sw-Article_Title-counters
-dic.nicovideo.jp##.sw-Article_Title-sns
+dic.nicovideo.jp##^.sw-Article_Title-sns
 
 ! ほめる 広告する など
-dic.nicovideo.jp##.sw-Article_Menu
+dic.nicovideo.jp##^.sw-Article_Menu
 
 ! 生放送
 ||live2.nicovideo.jp^$domain=dic.nicovideo.jp
@@ -20,17 +20,17 @@ dic.nicovideo.jp##.sw-Article_Menu
 
 ! ------ 下部 -----!
 ! おすすめトレンド
-dic.nicovideo.jp##[class="sw-Column tp-TrendWord"]
+dic.nicovideo.jp##^[class="sw-Column tp-TrendWord"]
 
 ! 急上昇ワード改
-dic.nicovideo.jp###sp-nicodic-hotwords
-dic.nicovideo.jp##.sw-Article_SubContents-pushword
+dic.nicovideo.jp##^#sp-nicodic-hotwords
+dic.nicovideo.jp##^.sw-Article_SubContents-pushword
 
 ! ニコニ広告された記事
-dic.nicovideo.jp###nicoad_article_sp
+dic.nicovideo.jp##^#nicoad_article_sp
 
 ! ほめられた記事
-dic.nicovideo.jp##.tp-PopularArticle
+dic.nicovideo.jp##^.tp-PopularArticle
 
 ! スマホで作られた新規記事
 dic.nicovideo.jp##.sw-Article_SubContents-spnew
