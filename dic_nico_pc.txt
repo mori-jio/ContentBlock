@@ -1,5 +1,4 @@
 ! Title: ニコニコ大百科不要要素フィルタ(PC版)
-! Last modified: 2021-09-20
 
 ! 右側
 !#if !env_firefox
