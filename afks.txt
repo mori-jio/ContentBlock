@@ -1,7 +1,7 @@
 ! Title: afksフィルタ
-! Description: まとめサイトをフィルタリングする
+! Description: 邪魔なまとめサイトのリンク除去＆ドメインブロック
 
-! ------ 要素隠蔽 ------ !
+! ------ リンク除去 ------ !
 ! ライブドア 5chまとめが多い
 blog.livedoor.jp,www.google.*##[href*=".2chblog.jp/"]
 blog.livedoor.jp,www.google.*##[href*=".blog.jp/"]
@@ -10,7 +10,7 @@ blog.livedoor.jp,www.google.*##[href*=".ldblog.jp/"]
 blog.livedoor.jp,www.google.*##[href*=".livedoor.biz"]
 www.google.*##[href^="http://blog.livedoor.jp/"]
 
-! 殿堂入り
+! 各所から名指しで転載禁止 殿堂入り
 blog.livedoor.jp,www.google.*##[href^="http://blog.esuteru.com/"]
 blog.livedoor.jp,www.google.*##[href^="http://hamusoku.com/"]
 blog.livedoor.jp,www.google.*##[href^="http://jin115.com/"]
@@ -19,7 +19,10 @@ blog.livedoor.jp,www.google.*##[href^="http://yaraon.blog109.fc2.com/"]
 ! 他
 blog.livedoor.jp,www.google.*##[href^="https://blog.hokanko-alt.com/"]
 blog.livedoor.jp,www.google.*##[href^="https://ch.nicovideo.jp/"]
+www.google.*##[href^="https://nlab.itmedia.co.jp/"]
 www.google.*##[href^="https://togetter.com/"]
+www.google.*##[href^="https://www.huffingtonpost.jp/"]
+www.google.*##[href^="https://www.pinterest.jp/"]
 
 ! ------ ドメインブロック ------ !
 ||blog.esuteru.com^$all
@@ -27,7 +30,10 @@ www.google.*##[href^="https://togetter.com/"]
 ||ch.nicovideo.jp^$all
 ||hamusoku.com^$all
 ||jin115.com^$all
+||nlab.itmedia.co.jp^$all
 ||togetter.com^$all
+||www.huffingtonpost.jp^$all
+||www.pinterest.jp^$all
 ||yaraon.blog109.fc2.com^$all
 |http://blog.livedoor.jp/dqnplus/$all
 |http://blog.livedoor.jp/news23vip/$all
