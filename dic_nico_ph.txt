@@ -1,6 +1,8 @@
 ! Title: ニコニコ大百科不要要素フィルタ(スマホ版)
 
 ! ------ 上部 ------ !
+! お知らせ
+dic.nicovideo.jp##^.tp-Info
 
 ! 検索窓下の急上昇ワード改
 dic.nicovideo.jp##^.st-Header_PushWord
