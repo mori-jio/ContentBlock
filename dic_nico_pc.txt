@@ -1,5 +1,13 @@
 ! Title: ニコニコ大百科不要要素フィルタ(PC版)
 
+! お知らせ
+!#if !env_firefox
+dic.nicovideo.jp##.oshirase
+!#endif
+!#if env_firefox
+dic.nicovideo.jp##^.oshirase
+!#endif
+
 ! 右側
 !#if !env_firefox
 dic.nicovideo.jp###right-column
