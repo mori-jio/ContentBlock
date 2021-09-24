@@ -15,6 +15,7 @@ w.atwiki.jp##.atwiki-tanuki-recommend
 !#endif
 !#if env_firefox
 w.atwiki.jp##^.atwiki-tanuki-recommend
+watch.impress.co.jp##^.social
 !#endif
 
 ||ad.pr.ameba.jp/tpc/list/$xmlhttprequest,important
