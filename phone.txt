@@ -16,6 +16,7 @@ dic.pixiv.net##^#inner_pixivcomic_touch
 dic.pixiv.net##^#inner_pixivnovel_touch
 dic.pixiv.net##^.pixivision-article-section
 omocoro.jp##^.social
+watch.impress.co.jp##^.special
 
 bnner_sp$image
 
