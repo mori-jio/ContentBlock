@@ -2,6 +2,10 @@
 ! Description: 個人的に不要な要素フィルタ
 
 ! 非表示
+nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register?"]
+nicovideo.jp##.common-header-6zywm
+watch.impress.co.jp##^.special
+watch.impress.co.jp##^.right.ad > aside.list.topics.ranking
 www.google.*###bres
 www.google.*##.AUiS2
 www.google.*##.Bhmw4
@@ -9,14 +13,11 @@ www.google.*##.UUbT9
 www.nicovideo.jp##.SeekBarHoverItem-hoverElement
 www.nicovideo.jp##.MainContainer-marquee
 www.youtube.com##.ytp-ce-covering-overlay
-nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register?"]
-nicovideo.jp##.common-header-6zywm
 
 ! ブロック
 ||parts.blog.livedoor.jp/img/*/icon_twitter.png|
 ||twimg.com^$domain=nicovideo.jp
 ||ext.live.nicovideo.jp/watch/lv$domain=www.nicovideo.jp
-||ilovemakingpics.com^$subdocument
 
 !#include comments_block.txt
 !#include dic_nico_pc.txt
