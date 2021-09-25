@@ -23,6 +23,7 @@ blog.livedoor.jp,www.google.*##[href^="https://news.nicovideo.jp/"]
 www.google.*##[href^="https://nlab.itmedia.co.jp/"]
 www.google.*##[href^="https://togetter.com/"]
 www.google.*##[href^="https://www.huffingtonpost.jp/"]
+www.google.*##[href^="https://www.j-cast.com/"]
 www.google.*##[href^="https://www.pinterest.jp/"]
 
 ! ------ ドメインブロック ------ !
@@ -35,6 +36,7 @@ www.google.*##[href^="https://www.pinterest.jp/"]
 ||nlab.itmedia.co.jp^$all
 ||togetter.com^$all
 ||www.huffingtonpost.jp^$all
+||www.j-cast.com^all
 ||www.pinterest.jp^$all
 ||yaraon.blog109.fc2.com^$all
 |http://blog.livedoor.jp/dqnplus/$all
