@@ -19,6 +19,7 @@ blog.livedoor.jp,www.google.*##[href^="http://yaraon.blog109.fc2.com/"]
 ! 他
 blog.livedoor.jp,www.google.*##[href^="https://blog.hokanko-alt.com/"]
 blog.livedoor.jp,www.google.*##[href^="https://ch.nicovideo.jp/"]
+blog.livedoor.jp,www.google.*##[href^="https://news.nicovideo.jp/"]
 www.google.*##[href^="https://nlab.itmedia.co.jp/"]
 www.google.*##[href^="https://togetter.com/"]
 www.google.*##[href^="https://www.huffingtonpost.jp/"]
@@ -28,6 +29,7 @@ www.google.*##[href^="https://www.pinterest.jp/"]
 ||blog.esuteru.com^$all
 ||blog.hokanko-alt.com^$all
 ||ch.nicovideo.jp^$all
+||news.nicovideo.jp^all
 ||hamusoku.com^$all
 ||jin115.com^$all
 ||nlab.itmedia.co.jp^$all
