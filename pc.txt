@@ -4,7 +4,6 @@
 ! 非表示
 nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register"]
 nicovideo.jp##.common-header-6zywm
-watch.impress.co.jp##^.special
 watch.impress.co.jp##^.right.ad > aside.list.topics.ranking
 www.google.*###bres
 www.google.*##.AUiS2
