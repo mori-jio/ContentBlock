@@ -15,7 +15,7 @@ dic.nicovideo.jp##^.sw-Article_Title-sns
 dic.nicovideo.jp##^.sw-Article_Menu
 
 ! 生放送
-||live2.nicovideo.jp^$domain=dic.nicovideo.jp
+dic.nicovideo.jp##^#dic_media_scrum_sp
 
 
 ! ------ 下部 -----!
