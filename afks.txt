@@ -50,6 +50,6 @@ www.google.*##[href^="https://www.pinterest.jp/"]
 www.google.*##[href^="https://dic.nicovideo.jp/"]
 www.google.*##[href^="https://dic.pixiv.net/"]
 www.google.*##[href^="https://w.atwiki.jp/aniwotawiki/"]
-||dic.nicovideo.jp^$all
-||dic.pixiv.net^$all
-|https://w.atwiki.jp/aniwotawiki/$all
+||dic.nicovideo.jp^$all,important
+||dic.pixiv.net^$all,important
+|https://w.atwiki.jp/aniwotawiki/$all,important
