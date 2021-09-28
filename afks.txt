@@ -41,3 +41,15 @@ www.google.*##[href^="https://www.pinterest.jp/"]
 ||yaraon.blog109.fc2.com^$all
 |http://blog.livedoor.jp/dqnplus/$all
 |http://blog.livedoor.jp/news23vip/$all
+
+
+
+
+
+! 一時的 作品ネタバレ防止
+www.google.*##[href^="https://dic.nicovideo.jp/"]
+www.google.*##[href^="https://dic.pixiv.net/"]
+www.google.*##[href^="https://w.atwiki.jp/aniwotawiki/"]
+||dic.nicovideo.jp^$all
+||dic.pixiv.net^$all
+|https://w.atwiki.jp/aniwotawiki/$all
