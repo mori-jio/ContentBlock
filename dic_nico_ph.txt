@@ -35,6 +35,8 @@ dic.nicovideo.jp##^.tp-PopularArticle
 ! 検索結果下のニコニ広告された記事
 dic.nicovideo.jp##^.sr-List_Nicoad
 
+||secure-dcdn.cdn.nimg.jp/nicocc/wakutkool/v2/*.png|
+
 ! ------------------------ もういらない？ ------------------------ !
 
 ! スマホで作られた新規記事
@@ -46,4 +48,3 @@ dic.nicovideo.jp##^.sr-List_Nicoad
 
 ! いろいろネットワークフィルタ
 !||dic.nicovideo.jp/img/icon_sns-*.svg|
-!||secure-dcdn.cdn.nimg.jp/nicocc/wakutkool/v2/*.png|
