@@ -39,6 +39,7 @@ www.google.*##[href^="https://www.pinterest.jp/"]
 ||www.j-cast.com^all
 ||www.pinterest.jp^$all
 ||yaraon.blog109.fc2.com^$all
+||yaraon-blog.com^$all
 |http://blog.livedoor.jp/dqnplus/$all
 |http://blog.livedoor.jp/news23vip/$all
 
