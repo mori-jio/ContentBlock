@@ -35,6 +35,7 @@ www.google.*##[href^="https://www.pinterest.jp/"]
 ||jin115.com^$all
 ||nlab.itmedia.co.jp^$all
 ||togetter.com^$all
+||twitter.com^$all
 ||www.huffingtonpost.jp^$all
 ||www.j-cast.com^all
 ||www.pinterest.jp^$all
