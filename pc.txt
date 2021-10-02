@@ -17,6 +17,7 @@ www.youtube.com##.ytp-ce-covering-overlay
 ||parts.blog.livedoor.jp/img/*/icon_twitter.png|
 ||twimg.com^$domain=nicovideo.jp
 ||ext.live.nicovideo.jp/watch/lv$domain=www.nicovideo.jp
+.com/review/*.jpg|$image,domain=www.techpowerup.com
 
 !#include comments_block.txt
 !#include dic_nico_pc.txt
