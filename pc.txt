@@ -9,6 +9,7 @@ www.google.*###bres
 www.google.*##.AUiS2
 www.google.*##.Bhmw4
 www.google.*##.UUbT9
+www.google.*##^.ULSxyf
 www.nicovideo.jp##.SeekBarHoverItem-hoverElement
 www.nicovideo.jp##.MainContainer-marquee
 www.youtube.com##.ytp-ce-covering-overlay
