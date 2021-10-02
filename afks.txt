@@ -1,8 +1,7 @@
 ! Title: afksフィルタ
 ! Description: 邪魔なまとめサイトのリンク除去＆ドメインブロック
 
-! ------ リンク除去 ------ !
-! ライブドア 5chまとめが多い
+! ------ リンク除去 google検索ではタップするまで見えるが ------ !
 blog.livedoor.jp,www.google.*##[href*=".2chblog.jp/"]
 blog.livedoor.jp,www.google.*##[href*=".blog.jp/"]
 blog.livedoor.jp,www.google.*##[href*=".doorblog.jp/"]
@@ -14,6 +13,7 @@ www.google.*##[href^="http://blog.livedoor.jp/"]
 blog.livedoor.jp,www.google.*##[href^="http://blog.esuteru.com/"]
 blog.livedoor.jp,www.google.*##[href^="http://hamusoku.com/"]
 blog.livedoor.jp,www.google.*##[href^="http://jin115.com/"]
+blog.livedoor.jp,www.google.*##[href^="http://yaraon-blog.com/"]
 blog.livedoor.jp,www.google.*##[href^="http://yaraon.blog109.fc2.com/"]
 
 ! 他
@@ -38,8 +38,8 @@ www.google.*##[href^="https://www.pinterest.jp/"]
 ||www.huffingtonpost.jp^$all
 ||www.j-cast.com^all
 ||www.pinterest.jp^$all
-||yaraon.blog109.fc2.com^$all
 ||yaraon-blog.com^$all
+||yaraon.blog109.fc2.com^$all
 |http://blog.livedoor.jp/dqnplus/$all
 |http://blog.livedoor.jp/news23vip/$all
 
@@ -48,9 +48,9 @@ www.google.*##[href^="https://www.pinterest.jp/"]
 
 
 ! 一時的 作品ネタバレ防止
-www.google.*##[href^="https://dic.nicovideo.jp/"]
-www.google.*##[href^="https://dic.pixiv.net/"]
-www.google.*##[href^="https://w.atwiki.jp/aniwotawiki/"]
+! www.google.*##[href^="https://dic.nicovideo.jp/"]
+! www.google.*##[href^="https://dic.pixiv.net/"]
+! www.google.*##[href^="https://w.atwiki.jp/aniwotawiki/"]
 ||dic.nicovideo.jp^$all,important
 ||dic.pixiv.net^$all,important
 |https://w.atwiki.jp/aniwotawiki/$all,important
