@@ -1,1 +1,17 @@
+! Title: モバイル用フィルタ
 
+*###lite_link
+*##.plugin-follow_buttons
+*##.plugin-popular_articles-new
+blog.livedoor.jp,doorblog.jp##.extlink.outside-border.blog-footer
+dic.pixiv.net##^#bottom_infobar_touch
+dic.pixiv.net##^#bottom_pixivcomic_touch
+dic.pixiv.net##^#bottom_spotlight_touch
+dic.pixiv.net##^#inner_pixivcomic_touch
+dic.pixiv.net##^#inner_pixivnovel_touch
+dic.pixiv.net##^.pixivision-article-section
+freesoft-100.com##^.header_banner
+freesoft-100.com##^#fadsban
+omocoro.jp##^.social
+
+bnner_sp$image
