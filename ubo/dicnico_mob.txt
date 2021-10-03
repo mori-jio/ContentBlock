@@ -1,40 +1,5 @@
-! Title: ニコニコ大百科不要要素フィルタ
+! Title: スマホ版ニコ百フィルタ
 
-! PC
-!#if !env_mobile
-! お知らせ
-!#if !env_firefox
-dic.nicovideo.jp##.oshirase
-!#endif
-!#if env_firefox
-dic.nicovideo.jp##^.oshirase
-!#endif
-
-! 右側
-!#if !env_firefox
-dic.nicovideo.jp###right-column
-!#endif
-!#if env_firefox
-dic.nicovideo.jp##^#right-column
-!#endif
-
-! ニコニ広告
-!#if !env_firefox
-dic.nicovideo.jp###nicoad_article_pc
-!#endif
-!#if env_firefox
-dic.nicovideo.jp##^#nicoad_article_pc
-!#endif
-
-! この記事はご覧のユーザの皆様が応援しています
-dic.nicovideo.jp##.a-nicoad_supporter_inner
-
-||dic.nicovideo.jp/img/icon_sns-*.svg|
-
-!#endif
-
-! スマートフォン版
-!#if env_mobile
 ! ------ 上部 ------ !
 ! お知らせ
 dic.nicovideo.jp##^#nicodic-oshirase
@@ -70,6 +35,8 @@ dic.nicovideo.jp##^.tp-PopularArticle
 ! 検索結果下のニコニ広告された記事
 dic.nicovideo.jp##^.sr-List_Nicoad
 
+||secure-dcdn.cdn.nimg.jp/nicocc/wakutkool/v2/*.png|
+
 ! ------------------------ もういらない？ ------------------------ !
 
 ! スマホで作られた新規記事
@@ -79,6 +46,5 @@ dic.nicovideo.jp##^.sr-List_Nicoad
 ! ポータルサイトリンク
 !dic.nicovideo.jp##.sw-Article_SubContents-portal-link
 
-!#endif
-
-||secure-dcdn.cdn.nimg.jp/nicocc/wakutkool/v2/*.png|
+! いろいろネットワークフィルタ
+!||dic.nicovideo.jp/img/icon_sns-*.svg|
