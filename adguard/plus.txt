@@ -1,2 +1,2 @@
-! Title: AdGuard追加フィルタ
+! Title: AdGuard Additional filters
 ||1.bp.blogspot.com^$image,domain=anitube.biz
