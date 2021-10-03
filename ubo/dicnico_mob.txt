@@ -1,1 +1,84 @@
+! Title: ニコニコ大百科不要要素フィルタ
 
+! PC
+!#if !env_mobile
+! お知らせ
+!#if !env_firefox
+dic.nicovideo.jp##.oshirase
+!#endif
+!#if env_firefox
+dic.nicovideo.jp##^.oshirase
+!#endif
+
+! 右側
+!#if !env_firefox
+dic.nicovideo.jp###right-column
+!#endif
+!#if env_firefox
+dic.nicovideo.jp##^#right-column
+!#endif
+
+! ニコニ広告
+!#if !env_firefox
+dic.nicovideo.jp###nicoad_article_pc
+!#endif
+!#if env_firefox
+dic.nicovideo.jp##^#nicoad_article_pc
+!#endif
+
+! この記事はご覧のユーザの皆様が応援しています
+dic.nicovideo.jp##.a-nicoad_supporter_inner
+
+||dic.nicovideo.jp/img/icon_sns-*.svg|
+
+!#endif
+
+! スマートフォン版
+!#if env_mobile
+! ------ 上部 ------ !
+! お知らせ
+dic.nicovideo.jp##^#nicodic-oshirase
+
+! 検索窓下の急上昇ワード改
+dic.nicovideo.jp##^.st-Header_PushWord
+ 
+! ほめられた数 SNSボタン など
+dic.nicovideo.jp##.sw-Article_Title-counters
+dic.nicovideo.jp##^.sw-Article_Title-sns
+
+! ほめる 広告する など
+dic.nicovideo.jp##^.sw-Article_Menu
+
+! 生放送
+dic.nicovideo.jp##^#dic_media_scrum_sp
+
+
+! ------ 下部 -----!
+! おすすめトレンド
+dic.nicovideo.jp##^[class="sw-Column tp-TrendWord"]
+
+! 急上昇ワード改
+dic.nicovideo.jp##^#sp-nicodic-hotwords
+dic.nicovideo.jp##^.sw-Article_SubContents-pushword
+
+! ニコニ広告された記事
+dic.nicovideo.jp##^#nicoad_article_sp
+
+! ほめられた記事
+dic.nicovideo.jp##^.tp-PopularArticle
+
+! 検索結果下のニコニ広告された記事
+dic.nicovideo.jp##^.sr-List_Nicoad
+
+! ------------------------ もういらない？ ------------------------ !
+
+! スマホで作られた新規記事
+!dic.nicovideo.jp##.sw-Article_SubContents-spnew
+!dic.nicovideo.jp##.sw-Column_List
+
+! ポータルサイトリンク
+!dic.nicovideo.jp##.sw-Article_SubContents-portal-link
+
+!#endif
+
+||secure-dcdn.cdn.nimg.jp/nicocc/wakutkool/v2/*.png|
