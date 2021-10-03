@@ -15,3 +15,5 @@ freesoft-100.com##^#fadsban
 omocoro.jp##^.social
 
 bnner_sp$image
+
+!#include plus.txt
