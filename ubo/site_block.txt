@@ -1,0 +1,59 @@
+! Title: サイトブロックフィルタ
+! Description: 邪魔な（と独断で判断した）サイトのリンク除去＆ドメインブロック
+
+! ------ リンク除去 ------ !
+! ライブドア系は5chまとめサイトが多い
+blog.livedoor.jp,www.google.*##[href*=".2chblog.jp/"]
+blog.livedoor.jp,www.google.*##[href*=".blog.jp/"]
+blog.livedoor.jp,www.google.*##[href*=".doorblog.jp/"]
+blog.livedoor.jp,www.google.*##[href*=".ldblog.jp/"]
+blog.livedoor.jp,www.google.*##[href*=".livedoor.biz"]
+www.google.*##[href^="http://blog.livedoor.jp/"]
+
+! 各所から名指しで転載禁止
+blog.livedoor.jp,www.google.*##[href^="http://blog.esuteru.com/"]
+blog.livedoor.jp,www.google.*##[href^="http://hamusoku.com/"]
+blog.livedoor.jp,www.google.*##[href^="http://jin115.com/"]
+blog.livedoor.jp,www.google.*##[href^="http://yaraon-blog.com/"]
+blog.livedoor.jp,www.google.*##[href^="http://yaraon.blog109.fc2.com/"]
+
+! 他
+blog.livedoor.jp,www.google.*##[href^="https://blog.hokanko-alt.com/"]
+blog.livedoor.jp,www.google.*##[href^="https://ch.nicovideo.jp/"]
+blog.livedoor.jp,www.google.*##[href^="https://news.nicovideo.jp/"]
+www.google.*##[href^="https://girlschannel.net/"]
+www.google.*##[href^="https://nlab.itmedia.co.jp/"]
+www.google.*##[href^="https://togetter.com/"]
+www.google.*##[href^="https://www.huffingtonpost.jp/"]
+www.google.*##[href^="https://www.j-cast.com/"]
+www.google.*##[href^="https://www.pinterest.jp/"]
+
+! ------ ドメインブロック ------ !
+||blog.esuteru.com^$all
+||blog.hokanko-alt.com^$all
+||ch.nicovideo.jp^$all
+||girlschannel.net^$all
+||hamusoku.com^$all
+||jin115.com^$all
+||news.nicovideo.jp^all
+||nlab.itmedia.co.jp^$all
+||togetter.com^$all
+||twitter.com^$doc
+||www.huffingtonpost.jp^$all
+||www.j-cast.com^all
+||www.pinterest.jp^$all
+||yaraon-blog.com^$all
+||yaraon.blog109.fc2.com^$all
+|http://blog.livedoor.jp/dqnplus/$all
+|http://blog.livedoor.jp/news23vip/$all
+
+
+
+
+! 一時的 作品のネタバレに繋がりやすいため
+www.google.*##[href^="https://dic.nicovideo.jp/"]
+www.google.*##[href^="https://dic.pixiv.net/"]
+www.google.*##[href^="https://w.atwiki.jp/aniwotawiki/"]
+||dic.nicovideo.jp^$all,important
+||dic.pixiv.net^$all,important
+|https://w.atwiki.jp/aniwotawiki/$all,important
