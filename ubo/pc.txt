@@ -19,5 +19,6 @@ www.youtube.com##.ytp-ce-covering-overlay
 ||twimg.com^$domain=nicovideo.jp
 ||ext.live.nicovideo.jp/watch/lv$domain=www.nicovideo.jp
 
+!#include comments_block.txt
 !#include dicnico_pc.txt
 !#include plus.txt
