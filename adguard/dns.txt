@@ -1,2 +1,4 @@
 ! Title: AdGuard for Android DNS用追加フィルタ
+||duckdns.org^
+||lucky4wins.club^
 @@||google-analytics.com^
