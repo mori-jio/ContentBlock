@@ -5,12 +5,14 @@ nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register"]
 nicovideo.jp##.common-header-6zywm
 watch.impress.co.jp##^.right.ad > aside.list.topics.ranking
 watch.impress.co.jp##^.special.list.topics
-www.google.*###bres
-www.google.*##.AUiS2
-www.google.*##.Bhmw4
-www.google.*##.UUbT9
-www.google.*##.ULSxyf
-www.google.*##^.ULSxyf
+www.google.co.jp,www.google.com###bres
+www.google.co.jp,www.google.com##.AUiS2
+www.google.co.jp,www.google.com##.Bhmw4
+www.google.co.jp,www.google.com##.UUbT9
+www.google.co.jp,www.google.com##.ULSxyf
+!#if env_firefox
+www.google.co.jp,www.google.com##^.ULSxyf
+!#endif
 www.nicovideo.jp##.SeekBarHoverItem-hoverElement
 www.nicovideo.jp##.MainContainer-marquee
 www.youtube.com##.ytp-ce-covering-overlay
