@@ -11,10 +11,8 @@
 127.0.0.1 api.uca.cloud.unity3d.com
 127.0.0.1 app-gt.com
 127.0.0.1 app.adjust.world
-127.0.0.1 app.mmate.jp
 127.0.0.1 auction.unityads.unity3d.com
 127.0.0.1 auiopt.unityads.unity3d.com
-127.0.0.1 baibai.co.jp
 127.0.0.1 bc2.fivecdm.com
 127.0.0.1 beacons3.gvt2.com
 127.0.0.1 bidder.criteo.com
