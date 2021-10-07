@@ -65,4 +65,3 @@
 127.0.0.1 wd.adcolony.com
 127.0.0.1 web.facebook.com
 127.0.0.1 ws.tapjoyads.com
-127.0.0.1 www.fstopapp.com
