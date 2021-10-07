@@ -1,6 +1,4 @@
 127.0.0.1 a.appbaqend.com
-127.0.0.1 aax-fe-sin.amazon-adsystem.com
-127.0.0.1 aax-fe.amazon-adsystem.com
 127.0.0.1 ad2.fivecdm.com
 127.0.0.1 ad2.nend.net
 127.0.0.1 adc-ad-assets.adtilt.com
