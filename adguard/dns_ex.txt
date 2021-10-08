@@ -1,4 +1,5 @@
 ! Title: AdGuard for Android DNS用実験フィルタ
 ||byteoversea.com^
 ||graph.facebook.com^
+||web.facebook.com^
 @@||google-analytics.com^
