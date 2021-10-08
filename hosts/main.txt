@@ -33,7 +33,6 @@
 127.0.0.1 events3.adcolony.com
 127.0.0.1 events3alt.adcolony.com
 127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 graph.facebook.com
 127.0.0.1 gum.criteo.com
 127.0.0.1 gv1.xdrig.com
 127.0.0.1 httpkafka.unityads.unity3d.com
@@ -63,5 +62,4 @@
 127.0.0.1 userreporting.cloud.unity3d.com
 127.0.0.1 v16-ad.byteoversea.com
 127.0.0.1 wd.adcolony.com
-127.0.0.1 web.facebook.com
 127.0.0.1 ws.tapjoyads.com
