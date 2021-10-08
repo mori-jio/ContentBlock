@@ -16,7 +16,6 @@
 127.0.0.1 bc2.fivecdm.com
 127.0.0.1 beacons3.gvt2.com
 127.0.0.1 bidder.criteo.com
-127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 c4d-cdn.adcolony.com
 127.0.0.1 cdn-creatives-akamaistls-prd.unityads.unity3d.com
 127.0.0.1 cdn-store-icons-akamai-prd.unityads.unity3d.com
@@ -39,7 +38,6 @@
 127.0.0.1 img1.nend.net
 127.0.0.1 init.supersonicads.com
 127.0.0.1 js1.nend.net
-127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 127.0.0.1 outcome-ssp.supersonicads.com
 127.0.0.1 output.nend.net
