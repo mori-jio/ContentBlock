@@ -1,9 +1,9 @@
-aax-fe-sin.amazon-adsystem.com
-aax-fe.amazon-adsystem.com
-c.amazon-adsystem.com
-graph.facebook.com
-mads.amazon-adsystem.com
-web.facebook.com
-app.mmate.jp
-baibai.co.jp
-www.fstopapp.com
+127.0.0.1 aax-fe-sin.amazon-adsystem.com
+127.0.0.1 aax-fe.amazon-adsystem.com
+127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 graph.facebook.com
+127.0.0.1 mads.amazon-adsystem.com
+127.0.0.1 web.facebook.com
+127.0.0.1 app.mmate.jp
+127.0.0.1 baibai.co.jp
+127.0.0.1 www.fstopapp.com
