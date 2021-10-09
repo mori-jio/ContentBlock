@@ -1,7 +1,9 @@
 ! Title: AdGuard for Android DNS用追加フィルタ
+||ads.yap.yahoo.com^
 ||duckdns.org^
 ||erienceands.biz^
 ||graph.facebook.com^
+||im.ov.yahoo.co.jp^
 ||lucky4wins.club^
 ||v16-ad.byteoversea.com^
 ||yourwownews.com^
