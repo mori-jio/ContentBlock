@@ -61,3 +61,8 @@
 127.0.0.1 v16-ad.byteoversea.com
 127.0.0.1 wd.adcolony.com
 127.0.0.1 ws.tapjoyads.com
+127.0.0.1 aag.yahooapis.jp
+127.0.0.1 logql.yahoo.co.jp
+127.0.0.1 s.yjtag.jp
+127.0.0.1 b92.yahoo.co.jp
+127.0.0.1 secure.rat.rakuten.co.jp
