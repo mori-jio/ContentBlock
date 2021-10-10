@@ -12,7 +12,6 @@ dic.pixiv.net##^#inner_pixivnovel_touch
 dic.pixiv.net##^.pixivision-article-section
 freesoft-100.com##^.header_banner
 freesoft-100.com##^#fadsban
-omocoro.jp##^.social
 
 bnner_sp$image
 
