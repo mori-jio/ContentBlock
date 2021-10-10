@@ -16,6 +16,7 @@ w.atwiki.jp##.atwiki-tanuki-recommend
 ||watch.impress.co.jp/img/watch/parts/icon/twitter.svg
 !#endif
 !#if env_firefox
+omocoro.jp##^.social
 w.atwiki.jp##^.atwiki-tanuki-recommend
 watch.impress.co.jp,~www.watch.impress.co.jp##^.social
 www.watch.impress.co.jp##^.social2
