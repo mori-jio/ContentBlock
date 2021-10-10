@@ -1,4 +1,5 @@
 127.0.0.1 a.appbaqend.com
+127.0.0.1 aag.yahooapis.jp
 127.0.0.1 ad2.fivecdm.com
 127.0.0.1 ad2.nend.net
 127.0.0.1 adc-ad-assets.adtilt.com
@@ -13,6 +14,7 @@
 127.0.0.1 app.adjust.world
 127.0.0.1 auction.unityads.unity3d.com
 127.0.0.1 auiopt.unityads.unity3d.com
+127.0.0.1 b92.yahoo.co.jp
 127.0.0.1 bc2.fivecdm.com
 127.0.0.1 beacons3.gvt2.com
 127.0.0.1 bidder.criteo.com
@@ -38,6 +40,7 @@
 127.0.0.1 img1.nend.net
 127.0.0.1 init.supersonicads.com
 127.0.0.1 js1.nend.net
+127.0.0.1 logql.yahoo.co.jp
 127.0.0.1 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 127.0.0.1 outcome-ssp.supersonicads.com
 127.0.0.1 output.nend.net
@@ -52,6 +55,8 @@
 127.0.0.1 publisher-config.unityads.unity3d.com
 127.0.0.1 publisher-event.ads.prd.ie.internal.unity3d.com
 127.0.0.1 rpc.tapjoy.com
+127.0.0.1 s.yjtag.jp
+127.0.0.1 secure.rat.rakuten.co.jp
 127.0.0.1 thind-gke-euw.prd.data.corp.unity3d.com
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 track.tenjin.com
@@ -61,8 +66,17 @@
 127.0.0.1 v16-ad.byteoversea.com
 127.0.0.1 wd.adcolony.com
 127.0.0.1 ws.tapjoyads.com
-127.0.0.1 aag.yahooapis.jp
-127.0.0.1 logql.yahoo.co.jp
-127.0.0.1 s.yjtag.jp
-127.0.0.1 b92.yahoo.co.jp
-127.0.0.1 secure.rat.rakuten.co.jp
+127.0.0.1 tls.telemetry.swe.quicinc.com
+127.0.0.1 beacons.gvt2.com
+127.0.0.1 adc3-launch.adcolony.com
+127.0.0.1 a.applovin.com
+127.0.0.1 d.applovin.com
+127.0.0.1 img.applovin.com
+127.0.0.1 ms.applovin.com
+127.0.0.1 pdn.applovin.com
+127.0.0.1 assets.applovin.com
+127.0.0.1 res1.applovin.com
+127.0.0.1 rt.applovin.com
+127.0.0.1 beacons4.gvt2.com
+127.0.0.1 hv.adingo.jp
+127.0.0.1 sh.adingo.jp
