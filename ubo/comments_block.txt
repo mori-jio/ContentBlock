@@ -12,8 +12,10 @@ blog.fc2.com##.thread
 
 ! wikiwiki
 !#if !env_firefox
-wikiwiki.jp##.trolling-defence-check-on-submission.prevent-repeated-submission
+wikiwiki.jp##.pcomment-form-placeholder
 !#endif
+!if !env_mobile
 !#if env_firefox
-wikiwiki.jp##^.trolling-defence-check-on-submission.prevent-repeated-submission
+wikiwiki.jp##^.pcomment-form-placeholder
+!#endif
 !#endif
