@@ -12,7 +12,7 @@ www.google.co.jp,www.google.com##.UUbT9
 www.google.co.jp,www.google.com##.ULSxyf
 !#if env_firefox
 omocoro.jp##^.facebook
-omocoro.jp##^.hatena
+omocoro.jp##^.hatena > .sns-button
 omocoro.jp##^.horizon.sns-buttons > .twitter
 www.google.co.jp,www.google.com##^.ULSxyf
 !#endif
