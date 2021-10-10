@@ -15,7 +15,6 @@ www.google.co.jp,www.google.com##^.ULSxyf
 !#endif
 www.nicovideo.jp##.SeekBarHoverItem-hoverElement
 www.nicovideo.jp##.MainContainer-marquee
-www.youtube.com##.ytp-ce-covering-overlay
 
 ! ブロック
 ||parts.blog.livedoor.jp/img/*/icon_twitter.png|
