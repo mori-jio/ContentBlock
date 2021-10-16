@@ -12,6 +12,7 @@ dic.pixiv.net##^#inner_pixivnovel_touch
 dic.pixiv.net##^.pixivision-article-section
 freesoft-100.com##^.header_banner
 freesoft-100.com##^#fadsban
+watch.impress.co.jp###floating-social-buttons
 
 bnner_sp$image
 
