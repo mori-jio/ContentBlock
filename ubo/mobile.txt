@@ -14,7 +14,10 @@ freesoft-100.com##^.header_banner
 freesoft-100.com##^#fadsban
 watch.impress.co.jp###floating-social-buttons
 
+||adwnh.com
 bnner_sp$image
+
+@@||api.twitter.com^$doc
 
 !#include comments_block.txt
 !#include dicnico_mob.txt
