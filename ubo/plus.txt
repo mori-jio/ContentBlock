@@ -10,12 +10,14 @@ kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news4vip/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
 !#if !env_firefox
+dic.pixiv.net###sub
 w.atwiki.jp##.atwiki-tanuki-recommend
 ||watch.impress.co.jp/img/watch/parts/icon/facebook.svg
 ||watch.impress.co.jp/img/watch/parts/icon/rss.svg
 ||watch.impress.co.jp/img/watch/parts/icon/twitter.svg
 !#endif
 !#if env_firefox
+dic.pixiv.net##^#sub
 omocoro.jp##^.social
 w.atwiki.jp##^.atwiki-tanuki-recommend
 watch.impress.co.jp,~www.watch.impress.co.jp##^.social
