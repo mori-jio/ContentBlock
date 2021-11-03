@@ -36,7 +36,6 @@ www.watch.impress.co.jp##^.social2
 ||watch.impress.co.jp^*/special-sites
 ||tanukimatome.jp^$domain=w.atwiki.jp
 ||geolog.mydns.jp/bc-geocities.yahoo.co.jp/js/notifier.html
-||tpucdn.com/review/$image,domain=www.techpowerup.com
 /_/json/ranking_
 recommend$domain=nicovideo.jp
 
