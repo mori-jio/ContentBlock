@@ -11,6 +11,9 @@ m.youtube.com##ytm-comments-entry-point-header-renderer
 ! fc2ブログ
 blog.fc2.com##.thread
 
+! ライブドア
+blog.livedoor.jp,blog.jp##^#comments
+
 ! wikiwiki
 !#if !env_firefox
 wikiwiki.jp##.pcomment-form-placeholder
