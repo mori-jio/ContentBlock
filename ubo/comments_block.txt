@@ -12,7 +12,12 @@ m.youtube.com##ytm-comments-entry-point-header-renderer
 blog.fc2.com##.thread
 
 ! ライブドア
+!#if !env_firefox
+blog.livedoor.jp,blog.jp###comments
+!#endif
+!#if env_firefox
 blog.livedoor.jp,blog.jp##^#comments
+!#endif
 
 ! wikiwiki
 !#if !env_firefox
