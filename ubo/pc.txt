@@ -14,6 +14,7 @@ www.google.co.jp,www.google.com##.ULSxyf
 omocoro.jp##^.facebook
 omocoro.jp##^.hatena > .sns-button
 omocoro.jp##^.horizon.sns-buttons > .twitter
+w.atwiki.jp##^.atwiki-tanuki-recommend
 www.google.co.jp,www.google.com##^.ULSxyf
 !#endif
 www.nicovideo.jp##.SeekBarHoverItem-hoverElement
