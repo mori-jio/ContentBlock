@@ -2,7 +2,7 @@
 ! Description: 各サイトのコメントをブロックまたは非表示にする
 
 ! YouTube（PC，モバイル）
-www.youtube.com###sections
+www.youtube.com##.ytd-comments.style-scope
 m.youtube.com##ytm-comments-entry-point-header-renderer
 
 ! Yahoo!ニュース
