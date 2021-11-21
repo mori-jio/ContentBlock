@@ -13,6 +13,7 @@ dic.pixiv.net##^.pixivision-article-section
 freesoft-100.com##^.header_banner
 freesoft-100.com##^#fadsban
 w.atwiki.jp##^#tanuki-list
+w.atwiki.jp##^.atwiki-sp-only.atwiki-anchor
 watch.impress.co.jp###floating-social-buttons
 
 ||adwnh.com^
