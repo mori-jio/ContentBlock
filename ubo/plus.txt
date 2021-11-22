@@ -12,6 +12,7 @@ duckduckgo.com,swisscows.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read
 duckduckgo.com,swisscows.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
 !#if !env_firefox
 dic.pixiv.net###sub
+omocoro.jp##.social
 ||watch.impress.co.jp/img/watch/parts/icon/facebook.svg
 ||watch.impress.co.jp/img/watch/parts/icon/rss.svg
 ||watch.impress.co.jp/img/watch/parts/icon/twitter.svg
