@@ -1,6 +1,9 @@
 ! Title: スマホ版ニコ百フィルタ
 
 ! ------ 上部 ------ !
+! 広告枠
+dic.nicovideo.jp##^.st-Header_Ad
+
 ! お知らせ
 dic.nicovideo.jp##^#nicodic-oshirase
 
