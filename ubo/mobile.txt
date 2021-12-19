@@ -16,7 +16,6 @@ w.atwiki.jp##^#tanuki-list
 w.atwiki.jp##^.atwiki-sp-only.atwiki-anchor
 watch.impress.co.jp###floating-social-buttons
 
-||adwnh.com^
 bnner_sp$image
 
 @@||api.twitter.com^$doc
