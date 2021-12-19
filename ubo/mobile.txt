@@ -10,8 +10,10 @@ dic.pixiv.net##^#bottom_spotlight_touch
 dic.pixiv.net##^#inner_pixivcomic_touch
 dic.pixiv.net##^#inner_pixivnovel_touch
 dic.pixiv.net##^.pixivision-article-section
+fc2.com##^.ad_footer
 freesoft-100.com##^.header_banner
 freesoft-100.com##^#fadsban
+w.atwiki.jp##^.atwiki-tanuki-list.atwiki-link-list
 w.atwiki.jp##^#tanuki-list
 w.atwiki.jp##^.atwiki-sp-only.atwiki-anchor
 watch.impress.co.jp###floating-social-buttons
