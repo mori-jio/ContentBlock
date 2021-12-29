@@ -16,6 +16,11 @@ freesoft-100.com##^#fadsban
 w.atwiki.jp##^.atwiki-tanuki-list.atwiki-link-list
 w.atwiki.jp##^#tanuki-list
 w.atwiki.jp##^.atwiki-sp-only.atwiki-anchor
+w.atwiki.jp##^.atwiki-list-title
+w.atwiki.jp##^#page-ranking-list
+w.atwiki.jp##^.atwiki-recent-list
+w.atwiki.jp##^#wiki-ranking-list
+w.atwiki.jp##^#newer_ranking_list
 watch.impress.co.jp###floating-social-buttons
 
 bnner_sp$image
