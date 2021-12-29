@@ -55,9 +55,9 @@ www.google.*##[href^="https://www.pinterest.jp/"]
 
 
 ! 一時的 作品のネタバレに繋がりやすいため
-www.google.*##[href^="https://dic.nicovideo.jp/"]
-www.google.*##[href^="https://dic.pixiv.net/"]
-www.google.*##[href^="https://w.atwiki.jp/aniwotawiki/"]
+！www.google.*##[href^="https://dic.nicovideo.jp/"]
+! www.google.*##[href^="https://dic.pixiv.net/"]
+! www.google.*##[href^="https://w.atwiki.jp/aniwotawiki/"]
 ||dic.nicovideo.jp^$all,important
 ||dic.pixiv.net^$all,important
-|https://w.atwiki.jp/aniwotawiki/$all,important
+! |https://w.atwiki.jp/aniwotawiki/$all,important
