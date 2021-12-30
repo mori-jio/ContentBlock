@@ -25,12 +25,12 @@ blog.livedoor.jp,www.google.*##[href^="http://yaraon.blog109.fc2.com/"]
 blog.livedoor.jp,www.google.*##[href^="https://blog.hokanko-alt.com/"]
 blog.livedoor.jp,www.google.*##[href^="https://ch.nicovideo.jp/"]
 blog.livedoor.jp,www.google.*##[href^="https://news.nicovideo.jp/"]
-www.google.*##[href^="https://girlschannel.net/"]
-www.google.*##[href^="https://nlab.itmedia.co.jp/"]
-www.google.*##[href^="https://togetter.com/"]
-www.google.*##[href^="https://www.huffingtonpost.jp/"]
-www.google.*##[href^="https://www.j-cast.com/"]
-www.google.*##[href^="https://www.pinterest.jp/"]
+duckduckgo.com,www.google.*##[href^="https://girlschannel.net/"]
+duckduckgo.com,www.google.*##[href^="https://nlab.itmedia.co.jp/"]
+duckduckgo.com,www.google.*##[href^="https://togetter.com/"]
+duckduckgo.com,www.google.*##[href^="https://www.huffingtonpost.jp/"]
+duckduckgo.com,www.google.*##[href^="https://www.j-cast.com/"]
+duckduckgo.com,www.google.*##[href^="https://www.pinterest.jp/"]
 
 ! ------ ドメインブロック ------ !
 ||blog.esuteru.com^$all
@@ -55,9 +55,9 @@ www.google.*##[href^="https://www.pinterest.jp/"]
 
 
 ! 一時的 作品のネタバレに繋がりやすいため
-！www.google.*##[href^="https://dic.nicovideo.jp/"]
-! www.google.*##[href^="https://dic.pixiv.net/"]
-! www.google.*##[href^="https://w.atwiki.jp/aniwotawiki/"]
-||dic.nicovideo.jp^$all,important
-||dic.pixiv.net^$all,important
+duckduckgo.com,www.google.*##[href^="https://dic.nicovideo.jp/"]
+duckduckgo.com,www.google.*##[href^="https://dic.pixiv.net/"]
+duckduckgo.com,www.google.*##[href^="https://w.atwiki.jp/aniwotawiki/"]
+! ||dic.nicovideo.jp^$all,important
+! ||dic.pixiv.net^$all,important
 ! |https://w.atwiki.jp/aniwotawiki/$all,important
