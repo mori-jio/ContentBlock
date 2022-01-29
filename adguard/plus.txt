@@ -1,2 +1,3 @@
 ! Title: AdGuard Additional filters
-||1.bp.blogspot.com^$image,domain=anitube.biz
+www.anitube.biz##.left [href^="https://erogames.com/"]
+erogames_jp_900x250.gif$domain=www.anitube.biz
