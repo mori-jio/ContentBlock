@@ -40,4 +40,5 @@ www.watch.impress.co.jp##^.social2
 recommend$domain=nicovideo.jp
 
 ! 例外
-@@||atwiki.jp/common/*/spacer.gif$image,domain=atwiki.jp
+! @@||atwiki.jp/common/*/spacer.gif$image,domain=atwiki.jp
+@@||www.nittsu.com/Tracking/Scripts/Tracking/track.js$script,domain=www.nittsu.com
