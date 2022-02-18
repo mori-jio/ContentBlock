@@ -1,3 +1,1 @@
 ! Title: AdGuard Additional filters
-www.anitube.biz##.left [href^="https://erogames.com/"]
-erogames_jp_900x250.gif$domain=www.anitube.biz
