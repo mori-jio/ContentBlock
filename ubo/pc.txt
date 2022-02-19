@@ -1,20 +1,26 @@
 ! Title: PC用フィルタ
 
+! ブロック
+||parts.blog.livedoor.jp/img/*/icon_twitter.png|
+||twimg.com^$domain=nicovideo.jp
+||ext.live.nicovideo.jp/watch/lv$domain=www.nicovideo.jp
+||watch.impress.co.jp/include/auto/wf/ranking/$xhr,1p
+
 ! 非表示
 nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register"]
 nicovideo.jp##.common-header-6zywm
-www.google.co.jp,www.google.com###bres
-www.google.co.jp,www.google.com##.AUiS2
-www.google.co.jp,www.google.com##.Bhmw4
-www.google.co.jp,www.google.com##.UUbT9
-www.google.co.jp,www.google.com##.ULSxyf
+!www.google.co.jp,www.google.com###bres
+!www.google.co.jp,www.google.com##.AUiS2
+!www.google.co.jp,www.google.com##.Bhmw4
 !#if !env_firefox
 omocoro.jp##.facebook
 omocoro.jp##.hatena > .sns-button
 omocoro.jp##.horizon.sns-buttons > .twitter
 w.atwiki.jp##.atwiki-tanuki-recommend
-watch.impress.co.jp##.right.ad > aside.list.topics.ranking
-watch.impress.co.jp##.special.list.topics
+watch.impress.co.jp##^.right.ad
+watch.impress.co.jp##^.list.topics.recommend
+www.google.co.jp,www.google.com##.UUbT9
+www.google.co.jp,www.google.com##.ULSxyf
 !#endif
 !#if env_firefox
 omocoro.jp##^.facebook
@@ -23,14 +29,9 @@ omocoro.jp##^.horizon.sns-buttons > .twitter
 w.atwiki.jp##^.atwiki-tanuki-recommend
 watch.impress.co.jp##^.right.ad > aside.list.topics.ranking
 watch.impress.co.jp##^.special.list.topics
+www.google.co.jp,www.google.com##^.UUbT9
 www.google.co.jp,www.google.com##^.ULSxyf
 !#endif
-www.nicovideo.jp##.SeekBarHoverItem-hoverElement
-
-! ブロック
-||parts.blog.livedoor.jp/img/*/icon_twitter.png|
-||twimg.com^$domain=nicovideo.jp
-||ext.live.nicovideo.jp/watch/lv$domain=www.nicovideo.jp
 
 ! 例外
 omocoro.jp#@#.fixed-social
