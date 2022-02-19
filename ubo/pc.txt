@@ -13,22 +13,22 @@ nicovideo.jp##.common-header-6zywm
 !www.google.co.jp,www.google.com##.AUiS2
 !www.google.co.jp,www.google.com##.Bhmw4
 !#if !env_firefox
+omocoro.jp##.fixed-social
+omocoro.jp##.social
+w.atwiki.jp###tanuki-list
+w.atwiki.jp##.atwiki-tanuki-recommend
+watch.impress.co.jp##.list.topics.recommend
+watch.impress.co.jp##.right.ad
+www.google.co.jp,www.google.com##.UUbT9
+www.google.co.jp,www.google.com##.ULSxyf
+!#endif
+!#if env_firefox
 omocoro.jp##^.fixed-social
 omocoro.jp##^.social
 w.atwiki.jp##^#tanuki-list
 w.atwiki.jp##^.atwiki-tanuki-recommend
 watch.impress.co.jp##^.list.topics.recommend
 watch.impress.co.jp##^.right.ad
-www.google.co.jp,www.google.com##.UUbT9
-www.google.co.jp,www.google.com##.ULSxyf
-!#endif
-!#if env_firefox
-omocoro.jp##^.facebook
-omocoro.jp##^.hatena > .sns-button
-omocoro.jp##^.horizon.sns-buttons > .twitter
-w.atwiki.jp##^.atwiki-tanuki-recommend
-watch.impress.co.jp##^.right.ad > aside.list.topics.ranking
-watch.impress.co.jp##^.special.list.topics
 www.google.co.jp,www.google.com##^.UUbT9
 www.google.co.jp,www.google.com##^.ULSxyf
 !#endif
