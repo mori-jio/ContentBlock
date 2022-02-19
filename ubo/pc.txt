@@ -33,8 +33,6 @@ www.google.co.jp,www.google.com##^.UUbT9
 www.google.co.jp,www.google.com##^.ULSxyf
 !#endif
 
-! 例外
-omocoro.jp#@#.fixed-social
 
 !#include comments_block.txt
 !#include dicnico_pc.txt
