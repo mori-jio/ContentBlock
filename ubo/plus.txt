@@ -36,6 +36,3 @@ www.watch.impress.co.jp##^.social2
 ||geolog.mydns.jp/bc-geocities.yahoo.co.jp/js/notifier.html
 /_/json/ranking_
 recommend$domain=nicovideo.jp
-
-! 例外
-@@||www.nittsu.com/Tracking/Scripts/Tracking/track.js$script,domain=www.nittsu.com
