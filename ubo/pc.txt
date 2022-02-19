@@ -26,7 +26,6 @@ watch.impress.co.jp##^.special.list.topics
 www.google.co.jp,www.google.com##^.ULSxyf
 !#endif
 www.nicovideo.jp##.SeekBarHoverItem-hoverElement
-www.nicovideo.jp##.MainContainer-marquee
 
 ! ブロック
 ||parts.blog.livedoor.jp/img/*/icon_twitter.png|
