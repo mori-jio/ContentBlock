@@ -28,4 +28,3 @@ dic.nicovideo.jp##^#nicoad_article_pc
 dic.nicovideo.jp##.a-nicoad_supporter_inner
 
 ||dic.nicovideo.jp/img/icon_sns-*.svg|
-||secure-dcdn.cdn.nimg.jp/nicocc/wakutkool/v2/*.png|
