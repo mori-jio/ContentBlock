@@ -1,8 +1,6 @@
 ! Title: スマホ版ニコ百フィルタ
 
 ! ------ 上部 ------ !
-! 広告枠
-dic.nicovideo.jp##^.st-Header_Ad
 
 ! お知らせ
 dic.nicovideo.jp##^#nicodic-oshirase
@@ -37,8 +35,6 @@ dic.nicovideo.jp##^.tp-PopularArticle
 
 ! 検索結果下のニコニ広告された記事
 dic.nicovideo.jp##^.sr-List_Nicoad
-
-||secure-dcdn.cdn.nimg.jp/nicocc/wakutkool/v2/*.png|
 
 ! ------------------------ もういらない？ ------------------------ !
 
