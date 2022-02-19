@@ -6,6 +6,7 @@
 127.0.0.1 adchk.fivecdm.com
 127.0.0.1 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 127.0.0.1 ads-game-configuration.unityads.unity3d.com
+127.0.0.1 ads.mopub.com
 127.0.0.1 adx.g.doubleclick.net
 127.0.0.1 analytics.cloud.unity3d.com
 127.0.0.1 androidads4-5.adcolony.com
