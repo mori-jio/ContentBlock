@@ -47,6 +47,7 @@
 127.0.0.1 gv1.xdrig.com
 127.0.0.1 httpkafka.unityads.unity3d.com
 127.0.0.1 hv.adingo.jp
+127.0.0.1 i.adingo.jp
 127.0.0.1 img.applovin.com
 127.0.0.1 img1.nend.net
 127.0.0.1 init.supersonicads.com
