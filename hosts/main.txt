@@ -52,6 +52,7 @@
 127.0.0.1 img1.nend.net
 127.0.0.1 init.supersonicads.com
 127.0.0.1 js1.nend.net
+127.0.0.1 launches.appsflyer.com
 127.0.0.1 logql.yahoo.co.jp
 127.0.0.1 ms.applovin.com
 127.0.0.1 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
