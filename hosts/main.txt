@@ -14,6 +14,7 @@
 127.0.0.1 analytics.cloud.unity3d.com
 127.0.0.1 androidads4-5.adcolony.com
 127.0.0.1 api.uca.cloud.unity3d.com
+127.0.0.1 api16-log-sg.pangle.io
 127.0.0.1 app-gt.com
 127.0.0.1 app.adjust.world
 127.0.0.1 assets.applovin.com
@@ -29,7 +30,9 @@
 127.0.0.1 cdn-creatives-akamaistls-prd.unityads.unity3d.com
 127.0.0.1 cdn-store-icons-akamai-prd.unityads.unity3d.com
 127.0.0.1 cdn.fivecdm.com
+127.0.0.1 cdn.liftoff.io
 127.0.0.1 cdp.cloud.unity3d.com
+127.0.0.1 click.liftoff.io
 127.0.0.1 cloud.xdrig.com
 127.0.0.1 config.uca.cloud.unity3d.com
 127.0.0.1 config.unityads.unity3d.com
@@ -50,11 +53,14 @@
 127.0.0.1 i.adingo.jp
 127.0.0.1 img.applovin.com
 127.0.0.1 img1.nend.net
+127.0.0.1 impression-asia.liftoff.io
+127.0.0.1 impression.appsflyer.com
 127.0.0.1 init.supersonicads.com
 127.0.0.1 js1.nend.net
 127.0.0.1 launches.appsflyer.com
 127.0.0.1 logql.yahoo.co.jp
 127.0.0.1 ms.applovin.com
+127.0.0.1 ms4.applovin.com
 127.0.0.1 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 127.0.0.1 outcome-ssp.supersonicads.com
 127.0.0.1 output.nend.net
@@ -65,6 +71,8 @@
 127.0.0.1 perf-events.cloud.unity3d.com
 127.0.0.1 placements.tapjoy.com
 127.0.0.1 pm-gateway.supersonicads.com
+127.0.0.1 prod-a.applovin.com
+127.0.0.1 prod-ms.applovin.com
 127.0.0.1 pub-sdk-cfg.criteo.com
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 publisher-config.unityads.unity3d.com
@@ -74,8 +82,10 @@
 127.0.0.1 rpc.tapjoy.com
 127.0.0.1 rt.applovin.com
 127.0.0.1 s.yjtag.jp
+127.0.0.1 s2s.adjust.com
 127.0.0.1 secure.rat.rakuten.co.jp
 127.0.0.1 sh.adingo.jp
+127.0.0.1 telemetry.sdk.inmobi.com
 127.0.0.1 thind-gke-euw.prd.data.corp.unity3d.com
 127.0.0.1 tls.telemetry.swe.quicinc.com
 127.0.0.1 tpc.googlesyndication.com
