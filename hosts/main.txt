@@ -108,7 +108,6 @@
 127.0.0.1 unityads.unity3d.com
 127.0.0.1 userreporting.cloud.unity3d.com
 127.0.0.1 v.amoad.com
-127.0.0.1 v.amoad.com
 127.0.0.1 v16-ad.byteoversea.com
 127.0.0.1 watch.uni-corn.net
 127.0.0.1 wd.adcolony.com
