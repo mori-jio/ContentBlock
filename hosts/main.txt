@@ -91,7 +91,6 @@
 127.0.0.1 publisher-config.unityads.unity3d.com
 127.0.0.1 publisher-event.ads.prd.ie.internal.unity3d.com
 127.0.0.1 r.amoad.com
-127.0.0.1 rat.rakuten.co.jp
 127.0.0.1 res1.applovin.com
 127.0.0.1 rpc.tapjoy.com
 127.0.0.1 rt.applovin.com
