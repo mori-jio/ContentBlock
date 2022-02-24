@@ -9,9 +9,9 @@
 ! 非表示
 nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register"]
 nicovideo.jp##.common-header-6zywm
-!www.google.co.jp,www.google.com###bres
-!www.google.co.jp,www.google.com##.AUiS2
-!www.google.co.jp,www.google.com##.Bhmw4
+www.google.co.jp,www.google.com###bres
+www.google.co.jp,www.google.com##.AUiS2
+www.google.co.jp,www.google.com##.Bhmw4
 !#if !env_firefox
 omocoro.jp##.fixed-social
 omocoro.jp##.social
