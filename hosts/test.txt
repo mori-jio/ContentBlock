@@ -1,0 +1,9 @@
+127.0.0.1 api16-log-sg.pangle.io
+127.0.0.1 cdn.liftoff.io
+127.0.0.1 click.liftoff.io
+127.0.0.1 impression-asia.liftoff.io
+127.0.0.1 impression.appsflyer.com
+127.0.0.1 prod-a.applovin.com
+127.0.0.1 prod-ms.applovin.com
+127.0.0.1 s2s.adjust.com
+127.0.0.1 telemetry.sdk.inmobi.com
