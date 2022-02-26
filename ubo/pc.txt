@@ -12,6 +12,7 @@ nicovideo.jp##.common-header-6zywm
 www.google.co.jp,www.google.com###bres
 www.google.co.jp,www.google.com##.AUiS2
 www.google.co.jp,www.google.com##.Bhmw4
+websearch.rakuten.co.jp##.search-trends
 !#if !env_firefox
 omocoro.jp##.fixed-social
 omocoro.jp##.social
