@@ -11,8 +11,8 @@ blog.livedoor.jp,www.google.*##[href*=".livedoor.biz"]
 www.google.*##[href^="http://blog.livedoor.jp/"]
 
 ! 日本語ドメイン
-www.google.*##[href^="http://xn--"]
-www.google.*##[href^="https://xn--"]
+duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="http://xn--"]
+duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://xn--"]
 
 ! 各所から名指しで転載禁止
 blog.livedoor.jp,www.google.*##[href^="http://blog.esuteru.com/"]
