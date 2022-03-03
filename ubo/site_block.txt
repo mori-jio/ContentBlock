@@ -3,34 +3,34 @@
 
 ! ------ リンク除去 ------ !
 ! ライブドア系は5chまとめサイトが多い
-blog.livedoor.jp,www.google.*##[href*=".2chblog.jp/"]
-blog.livedoor.jp,www.google.*##[href*=".blog.jp/"]
-blog.livedoor.jp,www.google.*##[href*=".doorblog.jp/"]
-blog.livedoor.jp,www.google.*##[href*=".ldblog.jp/"]
-blog.livedoor.jp,www.google.*##[href*=".livedoor.biz"]
-www.google.*##[href^="http://blog.livedoor.jp/"]
+blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".2chblog.jp/"]
+blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".blog.jp/"]
+blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".doorblog.jp/"]
+blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".ldblog.jp/"]
+blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".livedoor.biz"]
+duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="http://blog.livedoor.jp/"]
 
 ! 日本語ドメイン
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="http://xn--"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://xn--"]
 
 ! 各所から名指しで転載禁止
-blog.livedoor.jp,www.google.*##[href^="http://blog.esuteru.com/"]
-blog.livedoor.jp,www.google.*##[href^="http://hamusoku.com/"]
-blog.livedoor.jp,www.google.*##[href^="http://jin115.com/"]
-blog.livedoor.jp,www.google.*##[href^="http://yaraon-blog.com/"]
-blog.livedoor.jp,www.google.*##[href^="http://yaraon.blog109.fc2.com/"]
+blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="http://blog.esuteru.com/"]
+blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="http://hamusoku.com/"]
+blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="http://jin115.com/"]
+blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="http://yaraon-blog.com/"]
+blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="http://yaraon.blog109.fc2.com/"]
 
 ! 他
-blog.livedoor.jp,www.google.*##[href^="https://blog.hokanko-alt.com/"]
-blog.livedoor.jp,www.google.*##[href^="https://ch.nicovideo.jp/"]
-blog.livedoor.jp,www.google.*##[href^="https://news.nicovideo.jp/"]
-duckduckgo.com,www.google.*##[href^="https://girlschannel.net/"]
-duckduckgo.com,www.google.*##[href^="https://nlab.itmedia.co.jp/"]
-duckduckgo.com,www.google.*##[href^="https://togetter.com/"]
-duckduckgo.com,www.google.*##[href^="https://www.huffingtonpost.jp/"]
-duckduckgo.com,www.google.*##[href^="https://www.j-cast.com/"]
-duckduckgo.com,www.google.*##[href^="https://www.pinterest.jp/"]
+blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://blog.hokanko-alt.com/"]
+blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://ch.nicovideo.jp/"]
+blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://news.nicovideo.jp/"]
+duckduckgo.com,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://girlschannel.net/"]
+duckduckgo.com,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://nlab.itmedia.co.jp/"]
+duckduckgo.com,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://togetter.com/"]
+duckduckgo.com,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://www.huffingtonpost.jp/"]
+duckduckgo.com,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://www.j-cast.com/"]
+duckduckgo.com,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://www.pinterest.jp/"]
 
 ! ------ ドメインブロック ------ !
 ||blog.esuteru.com^$all
