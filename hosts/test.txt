@@ -1,5 +1,3 @@
-127.0.0.1 cdn.liftoff.io
-127.0.0.1 click.liftoff.io
-127.0.0.1 impression-asia.liftoff.io
-127.0.0.1 impression.appsflyer.com
-
+0.0.0.0 cdn.liftoff.io
+0.0.0.0 click.liftoff.io
+0.0.0.0 impression.appsflyer.com
