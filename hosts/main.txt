@@ -80,7 +80,6 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 publisher-config.unityads.unity3d.com
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
-0.0.0.0 rat.rakuten.co.jp
 0.0.0.0 res-creatives.maio.jp
 0.0.0.0 res1.applovin.com
 0.0.0.0 rpc.tapjoy.com
