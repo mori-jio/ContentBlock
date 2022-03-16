@@ -4,8 +4,6 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 web.facebook.com
-0.0.0.0 app.mmate.jp
-0.0.0.0 baibai.co.jp
 0.0.0.0 bytedance.map.fastly.net
 0.0.0.0 configure.rayjump.com
 0.0.0.0 impression-east.liftoff.io
@@ -16,4 +14,5 @@
 0.0.0.0 d10ozpivp8olxf.cloudfront.net
 0.0.0.0 d144r0pj37orrk.cloudfront.net
 0.0.0.0 d1k5gitkzferqo.cloudfront.net
+0.0.0.0 de95o0st36eqq.cloudfront.net
 0.0.0.0 dttorhs584ri4.cloudfront.net
