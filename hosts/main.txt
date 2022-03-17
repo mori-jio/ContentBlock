@@ -70,6 +70,7 @@
 0.0.0.0 img.applovin.com
 0.0.0.0 img1.nend.net
 0.0.0.0 impression-asia.liftoff.io
+0.0.0.0 impression-east.liftoff.io
 0.0.0.0 init.supersonicads.com
 0.0.0.0 js1.nend.net
 0.0.0.0 logql.yahoo.co.jp
@@ -113,6 +114,7 @@
 0.0.0.0 tg.socdm.com
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
 0.0.0.0 tls.telemetry.swe.quicinc.com
+0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tr.gunosy.com
