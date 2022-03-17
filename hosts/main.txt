@@ -38,9 +38,9 @@
 0.0.0.0 c4d-cdn.adcolony.com
 0.0.0.0 cat.jp2.as.criteo.com
 0.0.0.0 cdn-creatives-akamaistls-prd.unityads.unity3d.com
+0.0.0.0 cdn-highwinds.unityads.unity3d.com
 0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
 0.0.0.0 cdn.fivecdm.com
-0.0.0.0 cdn.liftoff.io
 0.0.0.0 cdn.liftoff.io
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 cloud.xdrig.com
