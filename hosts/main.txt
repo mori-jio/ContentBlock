@@ -104,7 +104,6 @@
 0.0.0.0 s.yjtag.jp
 0.0.0.0 s2s.adjust.com
 0.0.0.0 sdfp-sg.byteoversea.com
-0.0.0.0 secure.rat.rakuten.co.jp
 0.0.0.0 sh.adingo.jp
 0.0.0.0 spad.i-mobile.co.jp
 0.0.0.0 spcdnsp.i-mobile.co.jp
