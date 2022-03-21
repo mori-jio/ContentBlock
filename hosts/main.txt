@@ -7,6 +7,7 @@
 0.0.0.0 adc-ad-assets.adtilt.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adchk.fivecdm.com
+0.0.0.0 adchk.fivecdm.com
 0.0.0.0 adgen.socdm.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
@@ -20,6 +21,7 @@
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api16-log-sg.pangle.io
+0.0.0.0 api2.branch.io
 0.0.0.0 app-gt.com
 0.0.0.0 app.adjust.world
 0.0.0.0 app.mmate.jp
@@ -40,6 +42,7 @@
 0.0.0.0 cdn-creatives-akamaistls-prd.unityads.unity3d.com
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
 0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
+0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.fivecdm.com
 0.0.0.0 cdn.liftoff.io
 0.0.0.0 cdp.cloud.unity3d.com
@@ -67,6 +70,7 @@
 0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 hv.adingo.jp
 0.0.0.0 i.adingo.jp
+0.0.0.0 i.socdm.com
 0.0.0.0 img.applovin.com
 0.0.0.0 img1.nend.net
 0.0.0.0 impression-asia.liftoff.io
@@ -109,12 +113,12 @@
 0.0.0.0 spad.i-mobile.co.jp
 0.0.0.0 spcdnsp.i-mobile.co.jp
 0.0.0.0 spsvcsp-tls.i-mobile.co.jp
+0.0.0.0 static.criteo.net
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 tg.dr.socdm.com
 0.0.0.0 tg.socdm.com
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
 0.0.0.0 tls.telemetry.swe.quicinc.com
-0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tr.gunosy.com
