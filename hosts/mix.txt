@@ -185,4 +185,3 @@
 127.0.0.1 adsd.amanad.adtdp.com
 127.0.0.1 i.smartnews-ads.com
 127.0.0.1 ad.as.amanad.adtdp.com
-127.0.0.1 match.adsrvr.org
