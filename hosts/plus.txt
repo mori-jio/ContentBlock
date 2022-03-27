@@ -1,12 +1,6 @@
-0.0.0.0 aax-fe-sin.amazon-adsystem.com
-0.0.0.0 aax-fe.amazon-adsystem.com
-0.0.0.0 c.amazon-adsystem.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 web.facebook.com
 0.0.0.0 bytedance.map.fastly.net
 0.0.0.0 configure.rayjump.com
-0.0.0.0 pangolin16.sgsnssdk.com
 0.0.0.0 bytedance.map.fastly.net
 0.0.0.0 tiktok.bytedance.map.fastly.net
 0.0.0.0 d10ozpivp8olxf.cloudfront.net
