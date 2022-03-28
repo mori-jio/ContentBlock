@@ -10,6 +10,7 @@
 0.0.0.0 d1k5gitkzferqo.cloudfront.net
 0.0.0.0 de95o0st36eqq.cloudfront.net
 0.0.0.0 dttorhs584ri4.cloudfront.net
+0.0.0.0 graph.facebook.com
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 sdfp-sg.byteoversea.com
 0.0.0.0 secure.rat.rakuten.co.jp
