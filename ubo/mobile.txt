@@ -29,5 +29,4 @@ bnner_sp$image
 
 !#include comments_block.txt
 !#include dicnico_mob.txt
-!#include site_block.txt 
 !#include plus.txt
