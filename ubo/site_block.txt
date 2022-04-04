@@ -60,9 +60,9 @@ duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://news.nicovi
 
 
 ! 一時的 作品のネタバレに繋がりやすいため
-duckduckgo.com,www.google.*##[href^="https://dic.nicovideo.jp/"]
-duckduckgo.com,www.google.*##[href^="https://dic.pixiv.net/"]
-duckduckgo.com,www.google.*##[href^="https://w.atwiki.jp/aniwotawiki/"]
+! duckduckgo.com,www.google.*##[href^="https://dic.nicovideo.jp/"]
+! duckduckgo.com,www.google.*##[href^="https://dic.pixiv.net/"]
+! duckduckgo.com,www.google.*##[href^="https://w.atwiki.jp/aniwotawiki/"]
 ! ||dic.nicovideo.jp^$all,important
 ! ||dic.pixiv.net^$all,important
 ! |https://w.atwiki.jp/aniwotawiki/$all,important
