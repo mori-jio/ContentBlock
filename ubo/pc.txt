@@ -39,3 +39,4 @@ www.google.co.jp,www.google.com##^.ULSxyf
 !#include comments_block.txt
 !#include dicnico_pc.txt
 !#include plus.txt
+!#include site_block.txt
