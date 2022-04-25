@@ -5,5 +5,4 @@
 ||duckdns.org^
 ||global.ssl.fastly.net^
 ||rat.rakuten.co.jp^
-||map.fastly.net^
 @@||google-analytics.com^
