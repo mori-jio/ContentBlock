@@ -1,4 +1,8 @@
 ! Title: AdGuard for Android DNS用実験フィルタ
-||byteoversea.com^
-||web.facebook.com^
+||app-gt.com^
+||app.mmate.jp^
+||baibai.co.jp^
+||duckdns.org^
+||global.ssl.fastly.net^
+||map.fastly.net^
 @@||google-analytics.com^
