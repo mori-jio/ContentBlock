@@ -22,7 +22,9 @@ blog.livedoor.jp,blog.jp##^#comments
 ! wikiwiki
 !#if !env_firefox
 wikiwiki.jp##.pcomment-form-placeholder
+wikiwiki.jp##.rtcomment
 !#endif
 !#if env_firefox
 wikiwiki.jp##^.pcomment-form-placeholder
+wikiwiki.jp##^.rtcomment
 !#endif
