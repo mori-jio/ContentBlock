@@ -1,14 +1,3 @@
 ! Title: AdGuard for Android DNS用追加フィルタ
-||ads.yap.yahoo.com^
-||app-gt.com^
-||app.mmate.jp^
-||baibai.co.jp^
-||bytedance.map.fastly.net^
-||configure.rayjump.com^
 ||duckdns.org^
-||graph.facebook.com^
-||im.ov.yahoo.co.jp^
-||pangolin16.sgsnssdk.com^
-||v16-ad.byteoversea.com^
-||yourwownews.com^
-@@||google-analytics.com^
+@@||google-analytics.com^|
