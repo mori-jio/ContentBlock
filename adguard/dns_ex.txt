@@ -5,3 +5,5 @@
 ||duckdns.org^
 ||global.ssl.fastly.net^
 ||rat.rakuten.co.jp^
+||a.r10.to^
+@@||r10.to^
