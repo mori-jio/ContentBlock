@@ -37,6 +37,7 @@ duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://ch.nicovide
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://ferret-plus.com/"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://matomame.jp/"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://news.nicovideo.jp/"]
+duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://sakuhindb.com/"]
 
 ! ------ ドメインブロック ------ !
 !||twitter.com^$all
@@ -51,6 +52,7 @@ duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://news.nicovi
 ||myjitsu.jp^
 ||news.nicovideo.jp^all
 ||nlab.itmedia.co.jp^$all
+||sakuhindb.com^$all
 ||togetter.com^$all
 ||www.huffingtonpost.jp^$all
 ||www.j-cast.com^all
