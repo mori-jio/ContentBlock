@@ -46,6 +46,7 @@ duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://togetter.co
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://www.huffingtonpost.jp/"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://www.j-cast.com/"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://www.pinterest.jp/"]
+duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://forzaxbox.net/"]
 
 ! ------ ドメインブロック ------ !
 !||twitter.com^$all
@@ -76,6 +77,7 @@ duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://www.pintere
 ||www.pinterest.jp^$all
 ||yaraon-blog.com^$all
 ||yaraon.blog109.fc2.com^$all
+||forzaxbox.net^$all
 
 
 ! 一時的 作品のネタバレに繋がりやすいため
