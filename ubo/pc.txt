@@ -32,7 +32,8 @@ w.atwiki.jp##^.atwiki-tanuki-recommend
 watch.impress.co.jp##^.list.topics.recommend
 watch.impress.co.jp##^.right.ad
 www.google.co.jp,www.google.com##^.UUbT9
-www.google.co.jp,www.google.com##^.ULSxyf
+www.google.co.jp,www.google.com##^.uVMCKf
+
 !#endif
 
 
