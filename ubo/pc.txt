@@ -15,6 +15,7 @@ www.google.*###bres
 www.google.*##.AUiS2
 www.google.*##.Bhmw4
 !#if !env_firefox
+blog.livedoor.jp##.rss-blogroll
 omocoro.jp##.fixed-social
 omocoro.jp##.social
 w.atwiki.jp###tanuki-list
@@ -25,6 +26,7 @@ www.google.*##.UUbT9
 www.google.*##.ULSxyf
 !#endif
 !#if env_firefox
+blog.livedoor.jp##^.rss-blogroll
 omocoro.jp##^.fixed-social
 omocoro.jp##^.social
 w.atwiki.jp##^#tanuki-list
