@@ -11,9 +11,9 @@ nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register"]
 nicovideo.jp##.common-header-6zywm
 websearch.rakuten.co.jp##.search-trends
 websearch.rakuten.co.jp##.trend-word-container-bottom
-www.google.co*###bres
-www.google.co*##.AUiS2
-www.google.co*##.Bhmw4
+www.google.*###bres
+www.google.*##.AUiS2
+www.google.*##.Bhmw4
 !#if !env_firefox
 omocoro.jp##.fixed-social
 omocoro.jp##.social
@@ -21,8 +21,8 @@ w.atwiki.jp###tanuki-list
 w.atwiki.jp##.atwiki-tanuki-recommend
 watch.impress.co.jp##.list.topics.recommend
 watch.impress.co.jp##.right.ad
-www.google.co*##.UUbT9
-www.google.co*##.ULSxyf
+www.google.*##.UUbT9
+www.google.*##.ULSxyf
 !#endif
 !#if env_firefox
 omocoro.jp##^.fixed-social
@@ -31,8 +31,8 @@ w.atwiki.jp##^#tanuki-list
 w.atwiki.jp##^.atwiki-tanuki-recommend
 watch.impress.co.jp##^.list.topics.recommend
 watch.impress.co.jp##^.right.ad
-www.google.co*##^.UUbT9
-www.google.co*##^.uVMCKf
+www.google.*##^.UUbT9
+www.google.*##^.uVMCKf
 
 !#endif
 
