@@ -24,6 +24,7 @@ duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://xn--"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*="soku.com/"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*="sokuho.com/"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*="sokuhou.com/"]
+duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*="twitter.com/"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://altema.jp/"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://appmedia.jp/"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://blog.hokanko-alt.com/"]
@@ -71,6 +72,7 @@ duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://forzaxbox.n
 ||news.nicovideo.jp^all
 ||nlab.itmedia.co.jp^$all
 ||sakuhindb.com^$all
+||twitter.com^$doc,important
 ||togetter.com^$all
 ||www.huffingtonpost.jp^$all
 ||www.j-cast.com^all
