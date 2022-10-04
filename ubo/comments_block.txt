@@ -13,10 +13,12 @@ blog.fc2.com##.thread
 
 ! ライブドア
 !#if !env_firefox
-blog.livedoor.jp,blog.jp###comments
+*###comments
+*##.comment-v2.section-box
 !#endif
 !#if env_firefox
-blog.livedoor.jp,blog.jp##^#comments
+*##^#comments
+*##^.comment-v2.section-box
 !#endif
 
 ! wikiwiki
