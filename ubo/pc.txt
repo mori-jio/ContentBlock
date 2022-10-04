@@ -14,6 +14,7 @@ websearch.rakuten.co.jp##.trend-word-container-bottom
 www.google.*###bres
 www.google.*##.AUiS2
 www.google.*##.Bhmw4
+www.google.com#.ULSxyf
 !#if !env_firefox
 blog.livedoor.jp##.rss-blogroll
 omocoro.jp##.fixed-social
