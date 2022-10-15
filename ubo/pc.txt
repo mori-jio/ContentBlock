@@ -9,6 +9,7 @@
 ! 非表示
 nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register"]
 nicovideo.jp##.common-header-6zywm
+www.nicovideo.jp##.suggestBox.nicolib-SuggestSearch-suggestions
 websearch.rakuten.co.jp##.search-trends
 websearch.rakuten.co.jp##.trend-word-container-bottom
 www.google.*###bres
