@@ -1,17 +1,17 @@
 ! Title: コメント欄はお静かに
-! Description: 各サイトのコメントをブロックまたは非表示にする
+! Description: 各サイトのコメント欄をブロックまたは非表示にする
 
-! YouTube（PC，モバイル）
+! YouTube
 www.youtube.com##.ytd-comments.style-scope
 m.youtube.com##ytm-comments-entry-point-header-renderer
 
-! Yahoo!ニュース
+! Yahoo!News
 ||s.yimg.jp/images/news/v2/comment/js/comment-*.min.js|
 
-! fc2ブログ
+! blog.fc2.com
 blog.fc2.com##.thread
 
-! ライブドア
+! LivedoorBlog
 !#if !env_firefox
 *###comments
 *##.comment-v2.section-box
@@ -21,7 +21,7 @@ blog.fc2.com##.thread
 *##^.comment-v2.section-box
 !#endif
 
-! wikiwiki
+! wikiwiki.jp
 !#if !env_firefox
 wikiwiki.jp##.pcomment-form-placeholder
 wikiwiki.jp##.rtcomment
@@ -30,3 +30,6 @@ wikiwiki.jp##.rtcomment
 wikiwiki.jp##^.pcomment-form-placeholder
 wikiwiki.jp##^.rtcomment
 !#endif
+
+! shonenjumpplus.com
+shonenjumpplus.com##^.series-comment-contents
