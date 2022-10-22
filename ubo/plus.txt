@@ -30,6 +30,7 @@ www.watch.impress.co.jp##^.social2
 ||connect.facebook.net^*/sdk.js
 ||w.atwiki.jp/common/dist/js/social_button.js
 ||cdn.cookielaw.org/scripttemplates/otSDKStub.js
+||counter.wikiwiki.jp^$xhr,1p
 ||watch.impress.co.jp^*/ranking
 ||watch.impress.co.jp^*/special-sites
 ||www.youtube.com/live_chat$subdocument
