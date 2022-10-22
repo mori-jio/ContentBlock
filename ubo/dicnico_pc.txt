@@ -27,4 +27,12 @@ dic.nicovideo.jp##^#nicoad_article_pc
 ! この記事はご覧のユーザの皆様が応援しています
 dic.nicovideo.jp##.a-nicoad_supporter_inner
 
+! （記事名）を好きなユーザーが配信！
+!#if !env_firefox
+dic.nicovideo.jp###sukinamono_lives
+!#endif
+!#if env_firefox
+dic.nicovideo.jp##^#sukinamono_lives
+!#endif
+
 ||dic.nicovideo.jp/img/icon_sns-*.svg|
