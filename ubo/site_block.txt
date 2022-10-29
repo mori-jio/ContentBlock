@@ -29,6 +29,7 @@ duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://altema.jp/"
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://appmedia.jp/"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://blog.hokanko-alt.com/"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://ch.nicovideo.jp/"]
+duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://detail.chiebukuro.yahoo.co.jp"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://ferret-plus.com/"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://game8.jp/"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://gamepedia.jp/"]
@@ -58,6 +59,7 @@ duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://forzaxbox.n
 ||blog.esuteru.com^$all
 ||blog.hokanko-alt.com^$all
 ||ch.nicovideo.jp^$all
+||chiebukuro.yahoo.co.jp^$all
 ||game8.jp^$all
 ||gamepedia.jp^$all
 ||gameranbu.jp^$all
