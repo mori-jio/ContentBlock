@@ -72,7 +72,8 @@ duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://forzaxbox.n
 ||news.nicovideo.jp^all
 ||nlab.itmedia.co.jp^$all
 ||sakuhindb.com^$all
-||twitter.com^$1p,important
+||twitter.com^$all,important
+@@||twitter.com^$third-party,important
 ||togetter.com^$all
 ||www.huffingtonpost.jp^$all
 ||www.j-cast.com^all
