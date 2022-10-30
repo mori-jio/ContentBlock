@@ -32,11 +32,11 @@ www.watch.impress.co.jp##^.social2
 ||w.atwiki.jp/common/dist/js/social_button.js
 ||cdn.cookielaw.org/scripttemplates/otSDKStub.js
 ||counter.wikiwiki.jp^$xhr,1p
-||watch.impress.co.jp^*/ranking
-||watch.impress.co.jp^*/special-sites
+||forest.watch.impress.co.jp/include/auto/wf/ranking/*$domain=watch.impress.co.jp
+||watch.impress.co.jp^*/special-sites$domain=watch.impress.co.jp
 ||www.youtube.com/live_chat$subdocument
 ||tanukimatome.jp^$domain=w.atwiki.jp
 ||geolog.mydns.jp/bc-geocities.yahoo.co.jp/js/notifier.html
 ||rdc-api-catalog-gateway-api.rakuten.co.jp/gsp-ac/autocomplete/v1/autocomplete.jp_websearch_page?callback=
-/_/json/ranking_
+/_/json/ranking_$domain=biz|blog|com|jp|to
 /v1/recommend$domain=nicovideo.jp
