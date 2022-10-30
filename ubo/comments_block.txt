@@ -33,3 +33,6 @@ wikiwiki.jp##^.rtcomment
 
 ! shonenjumpplus.com
 shonenjumpplus.com##^.series-comment-contents
+
+! dic.nicovideo.jp
+dic.nicovideo.jp##^.sw-Article_List
