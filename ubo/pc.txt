@@ -12,10 +12,8 @@ nicovideo.jp##.common-header-6zywm
 www.nicovideo.jp##.suggestBox.nicolib-SuggestSearch-suggestions
 websearch.rakuten.co.jp##.search-trends
 websearch.rakuten.co.jp##.trend-word-container-bottom
-www.google.*###bres
 www.google.*##.AUiS2
 www.google.*##.Bhmw4
-www.google.*##.ULSxyf
 !#if !env_firefox
 blog.livedoor.jp##.rss-blogroll
 w.atwiki.jp##.atwiki-tanuki-recommend
