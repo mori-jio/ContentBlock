@@ -24,10 +24,12 @@ www.watch.impress.co.jp##^.social2
 !#endif
 
 ||with2.net^$third-party
-||ad.pr.ameba.jp^$xmlhttprequest,important
-||agree.5ch.net/mona.png
+||ad.pr.ameba.jp^$xmlhttprequest,domain=ameblo.jp,important
+||agree.5ch.net/mona.png$domain=5ch.net
+||counter.wikiwiki.jp^$xmlhttprequest,domain=wikiwiki.jp
+||jbbs.shitaraba.net/js/staff_blog_jbbs.json?$domain=shitaraba.net
+||tanukimatome.jp^$domain=w.atwiki.jp
 ||img.5ch.net/ico/*.gif|
-||jbbs.shitaraba.net/js/staff_blog_jbbs.json?
 ||connect.facebook.net^*/sdk.js
 ||w.atwiki.jp/common/dist/js/social_button.js
 ||cdn.cookielaw.org/scripttemplates/otSDKStub.js
@@ -35,7 +37,6 @@ www.watch.impress.co.jp##^.social2
 ||forest.watch.impress.co.jp/include/auto/wf/ranking/*$domain=watch.impress.co.jp
 ||watch.impress.co.jp^*/special-sites$domain=watch.impress.co.jp
 ||www.youtube.com/live_chat$subdocument
-||tanukimatome.jp^$domain=w.atwiki.jp
 ||geolog.mydns.jp/bc-geocities.yahoo.co.jp/js/notifier.html
 ||rdc-api-catalog-gateway-api.rakuten.co.jp/gsp-ac/autocomplete/v1/autocomplete.jp_websearch_page?callback=
 /_/json/ranking_$domain=biz|blog|com|jp|to
