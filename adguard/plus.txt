@@ -1,1 +1,8 @@
 ! Title: AdGuard Additional filters
+
+||ad.pr.ameba.jp^$xmlhttprequest,domain=ameblo.jp,important
+||agree.5ch.net/mona.png$domain=5ch.net
+||counter.wikiwiki.jp^$xmlhttprequest,domain=wikiwiki.jp
+||jbbs.shitaraba.net/js/staff_blog_jbbs.json?$domain=shitaraba.net
+||tanukimatome.jp^$domain=w.atwiki.jp
+/_/json/ranking_$domain=biz|blog|com|jp|to
