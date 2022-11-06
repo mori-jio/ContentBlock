@@ -8,7 +8,7 @@
 
 ! 非表示
 nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register"]
-nicovideo.jp##.common-header-6zywm
+dic.nicovideo.jp##[class^=common-header-] > [viewBox="0 0 22 22"] > g:upward(2)
 www.nicovideo.jp##.suggestBox.nicolib-SuggestSearch-suggestions
 websearch.rakuten.co.jp##.search-trends
 websearch.rakuten.co.jp##.trend-word-container-bottom
