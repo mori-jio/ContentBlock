@@ -35,5 +35,5 @@ wikiwiki.jp##^.rtcomment
 shonenjumpplus.com##^.series-comment-contents
 
 ! dic.nicovideo.jp
-dic.nicovideo.jp##^.st-bbs-contents
+dic.nicovideo.jp##^div[class*="bbs"]
 dic.nicovideo.jp##^.sw-Article_List
