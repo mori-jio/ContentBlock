@@ -9,3 +9,7 @@
 ||jbbs.shitaraba.net/js/staff_blog_jbbs.json?$domain=shitaraba.net
 ||tanukimatome.jp^$domain=w.atwiki.jp
 /_/json/ranking_$domain=biz|blog|com|jp|to
+
+! temporal
+||dic.nicovideo.jp^
+||twitter.com^
