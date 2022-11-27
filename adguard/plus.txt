@@ -11,5 +11,5 @@
 /_/json/ranking_$domain=biz|blog|com|jp|to
 
 ! temporal
-||dic.nicovideo.jp^
+dic.nicovideo.jp##^div[class*="bbs"]
 ||twitter.com^
