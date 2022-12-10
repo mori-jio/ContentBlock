@@ -36,6 +36,10 @@ dic.nicovideo.jp##^.tp-PopularArticle
 ! 検索結果下のニコニ広告された記事
 dic.nicovideo.jp##.sr-List_Nicoad
 
+! （記事名）を好きなユーザーが配信！
+dic.nicovideo.jp##^#sukinamono_lives
+dic.nicovideo.jp##.lazy-contents
+
 ! ------------------------ もういらない？ ------------------------ !
 
 ! スマホで作られた新規記事
