@@ -32,7 +32,7 @@ wikiwiki.jp##^.rtcomment
 !#endif
 
 ! shonenjumpplus.com
-shonenjumpplus.com##^.series-comment-contents
+shonenjumpplus.com##.series-comment-contents
 
 ! dic.nicovideo.jp
 dic.nicovideo.jp##^div[class*="bbs"]
