@@ -22,7 +22,6 @@ w.atwiki.jp##^.atwiki-recent-list
 w.atwiki.jp##^.atwiki-sp-only.atwiki-anchor
 w.atwiki.jp##^.atwiki-tanuki-list.atwiki-link-list
 watch.impress.co.jp###floating-social-buttons
-www.google.*##[class] > span:has-text(/他の人はこちらも(質問|検索)|関連キーワード/):upward(4)
 
 bnner_sp$image
 
