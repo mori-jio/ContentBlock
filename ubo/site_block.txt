@@ -4,10 +4,10 @@
 ! ------ リンク除去 ------ !
 ! ライブドア系は5chまとめサイトが多い
 blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".2chblog.jp/"]
-blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".blog.jp/"]
-blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".doorblog.jp/"]
-blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".ldblog.jp/"]
-blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".livedoor.biz"]
+! blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".blog.jp/"]
+! blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".doorblog.jp/"]
+! blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".ldblog.jp/"]
+! blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".livedoor.biz"]
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="http://blog.livedoor.jp/"]
 
 ! 日本語ドメイン
