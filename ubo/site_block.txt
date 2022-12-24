@@ -4,11 +4,6 @@
 ! ------ リンク除去 ------ !
 ! ライブドア系は5chまとめサイトが多い
 blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".2chblog.jp/"]
-! blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".blog.jp/"]
-! blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".doorblog.jp/"]
-! blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".ldblog.jp/"]
-! blog.livedoor.jp,duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*=".livedoor.biz"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="http://blog.livedoor.jp/"]
 
 ! 日本語ドメイン
 duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="http://xn--"]
@@ -20,36 +15,7 @@ duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://xn--"]
 *##[href^="http://jin115.com/"]
 *##[href^="http://yaraon-blog.com/"]
 *##[href^="http://yaraon.blog109.fc2.com/"]
-! 他
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*="soku.com/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*="sokuho.com/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*="sokuhou.com/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href*="twitter.com/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://altema.jp/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://appmedia.jp/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://blog.hokanko-alt.com/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://ch.nicovideo.jp/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://chomanga.org/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://detail.chiebukuro.yahoo.co.jp"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://ferret-plus.com/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://game8.jp/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://gamepedia.jp/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://gameranbu.jp/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://gamerch.com/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://gamewith.jp/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://gamy.jp/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://girlschannel.net/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://kamigame.jp/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://matomame.jp/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://myjitsu.jp/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://news.nicovideo.jp/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://nlab.itmedia.co.jp/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://sakuhindb.com/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://togetter.com/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://www.huffingtonpost.jp/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://www.j-cast.com/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://www.pinterest.jp/"]
-duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://forzaxbox.net/"]
+
 
 ! ------ ドメインブロック ------ !
 |http://blog.livedoor.jp/dqnplus/$all
@@ -59,8 +25,9 @@ duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://forzaxbox.n
 ||blog.esuteru.com^$all
 ||blog.hokanko-alt.com^$all
 ||ch.nicovideo.jp^$all
-||chomanga.org^$all
 ||chiebukuro.yahoo.co.jp^$all
+||chomanga.org^$all
+||forzaxbox.net^$all
 ||game8.jp^$all
 ||gamepedia.jp^$all
 ||gameranbu.jp^$all
@@ -71,25 +38,17 @@ duckduckgo.com,websearch.rakuten.co.jp,www.google.*##[href^="https://forzaxbox.n
 ||hamusoku.com^$all
 ||jin115.com^$all
 ||kamigame.jp^$all
+||mobile.twitter.com^$important
 ||myjitsu.jp^$all
 ||news.nicovideo.jp^all
 ||nlab.itmedia.co.jp^$all
+||pinterest.com^$all
+||pinterest.jp^$all
 ||sakuhindb.com^$all
-||twitter.com^$important
-@@||twitter.com^$third-party
 ||togetter.com^$all
 ||www.huffingtonpost.jp^$all
 ||www.j-cast.com^all
-||www.pinterest.jp^$all
+||www.twitter.com^$important
+@@||twitter.com^$third-party
 ||yaraon-blog.com^$all
 ||yaraon.blog109.fc2.com^$all
-||forzaxbox.net^$all
-
-
-! 一時的 作品のネタバレに繋がりやすいため
-! duckduckgo.com,www.google.*##[href^="https://dic.nicovideo.jp/"]
-! duckduckgo.com,www.google.*##[href^="https://dic.pixiv.net/"]
-! duckduckgo.com,www.google.*##[href^="https://w.atwiki.jp/aniwotawiki/"]
-! ||dic.nicovideo.jp^$all,important
-! ||dic.pixiv.net^$all,important
-! |https://w.atwiki.jp/aniwotawiki/$all,important
