@@ -11,6 +11,7 @@ duckduckgo.com,swisscows.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read
 duckduckgo.com,swisscows.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news4vip/"]
 duckduckgo.com,swisscows.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/"]
 duckduckgo.com,swisscows.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
+www.google.*##div.sc-it[role="listitem"]
 !#if !env_firefox
 dic.pixiv.net###sub
 ||watch.impress.co.jp/img/watch/parts/icon/facebook.svg
