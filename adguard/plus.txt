@@ -1,4 +1,4 @@
-! Title: AdGuard Additional filters
+! Title: AdGuard for Android Plus
 
 *###gdpr-banner
 *##.plugin-ad
