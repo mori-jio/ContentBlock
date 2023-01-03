@@ -5,8 +5,7 @@
 www.youtube.com##.ytd-comments.style-scope
 m.youtube.com##ytm-comments-entry-point-header-renderer
 
-! Yahoo!News
-||s.yimg.jp/images/news/v2/comment/js/comment-*.min.js|
+! Yahoo!News …見ないからどうでもよかった
 
 ! blog.fc2.com
 blog.fc2.com##.thread
