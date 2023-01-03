@@ -27,7 +27,7 @@ www.google.*##.mEUgP > span:has-text(/他の人はこちらも(質問|検索)|�
 bnner_sp$image
 
 
-!#include comments_block.txt
+!#include comments.txt
 !#include dicnico_mob.txt
 !#include plus.txt
 !#include site_block.txt
