@@ -33,6 +33,6 @@ www.google.*##^.uVMCKf
 !#endif
 
 
-!#include comments_block.txt
+!#include comment.txt
 !#include dicnico_pc.txt
 !#include plus.txt
