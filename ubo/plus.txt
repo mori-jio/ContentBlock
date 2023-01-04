@@ -24,6 +24,7 @@ watch.impress.co.jp,~www.watch.impress.co.jp##^.social
 www.watch.impress.co.jp##^.social2
 !#endif
 
+||staticflickr.com^
 ||with2.net^$third-party
 ||ad.pr.ameba.jp^$xmlhttprequest,domain=ameblo.jp,important
 ||agree.5ch.net/mona.png$domain=5ch.net
@@ -35,7 +36,7 @@ www.watch.impress.co.jp##^.social2
 ||w.atwiki.jp/common/dist/js/social_button.js
 ||cdn.cookielaw.org/scripttemplates/otSDKStub.js
 ||counter.wikiwiki.jp^$xhr,1p
-||forest.watch.impress.co.jp/include/auto/wf/ranking/*$domain=watch.impress.co.jp
+||watch.impress.co.jp/include/auto/wf/ranking/*$domain=watch.impress.co.jp
 ||watch.impress.co.jp^*/special-sites$domain=watch.impress.co.jp
 ||www.youtube.com/live_chat$subdocument
 ||geolog.mydns.jp/bc-geocities.yahoo.co.jp/js/notifier.html
