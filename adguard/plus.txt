@@ -23,6 +23,7 @@ blog.jp##[src^="https://c1.staticflickr.com/"]
 ||counter.wikiwiki.jp^$xmlhttprequest,domain=wikiwiki.jp
 ||jbbs.shitaraba.net/js/staff_blog_jbbs.json?$domain=shitaraba.net
 ||tanukimatome.jp^$domain=w.atwiki.jp
+||watch.impress.co.jp/include/auto/wf/ranking/access_$domain=watch.impress.co.jp
 /_/json/blog_news_sp.json|
 /_/json/pbp_ranking.json|
 /_/json/ranking_$domain=biz|blog|com|jp|to
