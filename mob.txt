@@ -102,7 +102,8 @@ www.google.*##.mEUgP > span:has-text(/他の人はこちらも(質問|検索)|�
 !#endif
 
 !#if adguard_app_android
-www.google.*###rso > div > div > div > div > div > div > span:has-text(/他の人はこちらも(質問|検索)|関連キーワード/):upward(4)
+www.google.*###bres > div > div > div > div > div > div > span:has-text(/関連キーワード|他に検索されていること|他の人はこちらも(検索|質問)/):upward(4)
+www.google.*##.wtFsOb:has-text(/トップニュース/)
 !#endif
 
 ||clap.blogcms.jp^
