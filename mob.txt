@@ -10,6 +10,7 @@
 5ch.net,2ch.sc##dd:has-text(/《プレミアム会員の主な特典》|life time:|💣/)
 blog.fc2.com##.thread
 fireflyframer.blog.jp##[src^="https://c1.staticflickr.com/"]
+dic.nicovideo.jp##li.res_reaction
 dic.nicovideo.jp##.lazy-contents
 dic.nicovideo.jp##.sr-List_Nicoad
 dic.nicovideo.jp##.sw-Article_Title-counters
