@@ -14,6 +14,7 @@ dic.nicovideo.jp##li.res_reaction
 dic.nicovideo.jp##.lazy-contents
 dic.nicovideo.jp##.sr-List_Nicoad
 dic.nicovideo.jp##.sw-Article_Title-counters
+dic.nicovideo.jp##.sw-Article_Title-sns
 duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/ghard/"]
 duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/livegalileo/"]
 duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/livejupiter/"]
