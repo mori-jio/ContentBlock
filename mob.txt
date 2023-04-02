@@ -4,6 +4,9 @@
 *##.plugin-follow_buttons
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.extlink.outside-border.blog-footer
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.plugin-popular_articles-new
+2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.related-articles
+2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.section-box > .plugin-news
+2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##aside#lite_link.box-border.box-margin.box.plugin-box.section-box
 5ch.net##.back-links
 5ch.net##.post:has-text(/《プレミアム会員の主な特典》|life time:|💣/)
 5ch.net##.thumb_i
@@ -77,6 +80,7 @@ dic.nicovideo.jp###sukinamono_lives
 dic.nicovideo.jp##.st-Header_PushWord
 dic.nicovideo.jp##.sw-Article_Menu
 dic.nicovideo.jp##.sw-Article_SubContents-pushword
+dic.nicovideo.jp##.sw-Article_Title-counters
 dic.nicovideo.jp##.sw-Article_Title-sns
 dic.nicovideo.jp##.tp-PopularArticle
 dic.nicovideo.jp##[class="sw-Column tp-TrendWord"]
@@ -103,7 +107,7 @@ w.atwiki.jp##.atwiki-tanuki-list.atwiki-link-list
 www.google.*##.mEUgP > span:has-text(/他の人はこちらも(質問|検索)|関連キーワード/):upward(4)
 !#endif
 
-!#if adguard_app_android
+!#if adguard
 www.google.*###bres > div > div > div > div > div > div > span:has-text(/関連キーワード|他に検索されていること|他の人はこちらも(検索|質問)/):upward(4)
 www.google.*##.wtFsOb:has-text(/トップニュース/)
 !#endif
