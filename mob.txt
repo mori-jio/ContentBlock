@@ -1,4 +1,4 @@
-! Title: adblock filter for mobile
+! Title: Adblock filter for mobile
 
 *###recentcomments
 *##.plugin-follow_buttons
