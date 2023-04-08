@@ -16,12 +16,12 @@ websearch.rakuten.co.jp##.search-trends
 websearch.rakuten.co.jp##.trend-word-container-bottom
 www.google.*##.AUiS2
 www.google.*##.Bhmw4
+www.google.*##.UUbT9
 !#if !env_firefox
 blog.livedoor.jp##.rss-blogroll
 w.atwiki.jp##.atwiki-tanuki-recommend
 watch.impress.co.jp##.list.topics.recommend
 watch.impress.co.jp##.right.ad
-www.google.*##.UUbT9
 !#endif
 !#if env_firefox
 blog.livedoor.jp##^.rss-blogroll
