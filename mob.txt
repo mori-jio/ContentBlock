@@ -84,6 +84,7 @@ dic.nicovideo.jp##.sw-Article_Title-counters
 dic.nicovideo.jp##.sw-Article_Title-sns
 dic.nicovideo.jp##.tp-PopularArticle
 dic.nicovideo.jp##[class="sw-Column tp-TrendWord"]
+dic.nicovideo.jp##div[class*="bbs"]
 dic.pixiv.net###bottom_infobar_touch
 dic.pixiv.net###bottom_pixivcomic_touch
 dic.pixiv.net###bottom_spotlight_touch
