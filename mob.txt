@@ -105,11 +105,11 @@ w.atwiki.jp##.atwiki-tanuki-list.atwiki-link-list
 !#endif
 
 !#if env_firefox
-www.google.*##.mEUgP > span:has-text(/他の人[がは]|関連キーワード|他に検索されていること|似ている検索ワード|関連性のある検索/):upward(4)
+www.google.*##.mEUgP > span:has-text(/他の人|関連|検索|ワード/):upward(4)
 !#endif
 
 !#if adguard
-www.google.*###bres > div > div > div > div > div > div > span:has-text(/他の人[がは]|関連キーワード|他に検索されていること|似ている検索ワード|関連性のある検索/):upward(4)
+www.google.*###bres > div > div > div > div > div > div > span:has-text(/他の人|関連|検索|ワード/):upward(4)
 www.google.*##.wtFsOb:has-text(/トップニュース/)
 !#endif
 
