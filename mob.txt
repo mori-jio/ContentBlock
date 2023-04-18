@@ -105,6 +105,7 @@ w.atwiki.jp##.atwiki-tanuki-list.atwiki-link-list
 !#endif
 
 !#if env_firefox
+www.google.*##.kCrYT > span:has-text(/他の人|関連|検索|ワード/):upward(2)
 www.google.*##.mEUgP > span:has-text(/他の人|関連|検索|ワード/):upward(4)
 !#endif
 
