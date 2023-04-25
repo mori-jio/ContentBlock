@@ -42,6 +42,8 @@ www.watch.impress.co.jp##^.social2
 ||watch.impress.co.jp^*/special-sites$domain=watch.impress.co.jp
 ||www.youtube.com/live_chat$subdocument
 ||geolog.mydns.jp/bc-geocities.yahoo.co.jp/js/notifier.html
+|https://jbbs.shitaraba.net/otaku/
+|https://w.atwiki.jp/aniwotawiki/
 ||rdc-api-catalog-gateway-api.rakuten.co.jp/gsp-ac/autocomplete/v1/autocomplete.jp_websearch_page?callback=
 /_/json/ranking_$domain=biz|blog|com|jp|to
 /v1/recommend$domain=nicovideo.jp
