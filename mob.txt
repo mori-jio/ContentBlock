@@ -132,8 +132,8 @@ www.google.*##.wtFsOb:has-text(/トップニュース/)
 ||watch.impress.co.jp^*/special-sites$domain=watch.impress.co.jp
 ||staticflickr.com^
 ||www.youtube.com/live_chat$subdocument
-|https://jbbs.shitaraba.net/otaku/
-|https://w.atwiki.jp/aniwotawiki/
+|https://jbbs.shitaraba.net/otaku/$all
+|https://w.atwiki.jp/aniwotawiki/$all
 
 /_/json/blog_news_sp.json
 /_/json/pbp_ranking.json
