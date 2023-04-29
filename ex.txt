@@ -32,6 +32,7 @@ duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"
 shonenjumpplus.com##.series-comment-contents
 watch.impress.co.jp###floating-social-buttons
 www.google.*##div.sc-it[role="listitem"]
+www.youtube.com###comments
 
 !#if ext_ublock
 *##^.comment-v2.section-box
