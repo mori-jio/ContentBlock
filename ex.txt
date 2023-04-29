@@ -1,4 +1,4 @@
-! Title: Adblock filter for mobile
+! Title: Contents block filter
 
 *###recentcomments
 *##.plugin-follow_buttons
@@ -28,7 +28,6 @@ duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/
 duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
 shonenjumpplus.com##.series-comment-contents
 watch.impress.co.jp###floating-social-buttons
-www.google.*##div.sc-it[role="listitem"]
 
 !#if ext_ublock
 *##^.comment-v2.section-box
@@ -63,6 +62,8 @@ w.atwiki.jp##^.atwiki-list-title
 w.atwiki.jp##^.atwiki-recent-list
 w.atwiki.jp##^.atwiki-sp-only.atwiki-anchor
 w.atwiki.jp##^.atwiki-tanuki-list.atwiki-link-list
+www.google.*##^.mEUgP:has-text(/他の人|関連|検索|ワード/):upward(2)
+www.google.*##^div.sc-it[role="listitem"]
 duckduckgo.com##^.at-bottom.t-m.related-searches
 !#endif
 
@@ -103,18 +104,11 @@ w.atwiki.jp##.atwiki-list-title
 w.atwiki.jp##.atwiki-recent-list
 w.atwiki.jp##.atwiki-sp-only.atwiki-anchor
 w.atwiki.jp##.atwiki-tanuki-list.atwiki-link-list
-duckduckgo.com##.at-bottom.t-m.related-searches
-!#endif
-
-!#if env_firefox
-! www.google.*##.kCrYT:has-text(/他の人|関連|検索|ワード/):upward(2)
-www.google.*##^.mEUgP:has-text(/他の人|関連|検索|ワード/):upward(2)
-!#endif
-
-!#if adguard
 www.google.*##.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
 www.google.*##.appbar
 www.google.*##.wtFsOb:has-text(/トップニュース/)
+www.google.*##div.sc-it[role="listitem"]
+duckduckgo.com##.at-bottom.t-m.related-searches
 !#endif
 
 ||clap.blogcms.jp^
