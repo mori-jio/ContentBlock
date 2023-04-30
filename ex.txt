@@ -77,7 +77,7 @@ w.atwiki.jp##^.atwiki-tanuki-list.atwiki-link-list
 w.atwiki.jp##^.plugin_pcomment
 www.google.*##^.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
 www.google.com##^#Odp5De
-www.google.com##^#eob_6
+www.google.com##^.AUiS2
 www.google.com##^.uVMCKf
 www.google.*##^.mEUgP:has-text(/他の人|関連|検索|ワード/):upward(2)
 duckduckgo.com##^.at-bottom.t-m.related-searches
@@ -123,7 +123,7 @@ w.atwiki.jp##.atwiki-tanuki-list.atwiki-link-list
 w.atwiki.jp##.plugin_pcomment
 www.google.com###Odp5De
 www.google.*##.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
-www.google.com###eob_6
+www.google.com##.AUiS2
 www.google.com##.uVMCKf
 
 www.google.*##.appbar
