@@ -31,6 +31,7 @@ duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/
 duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
 shonenjumpplus.com##.series-comment-contents
 watch.impress.co.jp###floating-social-buttons
+www.google.com##.AUiS2
 www.google.com##.Bhmw4
 www.google.com##.UUbT9
 www.google.*##.HnYYW:has-text(/他の人/):upward(2)
