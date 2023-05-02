@@ -84,6 +84,7 @@ w.atwiki.jp##^.atwiki-recent-list
 w.atwiki.jp##^.atwiki-sp-only.atwiki-anchor
 w.atwiki.jp##^.atwiki-tanuki-list.atwiki-link-list
 w.atwiki.jp##^.plugin_pcomment
+www.ecosia.org##^[class^="related-queries__"]
 www.google.*##^#Odp5De
 www.google.*##^.AP7Wnd.deIvCb.BNeawe:has-text(/画像/)
 www.google.*##^.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
@@ -135,6 +136,7 @@ w.atwiki.jp##.plugin_pcomment
 watch.impress.co.jp##^.ranking-title:has-text(/アクセスランキング/):upward(1)
 watch.impress.co.jp##^.social
 www.google.*##.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
+www.ecosia.org##^[class^="related-queries__"]
 www.google.*##.appbar
 www.google.*##.uVMCKf
 www.google.*##.wtFsOb:has-text(/トップニュース/)
