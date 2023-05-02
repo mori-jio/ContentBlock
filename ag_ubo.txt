@@ -17,7 +17,6 @@ dic.nicovideo.jp##.lazy-contents
 dic.nicovideo.jp##.sr-List_Nicoad
 dic.nicovideo.jp##.sw-Article_Title-counters
 dic.nicovideo.jp##.sw-Article_Title-sns
-dic.nicovideo.jp##div[class^="nicoad_article_"]
 dic.nicovideo.jp##li.res_reaction
 duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/ghard/"]
 duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/livegalileo/"]
@@ -65,6 +64,7 @@ dic.nicovideo.jp##^.sw-Article_Title-sns
 dic.nicovideo.jp##^.tp-PopularArticle
 dic.nicovideo.jp##^[class="sw-Column tp-TrendWord"]
 dic.nicovideo.jp##^div[class*="bbs"]
+dic.nicovideo.jp##^div[id^="nicoad_article_"]
 dic.pixiv.net##^#bottom_infobar_touch
 dic.pixiv.net##^#bottom_pixivcomic_touch
 dic.pixiv.net##^#bottom_spotlight_touch
@@ -110,6 +110,7 @@ dic.nicovideo.jp##.sw-Article_SubContents-pushword
 dic.nicovideo.jp##.tp-PopularArticle
 dic.nicovideo.jp##[class="sw-Column tp-TrendWord"]
 dic.nicovideo.jp##div[class*="bbs"]
+dic.nicovideo.jp##div[id^="nicoad_article_"]
 dic.pixiv.net###bottom_infobar_touch
 dic.pixiv.net###bottom_pixivcomic_touch
 dic.pixiv.net###bottom_spotlight_touch
