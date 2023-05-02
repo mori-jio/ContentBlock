@@ -1,4 +1,4 @@
-! Title: Contents Block filter
+! Title: Contents Block filters
 
 *###recentcomments
 *##.plugin-follow_buttons
@@ -36,7 +36,7 @@ www.google.com##.Bhmw4
 www.google.com##.UUbT9
 www.google.*##.HnYYW:has-text(/他の人/):upward(2)
 www.google.*##div.sc-it[role="listitem"]
-www.google.*##.a3Wc3.O8VmIc:has-text(/キーワード|他の人/):upward(2)
+www.google.*##.a3Wc3.O8VmIc:has-text(/キーワード|他の人|人気のトピック/):upward(2)
 www.google.*##.related-question-pair:upward(4)
 www.google.*##.wtFsOb:has-text(/トップニュース/)
 www.google.*##block-component
