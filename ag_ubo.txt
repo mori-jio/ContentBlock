@@ -6,6 +6,7 @@
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.plugin-popular_articles-new
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.related-articles
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.section-box > .plugin-news
+2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.box-border.box-margin.box.plugin-box.plugin-comment_list
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##aside#lite_link.box-border.box-margin.box.plugin-box.section-box
 5ch.net##.back-links
 5ch.net##.post:has-text(/《プレミアム会員の主な特典》|life time:|💣/)
@@ -31,26 +32,25 @@ duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/
 duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
 shonenjumpplus.com##.series-comment-contents
 watch.impress.co.jp###floating-social-buttons
-www.google.com##.AUiS2
 www.google.*##.Bhmw4
+www.google.*##.HnYYW:has-text(/他の人/):upward(2)
 www.google.*##.T98FId
 www.google.*##.UUbT9
-www.google.*##.HnYYW:has-text(/他の人/):upward(2)
-www.google.*##div.sc-it[role="listitem"]
 www.google.*##.a3Wc3.O8VmIc:has-text(/キーワード|他の人|人気のトピック/):upward(2)
 www.google.*##.related-question-pair:upward(4)
 www.google.*##.wtFsOb:has-text(/トップニュース/)
 www.google.*##block-component
+www.google.*##div.sc-it[role="listitem"]
 www.google.*##g-accordion
 www.google.*##title-with-lhs-icon:upward(2)
+www.google.com##.AUiS2
 www.youtube.com###comments
 
 !#if ext_ublock
 *##^.comment-v2.section-box
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##^#comments
 dic.nicovideo.jp##^#dic_media_scrum_sp
-dic.nicovideo.jp##^#nicoad_article_pc
-dic.nicovideo.jp##^#nicoad_article_sp
+dic.nicovideo.jp##^div[class^="nicoad_article_"]
 dic.nicovideo.jp##^#nicodic-oshirase
 dic.nicovideo.jp##^#sp-nicodic-hotwords
 dic.nicovideo.jp##^#sukinamono_lives
@@ -80,10 +80,12 @@ w.atwiki.jp##^.atwiki-recent-list
 w.atwiki.jp##^.atwiki-sp-only.atwiki-anchor
 w.atwiki.jp##^.atwiki-tanuki-list.atwiki-link-list
 w.atwiki.jp##^.plugin_pcomment
-www.google.*##^.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
 www.google.*##^#Odp5De
-www.google.*##^.uVMCKf
+www.google.*##^.AP7Wnd.deIvCb.BNeawe:has-text(/画像/)
+www.google.*##^.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
+www.google.*##^.dmFHw
 www.google.*##^.mEUgP:has-text(/他の人|関連|検索|ワード/):upward(2)
+www.google.*##^.uVMCKf
 duckduckgo.com##^.at-bottom.t-m.related-searches
 !#endif
 
@@ -95,16 +97,13 @@ duckduckgo.com##^.at-bottom.t-m.related-searches
 *##.section-follow-buttons
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp###comments
 dic.nicovideo.jp###dic_media_scrum_sp
-dic.nicovideo.jp###nicoad_article_pc
-dic.nicovideo.jp###nicoad_article_sp
+dic.nicovideo.jp##div[class^="nicoad_article_"]
 dic.nicovideo.jp###nicodic-oshirase
 dic.nicovideo.jp###sp-nicodic-hotwords
 dic.nicovideo.jp###sukinamono_lives
 dic.nicovideo.jp##.st-Header_PushWord
 dic.nicovideo.jp##.sw-Article_Menu
 dic.nicovideo.jp##.sw-Article_SubContents-pushword
-dic.nicovideo.jp##.sw-Article_Title-counters
-dic.nicovideo.jp##.sw-Article_Title-sns
 dic.nicovideo.jp##.tp-PopularArticle
 dic.nicovideo.jp##[class="sw-Column tp-TrendWord"]
 dic.nicovideo.jp##div[class*="bbs"]
