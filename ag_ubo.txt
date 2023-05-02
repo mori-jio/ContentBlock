@@ -64,7 +64,7 @@ dic.nicovideo.jp##^.sw-Article_Title-sns
 dic.nicovideo.jp##^.tp-PopularArticle
 dic.nicovideo.jp##^[class="sw-Column tp-TrendWord"]
 dic.nicovideo.jp##^div[class*="bbs"]
-dic.nicovideo.jp##^div[id^="nicoad_article_"]
+dic.nicovideo.jp##^[id^="nicoad_article_"]
 dic.pixiv.net##^#bottom_infobar_touch
 dic.pixiv.net##^#bottom_pixivcomic_touch
 dic.pixiv.net##^#bottom_spotlight_touch
@@ -110,7 +110,7 @@ dic.nicovideo.jp##.sw-Article_SubContents-pushword
 dic.nicovideo.jp##.tp-PopularArticle
 dic.nicovideo.jp##[class="sw-Column tp-TrendWord"]
 dic.nicovideo.jp##div[class*="bbs"]
-dic.nicovideo.jp##div[id^="nicoad_article_"]
+dic.nicovideo.jp##[id^="nicoad_article_"]
 dic.pixiv.net###bottom_infobar_touch
 dic.pixiv.net###bottom_pixivcomic_touch
 dic.pixiv.net###bottom_spotlight_touch
@@ -155,6 +155,7 @@ watch.impress.co.jp##.social
 ||jbbs.shitaraba.net/js/staff_blog_jbbs.json?$domain=shitaraba.net
 ||rdc-api-catalog-gateway-api.rakuten.co.jp/gsp-ac/autocomplete/v1/autocomplete.jp_websearch_page?callback=
 ||w.atwiki.jp/common/dist/js/social_button.js
+||wktk.cdn.nimg.jp/wktk/$image
 ||watch.impress.co.jp/include/auto/wf/ranking/access_$domain=watch.impress.co.jp
 ||watch.impress.co.jp^*/special-sites$domain=watch.impress.co.jp
 ||staticflickr.com^
