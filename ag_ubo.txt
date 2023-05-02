@@ -31,6 +31,7 @@ fireflyframer.blog.jp##[src^="https://c1.staticflickr.com/"]
 nicovideo.jp##.common-header-6zywm
 nicovideo.jp##.suggestBox.nicolib-SuggestSearch-suggestions
 nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register"]
+note.com##.o-shareBooster
 shonenjumpplus.com##.series-comment-contents
 watch.impress.co.jp###floating-social-buttons
 www.google.*##.Bhmw4
