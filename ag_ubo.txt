@@ -65,6 +65,7 @@ dic.nicovideo.jp##^.tp-PopularArticle
 dic.nicovideo.jp##^[class="sw-Column tp-TrendWord"]
 dic.nicovideo.jp##^div[class*="bbs"]
 dic.nicovideo.jp##^[id^="nicoad_article_"]
+dic.nicovideo.jp##^[src^="https://wktk.cdn.nimg.jp/wktk/"]
 dic.pixiv.net##^#bottom_infobar_touch
 dic.pixiv.net##^#bottom_pixivcomic_touch
 dic.pixiv.net##^#bottom_spotlight_touch
@@ -111,6 +112,7 @@ dic.nicovideo.jp##.tp-PopularArticle
 dic.nicovideo.jp##[class="sw-Column tp-TrendWord"]
 dic.nicovideo.jp##div[class*="bbs"]
 dic.nicovideo.jp##[id^="nicoad_article_"]
+dic.nicovideo.jp##[src^="https://wktk.cdn.nimg.jp/wktk/"]
 dic.pixiv.net###bottom_infobar_touch
 dic.pixiv.net###bottom_pixivcomic_touch
 dic.pixiv.net###bottom_spotlight_touch
