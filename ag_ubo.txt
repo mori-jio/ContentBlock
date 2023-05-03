@@ -153,6 +153,7 @@ watch.impress.co.jp##.social
 ||with2.net^$third-party
 ||ad.pr.ameba.jp^$xmlhttprequest,domain=ameblo.jp,important
 ||agree.5ch.net/mona.png$domain=5ch.net
+||blog.livedoor.jp/js/lite2/floating/
 ||cdn.cookielaw.org/scripttemplates/otSDKStub.js
 ||connect.facebook.net^*/sdk.js
 ||geolog.mydns.jp/bc-geocities.yahoo.co.jp/js/notifier.html
