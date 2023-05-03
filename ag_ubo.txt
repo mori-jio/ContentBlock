@@ -52,6 +52,7 @@ www.youtube.com###comments
 *##^#comment-area
 *##^.comment-v2.section-box
 *##^[id^="div-comment-"]
+*##^div[id^="recent_comments_"]
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##^#comments
 duckduckgo.com##^.at-bottom.t-m.related-searches
 dic.nicovideo.jp##^#dic_media_scrum_sp
@@ -107,6 +108,7 @@ watch.impress.co.jp##^.social
 *##.plugin-blogroll
 *##.section-follow-buttons
 *##[id^="div-comment-"]
+*##div[id^="recent_comments_"]
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp###comments
 dic.nicovideo.jp###dic_media_scrum_sp
 dic.nicovideo.jp###nicodic-oshirase
