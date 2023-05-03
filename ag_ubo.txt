@@ -115,6 +115,7 @@ dic.nicovideo.jp###sukinamono_lives
 dic.nicovideo.jp##.st-Header_PushWord
 dic.nicovideo.jp##.sw-Article_Menu
 dic.nicovideo.jp##.sw-Article_SubContents-pushword
+dic.nicovideo.jp##.sw-Article_Title-sns
 dic.nicovideo.jp##.tp-PopularArticle
 dic.nicovideo.jp##[class="sw-Column tp-TrendWord"]
 dic.nicovideo.jp##div[class*="bbs"]
