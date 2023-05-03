@@ -49,7 +49,9 @@ www.google.com##.AUiS2
 www.youtube.com###comments
 
 !#if ext_ublock
+*##^#comment-area
 *##^.comment-v2.section-box
+*##^[id^="div-comment-"]
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##^#comments
 duckduckgo.com##^.at-bottom.t-m.related-searches
 dic.nicovideo.jp##^#dic_media_scrum_sp
@@ -88,6 +90,7 @@ www.ecosia.org##^[class^="related-queries__"]
 www.google.*##^#Odp5De
 www.google.*##^.AP7Wnd.deIvCb.BNeawe:has-text(/画像/)
 www.google.*##^.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
+www.google.*##^.TBC9ub.yG4QQe
 www.google.*##^.dmFHw
 www.google.*##^.mEUgP:has-text(/他の人|関連|検索|ワード/):upward(2)
 www.google.*##^.uVMCKf
@@ -96,11 +99,14 @@ watch.impress.co.jp##^.social
 !#endif
 
 !#if adguard
+*###comment-area
 *###gdpr-banner
+*##.comment-v2.section-box
 *##.comment-v2.section-box
 *##.plugin-ad
 *##.plugin-blogroll
 *##.section-follow-buttons
+*##[id^="div-comment-"]
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp###comments
 dic.nicovideo.jp###dic_media_scrum_sp
 dic.nicovideo.jp###nicodic-oshirase
@@ -136,7 +142,7 @@ w.atwiki.jp##.plugin_pcomment
 watch.impress.co.jp##^.ranking-title:has-text(/アクセスランキング/):upward(1)
 watch.impress.co.jp##^.social
 www.google.*##.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
-www.ecosia.org##^[class^="related-queries__"]
+www.ecosia.org##[class^="related-queries__"]
 www.google.*##.appbar
 www.google.*##.uVMCKf
 www.google.*##.wtFsOb:has-text(/トップニュース/)
