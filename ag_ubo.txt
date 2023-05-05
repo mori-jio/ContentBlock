@@ -1,4 +1,4 @@
-! Title: Contents Block filters
+! Title: Content Block filter
 
 *###recentcomments
 *##.plugin-follow_buttons
