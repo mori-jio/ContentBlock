@@ -130,6 +130,7 @@ dic.pixiv.net###inner_pixivcomic_touch
 dic.pixiv.net###inner_pixivnovel_touch
 dic.pixiv.net##.pixivision-article-section
 duckduckgo.com##.at-bottom.t-m.related-searches
+duckduckgo.com##.module-slot
 fc2.com##.ad_footer
 freesoft-100.com###fadsban
 freesoft-100.com##.header_banner
