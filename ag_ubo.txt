@@ -95,7 +95,7 @@ www.google.*##^.TBC9ub.yG4QQe
 www.google.*##^.dmFHw
 www.google.*##^.mEUgP:has-text(/他の人|関連|検索|ワード/):upward(2)
 www.google.*##^.uVMCKf
-watch.impress.co.jp##^.ranking-title:has-text(/アクセスランキング/):upward(1)
+watch.impress.co.jp##^.right.ad > aside.list.topics.ranking
 watch.impress.co.jp##^.social
 !#endif
 
@@ -151,7 +151,7 @@ www.google.*##.appbar
 www.google.*##.uVMCKf
 www.google.*##.wtFsOb:has-text(/トップニュース/)
 www.google.com###Odp5De
-watch.impress.co.jp##.ranking-title:has-text(/アクセスランキング/):upward(1)
+watch.impress.co.jp##.right.ad > aside.list.topics.ranking
 watch.impress.co.jp##.social
 !#endif
 
@@ -171,7 +171,7 @@ watch.impress.co.jp##.social
 ||rdc-api-catalog-gateway-api.rakuten.co.jp/gsp-ac/autocomplete/v1/autocomplete.jp_websearch_page?callback=
 ||w.atwiki.jp/common/dist/js/social_button.js
 ||wktk.cdn.nimg.jp/wktk/$image
-||watch.impress.co.jp/include/auto/wf/ranking/access_$domain=watch.impress.co.jp
+||watch.impress.co.jp^*/ranking/access_$domain=watch.impress.co.jp
 ||watch.impress.co.jp^*/special-sites$domain=watch.impress.co.jp
 ||staticflickr.com^
 ||www.youtube.com/live_chat$subdocument
@@ -184,6 +184,6 @@ watch.impress.co.jp##.social
 /icon_twitter.$image
 /v1/recommend$domain=nicovideo.jp
 
-||twitter.com^$all
+! ||twitter.com^$all
 ||togetter.com^$all
-@@||twitter.com^$third-party
+! @@||twitter.com^$third-party
