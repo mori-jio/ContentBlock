@@ -57,6 +57,21 @@ www.youtube.com###comments
 duckduckgo.com##^.at-bottom.t-m.related-searches
 dic.nicovideo.jp##^#dic_media_scrum_sp
 dic.nicovideo.jp##^#nicodic-oshirase
+dic.nicovideo.jp##^#dic_media_scrum_sp
+dic.nicovideo.jp###nicodic-oshirase
+dic.nicovideo.jp###right-column
+dic.nicovideo.jp###sp-nicodic-hotwords
+dic.nicovideo.jp###sukinamono_lives
+dic.nicovideo.jp##.st-Header_PushWord
+dic.nicovideo.jp##.sw-Article_Menu
+dic.nicovideo.jp##.sw-Article_SubContents-pushword
+dic.nicovideo.jp##.sw-Article_Title-sns
+dic.nicovideo.jp##.tp-PopularArticle
+dic.nicovideo.jp##[class="sw-Column tp-TrendWord"]
+dic.nicovideo.jp##[id^="nicoad_article_"]
+dic.nicovideo.jp##[src^="https://wktk.cdn.nimg.jp/wktk/"]
+dic.nicovideo.jp##div[class*="bbs"]
+
 dic.nicovideo.jp##^#sp-nicodic-hotwords
 dic.nicovideo.jp##^#sukinamono_lives
 dic.nicovideo.jp##^.st-Header_PushWord
@@ -112,6 +127,7 @@ watch.impress.co.jp##^.social
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp###comments
 dic.nicovideo.jp###dic_media_scrum_sp
 dic.nicovideo.jp###nicodic-oshirase
+dic.nicovideo.jp###right-column
 dic.nicovideo.jp###sp-nicodic-hotwords
 dic.nicovideo.jp###sukinamono_lives
 dic.nicovideo.jp##.st-Header_PushWord
@@ -120,9 +136,9 @@ dic.nicovideo.jp##.sw-Article_SubContents-pushword
 dic.nicovideo.jp##.sw-Article_Title-sns
 dic.nicovideo.jp##.tp-PopularArticle
 dic.nicovideo.jp##[class="sw-Column tp-TrendWord"]
-dic.nicovideo.jp##div[class*="bbs"]
 dic.nicovideo.jp##[id^="nicoad_article_"]
 dic.nicovideo.jp##[src^="https://wktk.cdn.nimg.jp/wktk/"]
+dic.nicovideo.jp##div[class*="bbs"]
 dic.pixiv.net###bottom_infobar_touch
 dic.pixiv.net###bottom_pixivcomic_touch
 dic.pixiv.net###bottom_spotlight_touch
