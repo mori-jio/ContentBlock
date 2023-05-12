@@ -48,7 +48,7 @@ www.google.*##title-with-lhs-icon:upward(2)
 www.google.com##.AUiS2
 www.youtube.com###comments
 
-!#if firefox
+!#if env_firefox
 *##^#comment-area
 *##^.comment-v2.section-box
 *##^[id^="div-comment-"]
