@@ -117,7 +117,6 @@ watch.impress.co.jp##^.social
 *###comment-area
 *###gdpr-banner
 *##.comment-v2.section-box
-*##.comment-v2.section-box
 *##.plugin-ad
 *##.plugin-blogroll
 *##.section-follow-buttons
