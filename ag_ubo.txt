@@ -39,7 +39,6 @@ www.google.*##.Bhmw4
 www.google.*##.HnYYW:has-text(/他の人/):upward(2)
 www.google.*##.T98FId
 www.google.*##.UUbT9
-www.google.*##.a3Wc3.O8VmIc:has-text(/キーワード|他の人|人気のトピック/):upward(2)
 www.google.*##.related-question-pair:upward(4)
 www.google.*##.wtFsOb:has-text(/トップニュース/)
 www.google.*##block-component
