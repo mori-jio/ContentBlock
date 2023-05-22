@@ -51,6 +51,7 @@ www.youtube.com###comments
 
 !#if env_firefox
 *##^#comment-area
+*##^#comments-thread
 *##^.comment-v2.section-box
 *##^[id^="div-comment-"]
 *##^div[id^="recent_comments_"]
@@ -117,6 +118,7 @@ watch.impress.co.jp##^.social
 
 !#if adguard
 *###comment-area
+*###comments-thread
 *##.comment-v2.section-box
 *##.plugin-ad
 *##.plugin-blogroll
