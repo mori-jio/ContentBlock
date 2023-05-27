@@ -44,10 +44,9 @@ www.google.*##.wtFsOb:has-text(/トップニュース/)
 www.google.*##block-component
 www.google.*##div.J3Tg1d.iPukc.PNCib.isv-r
 www.google.*##div.sc-it[role="listitem"]
-www.google.*##g-accordion
 www.google.*##title-with-lhs-icon:upward(2)
 www.google.com##.AUiS2
-www.youtube.com###comments
+~google.*###comments
 
 !#if env_firefox
 *##^#comment-area
