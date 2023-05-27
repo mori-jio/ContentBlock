@@ -164,13 +164,16 @@ watch.impress.co.jp##^.ranking-title:has-text(/アクセスランキング/):upw
 watch.impress.co.jp##^.social
 www.google.*##.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
 www.ecosia.org##[class^="related-queries__"]
-www.google.*##.appbar
 www.google.*##.uVMCKf
 www.google.*##.wtFsOb:has-text(/トップニュース/)
 www.google.com###Odp5De
 watch.impress.co.jp##.list.topics.recommend
 watch.impress.co.jp##.right.ad > aside.list.topics.ranking
 watch.impress.co.jp##.social
+!#endif
+
+!#if adguard_app_android
+google.com##.appbar
 !#endif
 
 ||clap.blogcms.jp^
