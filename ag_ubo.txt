@@ -106,6 +106,7 @@ www.bing.com##^#brsv3.b_rs
 www.bing.com##^.b_topborder
 www.bing.com##^.pageRecoContainer
 www.bing.com##^.richrswrapper
+www.bing.com##^.sa_as
 www.ecosia.org##^[class^="related-queries__"]
 www.google.*##^#Odp5De
 www.google.*##^.AP7Wnd.deIvCb.BNeawe:has-text(/画像/)
@@ -119,7 +120,7 @@ watch.impress.co.jp##^.right.ad > aside.list.topics.ranking
 watch.impress.co.jp##^.social
 !#endif
 
-!#if adguard
+!#if chromium
 *###comment-area
 *###comments-thread
 *##.comment-v2.section-box
@@ -169,6 +170,7 @@ www.bing.com###brsv3.b_rs
 www.bing.com##.b_topborder
 www.bing.com##.pageRecoContainer
 www.bing.com##.richrswrapper
+www.bing.com##.sa_as
 www.ecosia.org##[class^="related-queries__"]
 www.google.*##.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
 www.google.*##.uVMCKf
