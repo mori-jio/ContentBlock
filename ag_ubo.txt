@@ -120,7 +120,7 @@ watch.impress.co.jp##^.right.ad > aside.list.topics.ranking
 watch.impress.co.jp##^.social
 !#endif
 
-!#if chromium
+!#if adguard
 *###comment-area
 *###comments-thread
 *##.comment-v2.section-box
