@@ -3,6 +3,7 @@
 *###recentcomments
 *###gdpr-banner
 *##.plugin-follow_buttons
+*##.wp-block-comment-template
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.box-border.box-margin.box.plugin-box.plugin-blogroll
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.box-border.box-margin.box.plugin-box.plugin-comment_list
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.extlink.outside-border.blog-footer
@@ -30,6 +31,7 @@ duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news4vip/
 duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/"]
 duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
 fireflyframer.blog.jp##[src^="https://c1.staticflickr.com/"]
+jump.5ch.net##.post-item-box
 nicovideo.jp##.common-header-6zywm
 nicovideo.jp##.suggestBox.nicolib-SuggestSearch-suggestions
 nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register"]
