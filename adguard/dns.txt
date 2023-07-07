@@ -1,3 +1,0 @@
-! Title: AdGuard for Android DNS用追加フィルタ
-||duckdns.org^
-@@||google-analytics.com^|
