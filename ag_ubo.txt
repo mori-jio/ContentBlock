@@ -96,7 +96,6 @@ dic.pixiv.net##^.pixivision-article-section
 fc2.com##^.ad_footer
 freesoft-100.com##^#fadsban
 freesoft-100.com##^.header_banner
-wikiwiki.jp##^#content > .list1
 wikiwiki.jp##^[class*="-comments"]
 w.atwiki.jp##^#newer_ranking_list
 w.atwiki.jp##^#page-ranking-list
@@ -160,7 +159,6 @@ duckduckgo.com##.module-slot
 fc2.com##.ad_footer
 freesoft-100.com###fadsban
 freesoft-100.com##.header_banner
-wikiwiki.jp###content > .list1
 wikiwiki.jp##[class*="-comments"]
 w.atwiki.jp###newer_ranking_list
 w.atwiki.jp###page-ranking-list
