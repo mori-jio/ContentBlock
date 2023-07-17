@@ -1,4 +1,9 @@
-! Title: Content Block filter
+! Title: Content Block filter--
+
+! Test
+*#$#body { -webkit-user-drag: auto !important;}
+*#$#body { -webkit-user-select: auto !important;}
+*#$#body { user-select: auto !important;}
 
 *###recentcomments
 *###gdpr-banner
