@@ -22,6 +22,7 @@
 5ch.net,2ch.sc##dd:has-text(/《プレミアム会員の主な特典》|life time:|💣/)
 5ch.net###overright
 blog.fc2.com##.thread
+dic.nicovideo.jp###right-column
 dic.nicovideo.jp##.lazy-contents
 dic.nicovideo.jp##.sr-List_Nicoad
 dic.nicovideo.jp##.sw-Article_Title-counters
@@ -125,7 +126,6 @@ watch.impress.co.jp##^.social
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp###comments
 dic.nicovideo.jp###dic_media_scrum_sp
 dic.nicovideo.jp###nicodic-oshirase
-dic.nicovideo.jp###right-column
 dic.nicovideo.jp###sp-nicodic-hotwords
 dic.nicovideo.jp###sukinamono_lives
 dic.nicovideo.jp##.st-Header_PushWord
