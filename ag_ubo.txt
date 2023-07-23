@@ -66,20 +66,6 @@ www.google.com##.AUiS2
 duckduckgo.com##^.at-bottom.t-m.related-searches
 dic.nicovideo.jp##^#dic_media_scrum_sp
 dic.nicovideo.jp##^#nicodic-oshirase
-dic.nicovideo.jp##^#dic_media_scrum_sp
-dic.nicovideo.jp###nicodic-oshirase
-dic.nicovideo.jp###right-column
-dic.nicovideo.jp###sp-nicodic-hotwords
-dic.nicovideo.jp###sukinamono_lives
-dic.nicovideo.jp##.st-Header_PushWord
-dic.nicovideo.jp##.sw-Article_Menu
-dic.nicovideo.jp##.sw-Article_SubContents-pushword
-dic.nicovideo.jp##.sw-Article_Title-sns
-dic.nicovideo.jp##.tp-PopularArticle
-dic.nicovideo.jp##[class="sw-Column tp-TrendWord"]
-dic.nicovideo.jp##[id^="nicoad_article_"]
-dic.nicovideo.jp##[src^="https://wktk.cdn.nimg.jp/wktk/"]
-dic.nicovideo.jp##div[class*="bbs"]
 dic.nicovideo.jp##^#sp-nicodic-hotwords
 dic.nicovideo.jp##^#sukinamono_lives
 dic.nicovideo.jp##^.st-Header_PushWord
@@ -102,10 +88,8 @@ fc2.com##^.ad_footer
 freesoft-100.com##^#fadsban
 freesoft-100.com##^.header_banner
 wikiwiki.jp##^[class*="-comments"]
-w.atwiki.jp##^#newer_ranking_list
-w.atwiki.jp##^#page-ranking-list
+w.atwiki.jp##^[id$="_ranking_list"]
 w.atwiki.jp##^#tanuki-list
-w.atwiki.jp##^#wiki-ranking-list
 w.atwiki.jp##^.atwiki-list-title
 w.atwiki.jp##^.atwiki-recent-list
 w.atwiki.jp##^.atwiki-sp-only.atwiki-anchor
@@ -147,7 +131,6 @@ dic.nicovideo.jp###sukinamono_lives
 dic.nicovideo.jp##.st-Header_PushWord
 dic.nicovideo.jp##.sw-Article_Menu
 dic.nicovideo.jp##.sw-Article_SubContents-pushword
-dic.nicovideo.jp##.sw-Article_Title-sns
 dic.nicovideo.jp##.tp-PopularArticle
 dic.nicovideo.jp##[class="sw-Column tp-TrendWord"]
 dic.nicovideo.jp##[id^="nicoad_article_"]
@@ -165,17 +148,12 @@ fc2.com##.ad_footer
 freesoft-100.com###fadsban
 freesoft-100.com##.header_banner
 wikiwiki.jp##[class*="-comments"]
-w.atwiki.jp###newer_ranking_list
-w.atwiki.jp###page-ranking-list
-w.atwiki.jp###tanuki-list
-w.atwiki.jp###wiki-ranking-list
+w.atwiki.jp##[id$="_ranking_list"]
 w.atwiki.jp##.atwiki-list-title
 w.atwiki.jp##.atwiki-recent-list
 w.atwiki.jp##.atwiki-sp-only.atwiki-anchor
 w.atwiki.jp##.atwiki-tanuki-list.atwiki-link-list
 w.atwiki.jp##.plugin_pcomment
-watch.impress.co.jp##^.ranking-title:has-text(/アクセスランキング/):upward(1)
-watch.impress.co.jp##^.social
 www.bing.com###brsv3.b_rs
 www.bing.com##.b_topborder
 www.bing.com##.pageRecoContainer
@@ -184,7 +162,6 @@ www.bing.com##.sa_as
 www.ecosia.org##[class^="related-queries__"]
 www.google.*##.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
 www.google.*##.uVMCKf
-www.google.*##.wtFsOb:has-text(/トップニュース/)
 www.google.com###Odp5De
 watch.impress.co.jp##.list.topics.recommend
 watch.impress.co.jp##.right.ad > aside.list.topics.ranking
