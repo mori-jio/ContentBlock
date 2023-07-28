@@ -202,5 +202,10 @@ google.com##.appbar
 /icon_twitter.$image
 /v1/recommend$domain=nicovideo.jp
 
+||t.afi-b.com^
+||af.moshimo.com^
+?guid=ON
+click?a_id=
+
 ||togetter.com^$all
-|https://jbbs.shitaraba.net/otaku/$all
+|https://jbbs.shitaraba.net/otaku/$all,important
