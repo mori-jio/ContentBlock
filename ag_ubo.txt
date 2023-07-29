@@ -172,6 +172,7 @@ watch.impress.co.jp##.social
 
 !#if adguard_app_android
 google.com##.appbar
+||graph.facebook.com^
 !#endif
 
 ||clap.blogcms.jp^
@@ -179,7 +180,7 @@ google.com##.appbar
 ||t.blog.livedoor.jp^
 ||tanukimatome.jp^$domain=w.atwiki.jp
 ||with2.net^$third-party
-||ad.pr.ameba.jp^$xmlhttprequest,domain=ameblo.jp,important
+||ad.pr.ameba.jp^$domain=ameba.jp|ameblo.jp,important
 ||agree.5ch.net/mona.png$domain=5ch.net
 ||blog.livedoor.jp/js/lite2/floating/
 ||cdn.cookielaw.org/scripttemplates/otSDKStub.js
