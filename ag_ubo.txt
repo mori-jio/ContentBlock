@@ -1,4 +1,4 @@
-! Title: Content Block filter
+! Title: Content Block filter by mori-jio
 
 ! Test
 *#$#body { -webkit-user-drag: auto !important;}
