@@ -59,6 +59,7 @@ www.google.*##div.J3Tg1d.iPukc.PNCib.isv-r
 www.google.*##div.sc-it[role="listitem"]
 www.google.*##title-with-lhs-icon:upward(2)
 www.google.com##.AUiS2
+youtube.com##.ytd-comments.style-scope
 
 !#if adguard
 *###comment-area
