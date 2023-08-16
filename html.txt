@@ -1,5 +1,4 @@
 ! Title: Content Block filter (HTML filters) by mori-jio
-*##^#comment-area
 *##^#comments-thread
 *##^.comment-v2.section-box
 *##^[id^="div-comment-"]
@@ -18,7 +17,6 @@ dic.nicovideo.jp##^.sw-Article_Title-sns
 dic.nicovideo.jp##^.tp-PopularArticle
 dic.nicovideo.jp##^[class="sw-Column tp-TrendWord"]
 dic.nicovideo.jp##^div[class*="bbs"]
-dic.nicovideo.jp##^[id^="nicoad_article_"]
 dic.nicovideo.jp##^[src^="https://wktk.cdn.nimg.jp/wktk/"]
 dic.pixiv.net##^#bottom_infobar_touch
 dic.pixiv.net##^#bottom_pixivcomic_touch
