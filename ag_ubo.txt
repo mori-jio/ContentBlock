@@ -122,7 +122,6 @@ watch.impress.co.jp##.social
 
 !#if adguard_app_android
 google.com##.appbar
-||graph.facebook.com^
 !#endif
 
 ||clap.blogcms.jp^
