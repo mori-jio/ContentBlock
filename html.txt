@@ -42,6 +42,7 @@ www.bing.com##^.pageRecoContainer
 www.bing.com##^.richrswrapper
 www.bing.com##^.sa_as
 www.ecosia.org##^[class^="related-queries__"]
+www.google.*##^.O4T6Pe
 www.google.*##^#Odp5De
 www.google.*##^.AP7Wnd.deIvCb.BNeawe:has-text(/画像/)
 www.google.*##^.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
