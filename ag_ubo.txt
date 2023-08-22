@@ -114,6 +114,7 @@ www.bing.com##.sa_as
 www.ecosia.org##[class^="related-queries__"]
 www.google.*##.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
 www.google.*##.uVMCKf
+www.google.*##.O4T6Pe
 www.google.com###Odp5De
 watch.impress.co.jp##.list.topics.recommend
 watch.impress.co.jp##.right.ad > aside.list.topics.ranking
