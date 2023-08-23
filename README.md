@@ -4,4 +4,4 @@
 * 文法の知識がないので最適なルールではないかも
 * （誰も使わないと思うけど）CC0
 
-[ag_ubo.txt（現在のメイン）](https://raw.githubusercontent.com/mori-jio/ContentBlock/main/ag_ubo.txt)
+[ag_ubo.txt（現在のメイン）](https://raw.githubusercontent.com/mori-jio/ContentBlock/main/ag.txt)
