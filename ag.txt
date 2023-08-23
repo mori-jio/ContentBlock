@@ -67,6 +67,7 @@ www.google.*##title-with-lhs-icon:upward(2)
 www.youtube.com###comments
 m.youtube.com##.comments-entry-point-header
 
+! AdGuard と Chromium系での組み合わせでのみの運用前提ルール
 !#if adguard
 *###comments-thread
 *##.comment-v2.section-box
@@ -159,5 +160,5 @@ google.com##.appbar
 |https://jbbs.shitaraba.net/otaku/$all,important
 
 !#if env_firefox
-!#include html.txt
+!#include ubo_ff.txt
 !#endif
