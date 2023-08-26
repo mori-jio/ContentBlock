@@ -104,13 +104,11 @@ m.youtube.com##.comments-entry-point-header
 !#include ubo_ff.txt
 !#endif
 
-! AdGuardとChromium系での組み合わせでのみの運用前提ルール（泥版アプリで!#includeが動作するのか分からない…）
+! AdGuardとChromium系での組み合わせでのみの運用前提ルール（泥アプリ版で!#includeが動作するのか分からない…）
 !#if adguard
+*###comments-list
 *###comments-thread
 *##.comment-v2.section-box
-*##.plugin-ad
-*##.plugin-blogroll
-*##.section-follow-buttons
 *##[id^="div-comment-"]
 *##div[id^="recent_comments_"]
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp###comments
@@ -119,8 +117,10 @@ dic.nicovideo.jp###nicodic-oshirase
 dic.nicovideo.jp###sp-nicodic-hotwords
 dic.nicovideo.jp###sukinamono_lives
 dic.nicovideo.jp##.st-Header_PushWord
+dic.nicovideo.jp##.sw-Article_List
 dic.nicovideo.jp##.sw-Article_Menu
 dic.nicovideo.jp##.sw-Article_SubContents-pushword
+dic.nicovideo.jp##.sw-Article_Title-sns
 dic.nicovideo.jp##.tp-PopularArticle
 dic.nicovideo.jp##[class="sw-Column tp-TrendWord"]
 dic.nicovideo.jp##[src^="https://wktk.cdn.nimg.jp/wktk/"]
@@ -132,11 +132,11 @@ dic.pixiv.net###inner_pixivcomic_touch
 dic.pixiv.net###inner_pixivnovel_touch
 dic.pixiv.net##.pixivision-article-section
 duckduckgo.com##.at-bottom.t-m.related-searches
-duckduckgo.com##.module-slot
 fc2.com##.ad_footer
 freesoft-100.com###fadsban
 freesoft-100.com##.header_banner
 kakolog.jp##.side
+w.atwiki.jp###tanuki-list
 w.atwiki.jp##.atwiki-list-title
 w.atwiki.jp##.atwiki-recent-list
 w.atwiki.jp##.atwiki-sp-only.atwiki-anchor
@@ -146,18 +146,29 @@ w.atwiki.jp##[id$="_ranking_list"]
 watch.impress.co.jp##.list.topics.recommend
 watch.impress.co.jp##.right.ad > aside.list.topics.ranking
 watch.impress.co.jp##.social
+wikiru.jp##.pcomment
 wikiwiki.jp##[class*="-comments"]
+www.bing.com##.rc_rnDesktop_vlHorizontalImage.rc_vlHorizontalImage
 www.bing.com###brsv3.b_rs
+www.bing.com###rfCarousel > .lightcar.carousel-controls
 www.bing.com##.b_mop.b_ans
+www.bing.com##.b_nwsAns.b_mop.b_ans
+www.bing.com##.b_overlay
+www.bing.com##.b_rrsr
 www.bing.com##.b_topborder
 www.bing.com##.pageRecoContainer
 www.bing.com##.richrswrapper
 www.bing.com##.sa_as
 www.bing.com##li.b_ans
 www.ecosia.org##[class^="related-queries__"]
+www.google.*###Odp5De
+www.google.*##.AP7Wnd.deIvCb.BNeawe:has-text(/画像/)
+www.google.*##.O4T6Pe
 www.google.*##.O4T6Pe
 www.google.*##.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
+www.google.*##.TBC9ub.yG4QQe
+www.google.*##.dmFHw
+www.google.*##.mEUgP:has-text(/他の人|関連|検索|ワード/):upward(2)
 www.google.*##.uVMCKf
-www.google.*###Odp5De
 !#endif
 
