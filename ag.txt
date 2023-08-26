@@ -19,14 +19,14 @@
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.related-articles
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.section-box > .plugin-news
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##aside#lite_link.box-border.box-margin.box.plugin-box.section-box
+5ch.net###overright
 5ch.net##.back-links
 5ch.net##.post:has-text(/《プレミアム会員の主な特典》|life time:|💣/)
 5ch.net,2ch.sc##dd:has-text(/《プレミアム会員の主な特典》|life time:|💣/)
-5ch.net###overright
 ameba.jp##.HomeTopBanner
-ameba.jp,app-amb.jp##[class^="AGP_footer_imageBox"]
-ameba.jp,app-amb.jp##.AGP_footer_bannerContainer
 ameba.jp,app-amb.jp##.AGP_footer > .AGP_footer_h1
+ameba.jp,app-amb.jp##.AGP_footer_bannerContainer
+ameba.jp,app-amb.jp##[class^="AGP_footer_imageBox"]
 blog.fc2.com##.thread
 dic.nicovideo.jp###right-column
 dic.nicovideo.jp##.lazy-contents
@@ -35,22 +35,24 @@ dic.nicovideo.jp##.sw-Article_Title-counters
 dic.nicovideo.jp##.sw-Article_Title-sns
 dic.nicovideo.jp##[id^="nicoad_article_"]
 dic.nicovideo.jp##li.res_reaction
-duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/ghard/"]
-duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/livegalileo/"]
-duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/livejupiter/"]
-duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/mnewsplus/"]
-duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news/"]
-duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news4vip/"]
-duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/"]
-duckduckgo.com,kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
 fireflyframer.blog.jp##[src^="https://c1.staticflickr.com/"]
 jump.5ch.net##.post-item-box
+kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/ghard/"]
+kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/livegalileo/"]
+kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/livejupiter/"]
+kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/mnewsplus/"]
+kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news/"]
+kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news4vip/"]
+kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/"]
+kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
+m.youtube.com##.comments-entry-point-header
 nicovideo.jp##.common-header-6zywm
 nicovideo.jp##.suggestBox.nicolib-SuggestSearch-suggestions
 nicovideo.jp##a[href^="https://account.nicovideo.jp/premium/register"]
 note.com##.o-shareBooster
 shonenjumpplus.com##.series-comment-contents
 watch.impress.co.jp###floating-social-buttons
+www.bing.com###b_pole
 www.google.*##.AUiS2
 www.google.*##.Bhmw4
 www.google.*##.HnYYW:has-text(/他の人/):upward(2)
@@ -64,7 +66,6 @@ www.google.*##div.J3Tg1d.iPukc.PNCib.isv-r
 www.google.*##div.sc-it[role="listitem"]
 www.google.*##title-with-lhs-icon:upward(2)
 www.youtube.com###comments
-m.youtube.com##.comments-entry-point-header
 
 ||clap.blogcms.jp^
 ||t.afi-b.com^
