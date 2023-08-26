@@ -48,8 +48,8 @@ www.bing.com##^.rc_rnDesktop_vlHorizontalImage.rc_vlHorizontalImage
 www.bing.com##^#b_context
 www.bing.com##^#brsv3.b_rs
 www.bing.com##^#rfCarousel > .lightcar.carousel-controls
+www.bing.com##^.b_algoBorder.b_algo
 www.bing.com##^.b_mop.b_ans
-www.bing.com##^.b_nwsAns.b_mop.b_ans
 www.bing.com##^.b_overlay
 www.bing.com##^.b_rrsr
 www.bing.com##^.b_topborder
