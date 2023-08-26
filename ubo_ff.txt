@@ -44,7 +44,7 @@ watch.impress.co.jp##^.right.ad > aside.list.topics.ranking
 watch.impress.co.jp##^.social
 wikiru.jp##^.pcomment
 wikiwiki.jp##^[class*="-comments"]
-www.bing.com##.rc_rnDesktop_vlHorizontalImage.rc_vlHorizontalImage
+www.bing.com##^.rc_rnDesktop_vlHorizontalImage.rc_vlHorizontalImage
 www.bing.com##^#b_context
 www.bing.com##^#brsv3.b_rs
 www.bing.com##^#rfCarousel > .lightcar.carousel-controls
