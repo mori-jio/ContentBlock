@@ -40,10 +40,12 @@ w.atwiki.jp##^.atwiki-sp-only.atwiki-anchor
 w.atwiki.jp##^.atwiki-tanuki-list.atwiki-link-list
 w.atwiki.jp##^.plugin_pcomment
 www.bing.com##^#brsv3.b_rs
+www.bing.com##^.b_mop.b_ans
 www.bing.com##^.b_topborder
 www.bing.com##^.pageRecoContainer
 www.bing.com##^.richrswrapper
 www.bing.com##^.sa_as
+www.bing.com##^li.b_ans
 www.ecosia.org##^[class^="related-queries__"]
 www.google.*##^.O4T6Pe
 www.google.*##^#Odp5De
