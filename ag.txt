@@ -8,7 +8,6 @@
 
 *###gdpr-banner
 *###recentcomments
-*###comments-list
 *##.comment-lists
 *##.comment_area
 *##.plugin-follow_buttons
