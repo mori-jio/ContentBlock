@@ -149,6 +149,7 @@ watch.impress.co.jp##.social
 wikiru.jp##.pcomment
 wikiwiki.jp##[class*="-comments"]
 www.bing.com##.rc_rnDesktop_vlHorizontalImage.rc_vlHorizontalImage
+www.bing.com###b_context
 www.bing.com###brsv3.b_rs
 www.bing.com###rfCarousel > .lightcar.carousel-controls
 www.bing.com##.b_mop.b_ans
@@ -157,6 +158,7 @@ www.bing.com##.b_overlay
 www.bing.com##.b_rrsr
 www.bing.com##.b_topborder
 www.bing.com##.pageRecoContainer
+www.bing.com##.pagereco_CB.pageRecoContainer
 www.bing.com##.richrswrapper
 www.bing.com##.sa_as
 www.bing.com##li.b_ans
