@@ -127,6 +127,7 @@ bing.com##.b_richcard
 bing.com##.b_rrsr
 bing.com##.b_rs
 bing.com##.b_topborder
+bing.com##.b_vtl_deeplinks.b_algo
 bing.com##.b_wikiRichcard_noHeroSection
 bing.com##.cib-serp-main
 bing.com##.inline_tile
