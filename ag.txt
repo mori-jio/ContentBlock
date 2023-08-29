@@ -126,6 +126,7 @@ bing.com##.b_overlay
 bing.com##.b_richcard
 bing.com##.b_rrsr
 bing.com##.b_rs
+bing.com##.b_super_task_pane
 bing.com##.b_topborder
 bing.com##.b_vidAns.b_ans
 bing.com##.b_vtl_deeplinks.b_algo
@@ -136,6 +137,7 @@ bing.com##.pageRecoContainer
 bing.com##.rc_vlHorizontalImage
 bing.com##.richrswrapper
 bing.com##.sa_as
+bing.com##.scs_txt
 bing.com##.tabcap
 bing.com##.wpt_bc_container
 bing.com##li.b_ans
