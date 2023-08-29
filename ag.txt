@@ -127,6 +127,7 @@ bing.com##.b_richcard
 bing.com##.b_rrsr
 bing.com##.b_rs
 bing.com##.b_topborder
+bing.com##.b_vidAns.b_ans
 bing.com##.b_vtl_deeplinks.b_algo
 bing.com##.b_wikiRichcard_noHeroSection
 bing.com##.cib-serp-main
@@ -136,6 +137,8 @@ bing.com##.rc_vlHorizontalImage
 bing.com##.richrswrapper
 bing.com##.sa_as
 bing.com##.tabcap
+bing.com##.wpt_bc_container
+bing.com##li.b_ans
 dic.nicovideo.jp###dic_media_scrum_sp
 dic.nicovideo.jp###nicodic-oshirase
 dic.nicovideo.jp###sp-nicodic-hotwords
