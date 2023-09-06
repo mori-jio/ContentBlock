@@ -1,11 +1,6 @@
 ! Title: Content Block filter by mori-jio
 ! Homepage: https://github.com/mori-jio/ContentBlock
 
-! Test
-*#$#body { -webkit-user-drag: auto !important;}
-*#$#body { -webkit-user-select: auto !important;}
-*#$#body { user-select: auto !important;}
-
 *###gdpr-banner
 *###recentcomments
 *##.comment-lists
