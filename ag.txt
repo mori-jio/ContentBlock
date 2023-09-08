@@ -23,6 +23,7 @@ ameba.jp,app-amb.jp##.AGP_footer > .AGP_footer_h1
 ameba.jp,app-amb.jp##.AGP_footer_bannerContainer
 ameba.jp,app-amb.jp##[class^="AGP_footer_imageBox"]
 bing.com###b_pole
+bing.com##.pageRecoContainer
 blog.fc2.com##.thread
 dic.nicovideo.jp###right-column
 dic.nicovideo.jp##.lazy-contents
