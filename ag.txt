@@ -24,6 +24,7 @@ ameba.jp,app-amb.jp##.AGP_footer_bannerContainer
 ameba.jp,app-amb.jp##[class^="AGP_footer_imageBox"]
 bing.com###b_pole
 bing.com##.pageRecoContainer
+bing.com##.sa_drw
 blog.fc2.com##.thread
 dic.nicovideo.jp###right-column
 dic.nicovideo.jp##.lazy-contents
