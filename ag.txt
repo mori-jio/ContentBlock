@@ -88,6 +88,13 @@ www.youtube.com###comments
 ||www.youtube.com/live_chat$subdocument
 ! temporary
 ||dic.nicovideo.jp^all
+! mobile
+||ad-gateway.api.screen.rakuten.co.jp^
+||gateway-api.global.rakuten.com^
+||static.event.notifier.rakuten.co.jp^
+||tracking-gateway.api.screen.rakuten.co.jp^
+! 確実に不具合あり必要時はオフ
+||obs.line-scdn.net^
 
 /_/json/blog_news_sp.json
 /_/json/pbp_ranking.json
