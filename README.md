@@ -4,4 +4,4 @@
 * 文法の知識がないので最適なルールではないかも
 * （誰も使わないと思うけど）CC0
 
-[ag.txt（現在のメイン）](https://raw.githubusercontent.com/mori-jio/ContentBlock/main/ag.txt)
+[filter.txt（現在のメイン）](https://raw.githubusercontent.com/mori-jio/ContentBlock/main/filter.txt)
