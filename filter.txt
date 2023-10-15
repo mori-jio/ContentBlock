@@ -16,8 +16,6 @@
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##aside#lite_link.box-border.box-margin.box.plugin-box.section-box
 5ch.net###overright
 5ch.net##.back-links
-5ch.net##.post:has-text(/《プレミアム会員の主な特典》|life time:|💣/)
-5ch.net,2ch.sc##dd:has-text(/《プレミアム会員の主な特典》|life time:|💣/)
 ameba.jp##.HomeTopBanner
 ameba.jp,app-amb.jp##.AGP_footer > .AGP_footer_h1
 ameba.jp,app-amb.jp##.AGP_footer_bannerContainer
