@@ -21,6 +21,7 @@ ameba.jp,app-amb.jp##.AGP_footer > .AGP_footer_h1
 ameba.jp,app-amb.jp##.AGP_footer_bannerContainer
 ameba.jp,app-amb.jp##[class^="AGP_footer_imageBox"]
 bing.com###b_pole
+bing.com##.b_poleContent
 bing.com##.cib-serp-main
 bing.com##.pageRecoContainer
 bing.com##.sa_drw
