@@ -7,6 +7,8 @@
 *##.comment_area
 *##.plugin-follow_buttons
 *##.wp-block-comment-template
+*##[id^="modernImgRSS"]
+*##[id^="modernRSS"]
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.box-border.box-margin.box.plugin-box.plugin-blogroll
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.box-border.box-margin.box.plugin-box.plugin-comment_list
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.extlink.outside-border.blog-footer
@@ -16,10 +18,6 @@
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##aside#lite_link.box-border.box-margin.box.plugin-box.section-box
 5ch.net###overright
 5ch.net##.back-links
-ameba.jp##.HomeTopBanner
-ameba.jp,app-amb.jp##.AGP_footer > .AGP_footer_h1
-ameba.jp,app-amb.jp##.AGP_footer_bannerContainer
-ameba.jp,app-amb.jp##[class^="AGP_footer_imageBox"]
 bing.com###ans_nws
 bing.com###b_pole
 bing.com###b_rs
@@ -52,9 +50,9 @@ bing.com##.sa_drw
 bing.com##.tabcap
 bing.com##.wpt_bc_container
 bing.com##li.b_ans
-www.bing.com##.b_poleContent
-www.bing.com##.b_super_task_pane
-www.bing.com##.scs_txt
+bing.com##.b_poleContent
+bing.com##.b_super_task_pane
+bing.com##.scs_txt
 blog.fc2.com##.thread
 dic.nicovideo.jp###right-column
 dic.nicovideo.jp##.lazy-contents
@@ -63,7 +61,6 @@ dic.nicovideo.jp##.sw-Article_Title-counters
 dic.nicovideo.jp##.sw-Article_Title-sns
 dic.nicovideo.jp##[id^="nicoad_article_"]
 dic.nicovideo.jp##li.res_reaction
-figsoku.net##[id^="modernRSS"]
 fireflyframer.blog.jp##[src^="https://c1.staticflickr.com/"]
 jump.5ch.net##.post-item-box
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/ghard/"]
