@@ -37,7 +37,7 @@ bing.com##.tabcap
 bing.com##.wpt_bc_container
 bing.com##li.b_ans
 dic.nicovideo.jp###dic_media_scrum_sp
-dic.nicovideo.jp###nicodic-oshirase
+dic.nicovideo.jp##.oshirase
 dic.nicovideo.jp###sp-nicodic-hotwords
 dic.nicovideo.jp###sukinamono_lives
 dic.nicovideo.jp##.st-Header_PushWord
