@@ -88,6 +88,7 @@ www.google.*##.uVMCKf
 ||uts-front.line-apps.com^
 ||vos.line-scdn.net^
 ||gateway-api.global.rakuten.com^
+||02.api.screen.rakuten.co.jp/pointg?$app=jp.co.rakuten.slide
 ||flyer-announce.api.screen.rakuten.co.jp^$app=jp.co.rakuten.slide
 ||flyer.screen.r10s.jp^$app=jp.co.rakuten.slide
 ||flyer.screen.rakuten.co.jp^$app=jp.co.rakuten.slide
