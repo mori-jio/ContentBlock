@@ -96,6 +96,30 @@ www.google.*##.uVMCKf
 ||static.event.notifier.rakuten.co.jp^$app=jp.co.rakuten.slide
 ||thumbnail.image.rakuten.co.jp^$app=jp.co.rakuten.slide
 ||tshop.r10s.jp^$app=jp.co.rakuten.slide
+! DNSオフテスト運用
+||a.line.me^
+||ad.skyflag.jp^
+||am.yahoo.co.jp^
+||api-sdk.beaconbank.jp^
+||app-gt.com^
+||app.mmate.jp^
+||appsflyersdk.com^
+||baibai.co.jp^
+||dbadorekkusu.site^
+||error.rakuten.co.jp^
+||events.mz.unity3d.com^
+||graph.facebook.com^
+||im-apps.net^
+||in.appcenter.ms^
+||lap-click.tr.line.me^
+||mssdk-sg-bu.byteoversea.com^
+||pangle-b.io^
+||rat.rakuten.co.jp^
+||s-evt.rmp.rakuten.co.jp^
+||self.events.data.microsoft.com^
+||teleport.soom.la^
+||www.ads.trip-mile.com^
+! END
 ! 予約システムが使えなくなるため必要に応じてオフ
 ||obs.line-scdn.net^
 !#endif
