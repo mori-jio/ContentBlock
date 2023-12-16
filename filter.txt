@@ -111,8 +111,6 @@ www.youtube.com###comments
 ||watch.impress.co.jp^*/special-sites$domain=watch.impress.co.jp
 ||staticflickr.com^
 ||www.youtube.com/live_chat$subdocument
-! temporary
-||dic.nicovideo.jp^all
 /_/json/blog_news_sp.json
 /_/json/pbp_ranking.json
 /_/json/ranking_
