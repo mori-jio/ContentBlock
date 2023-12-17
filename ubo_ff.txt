@@ -8,7 +8,6 @@
 *##^[id^="div-comment-"]
 *##^div[id^="recent_comments_"]
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp,srad.jp###comments
-
 bing.com##^#ans_nws
 bing.com##^#b_rs
 bing.com##^#b_sydTigerCont
@@ -70,9 +69,9 @@ w.atwiki.jp##^.atwiki-tanuki-list.atwiki-link-list
 w.atwiki.jp##^.plugin_pcomment
 w.atwiki.jp##^[id$="_ranking_list"]
 watch.impress.co.jp##^.extension.recursive
-watch.impress.co.jp##^.list.topics.recommend
-watch.impress.co.jp##^.right.ad > aside.list.topics.ranking
+watch.impress.co.jp##^.list.topics.ranking
 watch.impress.co.jp##^.social
+watch.impress.co.jp##^.topics.recommend
 wikiru.jp##^.pcomment
 wikiwiki.jp##^[class*="-comments"]
 www.ecosia.org##div[class*="related-queries__"]
