@@ -107,8 +107,7 @@ www.youtube.com###comments
 ||rdc-api-catalog-gateway-api.rakuten.co.jp/gsp-ac/autocomplete/v1/autocomplete.jp_websearch_page?callback=
 ||w.atwiki.jp/common/dist/js/social_button.js
 ||wktk.cdn.nimg.jp/wktk/$image
-||watch.impress.co.jp^*/ranking/access_$domain=watch.impress.co.jp
-||watch.impress.co.jp^*/special-sites$domain=watch.impress.co.jp
+||watch.impress.co.jp/include/auto/$domain=watch.impress.co.jp
 ||staticflickr.com^
 ||www.youtube.com/live_chat$subdocument
 /_/json/blog_news_sp.json
