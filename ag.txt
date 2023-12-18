@@ -72,6 +72,7 @@ watch.impress.co.jp##.extension.recursive
 watch.impress.co.jp##.list.topics.ranking
 watch.impress.co.jp##.social
 watch.impress.co.jp##.topics.recommend
+watch.impress.co.jp##.topics.top-news
 wikiru.jp##.pcomment
 wikiwiki.jp##[class*="-comments"]
 www.ecosia.org##div[class*="related-queries__"]
