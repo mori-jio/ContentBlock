@@ -88,7 +88,8 @@ www.google.*##.uVMCKf
 
 !#if adguard_app_android
 ||gateway-api.global.rakuten.com^$app=jp.co.rakuten.health.android|jp.co.rakuten.kc.rakutencardapp.android|jp.co.rakuten.slide
-||02.api.screen.rakuten.co.jp/pointg?$app=jp.co.rakuten.slide
+||02.api.screen.rakuten.co.jp/1/adwall?type=$,image,app=jp.co.rakuten.slide
+||02.api.screen.rakuten.co.jp/pointg?sps_d_act=$app=jp.co.rakuten.slide
 ||flyer-announce.api.screen.rakuten.co.jp^$app=jp.co.rakuten.slide
 ||flyer.screen.r10s.jp^$app=jp.co.rakuten.slide
 ||flyer.screen.rakuten.co.jp^$app=jp.co.rakuten.slide
