@@ -76,4 +76,5 @@ www.bing.com##^.tabcap
 www.bing.com##^.wpt_bc_container
 www.bing.com##^li.b_ans
 www.ecosia.org##div[class*="related-queries__"]
+www.google.com##^.oIk2Cb
 www.google.*##^.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
