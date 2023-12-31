@@ -4,4 +4,5 @@
 * 文法の知識がないので最適なルールではないかも
 * （誰も使わないと思うけど）CC0
 * （Google先生の関連キーワード系はもう諦めよう…）
+  
 [filter.txt（現在のメイン）](https://raw.githubusercontent.com/mori-jio/ContentBlock/main/filter.txt)
