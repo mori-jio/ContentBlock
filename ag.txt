@@ -78,9 +78,10 @@ www.bing.com##li.b_ans
 www.ecosia.org##div[class*="related-queries__"]
 www.google.*###Odp5De
 www.google.*##.AP7Wnd.deIvCb.BNeawe:has-text(/画像/)
-www.google.com##.oIk2Cb
 www.google.*##.O4T6Pe
 www.google.*##.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
+www.google.com##.oIk2Cb
+www.google.com##.yG4QQe.TBC9ub
 
 !#if adguard_app_android
 ||gateway-api.global.rakuten.com^$app=jp.co.rakuten.health.android|jp.co.rakuten.kc.rakutencardapp.android|jp.co.rakuten.slide
