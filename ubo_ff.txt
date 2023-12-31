@@ -79,7 +79,6 @@ www.ecosia.org##div[class*="related-queries__"]
 www.google.*##^#Odp5De
 www.google.*##^.AP7Wnd.deIvCb.BNeawe:has-text(/画像/)
 www.google.*##^.O4T6Pe
-www.google.*##^.O4T6Pe
 www.google.*##^.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
 www.google.*##^.TBC9ub.yG4QQe
 www.google.*##^.dmFHw
