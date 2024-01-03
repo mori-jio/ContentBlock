@@ -59,7 +59,6 @@ www.bing.com##.b_rrsr
 www.bing.com##.b_rs
 www.bing.com##.b_super_task_pane
 www.bing.com##.b_topborder
-www.bing.com##.b_vidAns.b_ans
 www.bing.com##.b_vtl_deeplinks.b_algo
 www.bing.com##.b_wikiRichcard_noHeroSection
 www.bing.com##.cib-serp-main
