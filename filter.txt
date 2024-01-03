@@ -61,7 +61,6 @@ www.bing.com##.b_super_task_pane
 www.bing.com##.b_topborder
 www.bing.com##.b_vtl_deeplinks.b_algo
 www.bing.com##.b_wikiRichcard_noHeroSection
-www.bing.com##.cib-serp-main
 www.bing.com##.inline_tile
 www.bing.com##.pageRecoContainer
 www.bing.com##.rc_vlHorizontalImage
