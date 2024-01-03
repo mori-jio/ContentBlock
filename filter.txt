@@ -48,12 +48,12 @@ www.bing.com###b_rs
 www.bing.com###b_sydTigerCont
 www.bing.com###inline_ip
 www.bing.com###miniheader_data
+www.bing.com###relatedSearchesLGWContainer
 www.bing.com###rfCarousel
 www.bing.com##.b_algoBorder.b_algo
 www.bing.com##.b_annooverride
 www.bing.com##.b_listnav
 www.bing.com##.b_mop.b_ans
-www.bing.com##.b_overlay
 www.bing.com##.b_richcard
 www.bing.com##.b_rrsr
 www.bing.com##.b_rs
