@@ -79,6 +79,8 @@ www.google.*##block-component
 www.google.*##div.sc-it[role="listitem"]
 ! スマホ版画像検索上のキーワード
 www.google.*##.dmFHw
+! 関連キーワード系 もう適当
+www.google.*###main > div > .pkphOe.EtOod.xpd.Gx5Zad
 www.youtube.com###comments
 
 ||clap.blogcms.jp^
