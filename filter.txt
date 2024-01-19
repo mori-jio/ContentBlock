@@ -87,6 +87,7 @@ www.youtube.com###comments
 ||t.afi-b.com^
 ||af.moshimo.com^
 ||counter.wikiwiki.jp^$xmlhttprequest,domain=wikiwiki.jp
+||platform.twitter.com^
 ||t.blog.livedoor.jp^
 ||tanukimatome.jp^$domain=w.atwiki.jp
 ||with2.net^$third-party
