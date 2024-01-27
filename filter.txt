@@ -69,6 +69,7 @@ www.bing.com##.sa_as
 www.bing.com##.scs_txt
 www.bing.com##.tabcap
 www.bing.com##.wpt_bc_container
+www.bing.com###inline_rs
 www.bing.com##li.b_ans
 www.ecosia.org##.mainline__result.videos-snippet.snippet
 www.google.*##.AUiS2
