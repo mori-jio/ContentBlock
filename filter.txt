@@ -47,6 +47,7 @@ www.bing.com###ans_nws
 www.bing.com###b_rs
 www.bing.com###b_sydTigerCont
 www.bing.com###inline_ip
+www.bing.com###inline_rs
 www.bing.com###miniheader_data
 www.bing.com###relatedSearchesLGWContainer
 www.bing.com###rfCarousel
