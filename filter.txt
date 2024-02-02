@@ -114,7 +114,9 @@ www.youtube.com###comments
 /v1/recommend$domain=nicovideo.jp
 
 ! 残念なサイト
+*##[href*="togetter.com"]
 ||togetter.com^$all,important
+*##[href*="twitter.com"]
 ||twitter.com^$all,important
 
 !#if env_firefox
