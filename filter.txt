@@ -89,7 +89,6 @@ www.youtube.com###comments
 ||t.afi-b.com^
 ||af.moshimo.com^
 ||counter.wikiwiki.jp^$xmlhttprequest,domain=wikiwiki.jp
-||platform.twitter.com^
 ||t.blog.livedoor.jp^
 ||tanukimatome.jp^$domain=w.atwiki.jp
 ||with2.net^$third-party
@@ -113,7 +112,8 @@ www.youtube.com###comments
 /icon_rss.$image
 /icon_twitter.$image
 /v1/recommend$domain=nicovideo.jp
-||togetter.com^$all
+||togetter.com^$all,important
+||twitter.com^$all,important
 |https://jbbs.shitaraba.net/otaku/$all,important
 
 !#if env_firefox
