@@ -112,10 +112,10 @@ www.youtube.com###comments
 /icon_rss.$image
 /icon_twitter.$image
 /v1/recommend$domain=nicovideo.jp
+
 ! 残念なサイト
 ||togetter.com^$all,important
 ||twitter.com^$all,important
-|https://jbbs.shitaraba.net/otaku/$all,important
 
 !#if env_firefox
 !#include ubo_ff.txt
