@@ -120,10 +120,14 @@ www.youtube.com###comments
 *##[href*="twitter.com"]
 ||twitter.com^$all,important
 
-!#if env_firefox
+!#if cap_html_filtering
 !#include ubo_ff.txt
 !#endif
 
 !#if adguard
+!#include ag.txt
+!#endif
+
+!#if env_chromium
 !#include ag.txt
 !#endif
