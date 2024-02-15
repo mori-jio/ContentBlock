@@ -40,7 +40,6 @@ w.atwiki.jp##^.atwiki-sp-only.atwiki-anchor
 w.atwiki.jp##^.atwiki-tanuki-list.atwiki-link-list
 w.atwiki.jp##^.plugin_pcomment
 w.atwiki.jp##^[id$="_ranking_list"]
-watch.impress.co.jp##^.extension.recursive
 watch.impress.co.jp##^.list.topics.ranking
 watch.impress.co.jp##^.social
 watch.impress.co.jp##^.topics.recommend
