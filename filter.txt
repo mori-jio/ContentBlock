@@ -46,6 +46,7 @@ watch.impress.co.jp###floating-social-buttons
 watch.impress.co.jp##.extension.recursive
 www.bing.com##.pageRecoContainer
 www.bing.com##.b_rs
+www.bing.com##.b_mop.b_ans
 www.google.*##.AUiS2
 www.google.*##.Bhmw4
 www.google.*##.UUbT9
