@@ -8,6 +8,7 @@
 *##div[id^="recent_comments_"]
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp,srad.jp###comments
 dic.nicovideo.jp###dic_media_scrum_sp
+dic.nicovideo.jp###nicoad_users_article_sp
 dic.nicovideo.jp##.oshirase
 dic.nicovideo.jp###sp-nicodic-hotwords
 dic.nicovideo.jp###sukinamono_lives
