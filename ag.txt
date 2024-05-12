@@ -63,4 +63,5 @@ www.google.com##.yG4QQe.TBC9ub
 ||static.event.notifier.rakuten.co.jp^$app=jp.co.rakuten.slide
 ||thumbnail.image.rakuten.co.jp^$app=jp.co.rakuten.slide
 ||tshop.r10s.jp^$app=jp.co.rakuten.slide
+www.infoseek.co.jp###content
 !#endif
