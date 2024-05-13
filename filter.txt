@@ -88,11 +88,9 @@ www.youtube.com###comments
 /v1/recommend$domain=nicovideo.jp
 
 ! 残念なサイト
-*##[href*="togetter.com"]
+||dic.nicovideo.jp^$all,important
 ||togetter.com^$all,important
-*##[href*="twitter.com"]
 ||twitter.com^$all,important
-*##[href^="https://nanj*od.com"]
 ||nanj*od.com^$all,important
 
 !#if cap_html_filtering
