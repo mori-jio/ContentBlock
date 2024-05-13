@@ -87,11 +87,11 @@ www.youtube.com###comments
 /icon_twitter.$image
 /v1/recommend$domain=nicovideo.jp
 
-! 残念なサイト
 ||dic.nicovideo.jp^$all,important
 ||togetter.com^$all,important
 ||twitter.com^$all,important
 ||nanj*od.com^$all,important
+/aniwotawiki/$all
 
 !#if cap_html_filtering
 !#include ubo_ff.txt
