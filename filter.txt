@@ -87,6 +87,7 @@ www.youtube.com###comments
 /icon_twitter.$image
 /v1/recommend$domain=nicovideo.jp
 
+||2ch.net^$all,important
 ||dic.nicovideo.jp^$all,important
 ||togetter.com^$all,important
 ||twitter.com^$all,important
