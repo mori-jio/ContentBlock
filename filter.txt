@@ -91,7 +91,8 @@ www.youtube.com###comments
 ||togetter.com^$all,important
 ||twitter.com^$all,important
 ||nanj*od.com^$all,important
-/aniwotawiki/$all
+|https://wikiwiki.jp/aniwota/$all,important
+|https://w.atwiki.jp/aniwotawiki/$all,important
 
 !#if cap_html_filtering
 !#include ubo_ff.txt
