@@ -68,7 +68,7 @@ www.youtube.com###comments
 ||tanukimatome.jp^$domain=w.atwiki.jp
 ||with2.net^$third-party
 ||ad.pr.ameba.jp^$domain=ameba.jp|ameblo.jp,important
-||agree.5ch.net/mona.png$domain=5ch.net
+||agree.5ch.net/*.png$image
 ||blog.livedoor.jp/js/lite2/floating/
 ||cdn.cookielaw.org/scripttemplates/otSDKStub.js
 ||connect.facebook.net^*/sdk.js
