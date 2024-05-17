@@ -51,7 +51,7 @@ www.google.*##.AUiS2
 www.google.*##.Bhmw4
 www.google.*##.UUbT9
 www.google.*##.wtFsOb:has-text(/トップニュース/)
-www.google.*##block-component
+! www.google.*##block-component
 www.google.*##div.sc-it[role="listitem"]
 www.nicovideo.jp##^.UadVideosContainer.Card
 ! スマホ版画像検索上のキーワード
