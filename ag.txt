@@ -56,7 +56,7 @@ www.google.com##.yG4QQe.TBC9ub
 www.infoseek.co.jp###content
 
 !#if adguard_app_android
-||gateway-api.global.rakuten.com^$app=jp.co.rakuten.health.android|jp.co.rakuten.slide
+||gateway-api.global.rakuten.com^$app=jp.co.rakuten.slide
 ||flyer-announce.api.screen.rakuten.co.jp^$app=jp.co.rakuten.slide
 ||flyer.screen.r10s.jp^$app=jp.co.rakuten.slide
 ||flyer.screen.rakuten.co.jp^$app=jp.co.rakuten.slide
