@@ -35,7 +35,7 @@ kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news4vip/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
-m.youtube.com##.comments-entry-point-header
+m.youtube.com##.modern-styling
 nicovideo.jp##.common-header-6zywm
 nicovideo.jp##.FormationFrame-message
 nicovideo.jp##.suggestBox.nicolib-SuggestSearch-suggestions
