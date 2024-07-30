@@ -89,6 +89,7 @@ www.youtube.com###comments
 
 ||2ch.net^$all,important
 ||dic.nicovideo.jp^$all,important
+||note.com^$all,important
 ||togetter.com^$all,important
 ||twitter.com^$all,important
 ||nanj*od.com^$all,important
