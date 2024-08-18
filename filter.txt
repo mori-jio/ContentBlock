@@ -24,6 +24,7 @@ dic.nicovideo.jp##.sr-List_Nicoad
 dic.nicovideo.jp##.sw-Article_Title-counters
 dic.nicovideo.jp##.sw-Article_Title-sns
 dic.nicovideo.jp##[id^="nicoad_article_"]
+dic.nicovideo.jp##[id^="recommended_contents"]
 dic.nicovideo.jp##li.res_reaction
 fireflyframer.blog.jp##[src^="https://c1.staticflickr.com/"]
 jump.5ch.net##.post-item-box
@@ -85,7 +86,6 @@ www.youtube.com###comments
 /_/json/ranking_
 /icon_rss.$image
 /icon_twitter.$image
-/v1/recommend$domain=nicovideo.jp
 
 ||2ch.net^$all,important
 ||dic.nicovideo.jp^$all,important
