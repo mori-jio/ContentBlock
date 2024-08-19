@@ -88,6 +88,8 @@ www.youtube.com###comments
 /icon_twitter.$image
 
 ||2ch.net^$all,important
+||5ch.net^$document
+@@||5ch.net/test/read.cgi/gamesm/
 ||dic.nicovideo.jp^$all,important
 ||note.com^$all,important
 ||togetter.com^$all,important
@@ -96,6 +98,7 @@ www.youtube.com###comments
 |https://w.atwiki.jp/aniwotawiki/$all,important
 |https://wiki3.jp/aniwotadata/$all,important
 |https://wikiwiki.jp/aniwota/$all,important
+|https://w.atwiki.jp/gcmatome/$all,important
 
 !#if cap_html_filtering
 !#include ubo_ff.txt
