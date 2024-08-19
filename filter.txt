@@ -80,6 +80,7 @@ www.youtube.com###comments
 /icon_twitter.$image
 
 ||2ch.net^$all,important
+||2ch.sc^$all,important
 ||5ch.net^$document
 @@||5ch.net/test/read.cgi/gamesm/
 ||dic.nicovideo.jp^$all,important
