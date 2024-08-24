@@ -82,7 +82,7 @@ www.youtube.com###comments
 ||2ch.net^$all,important
 ||2ch.sc^$all,important
 ||5ch.net^$document
-@@||5ch.net/test/read.cgi/gamesm/
+@@||5ch.net/*/read.cgi/gamesm/
 ||dic.nicovideo.jp^$all,important
 ||note.com^$all,important
 ||togetter.com^$all,important
