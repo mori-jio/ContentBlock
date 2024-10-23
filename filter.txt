@@ -81,11 +81,7 @@ www.youtube.com###comments
 
 ||2ch.net^$all,important
 ||2ch.sc^$all,important
-||5ch.net^$document
-@@||egg.5ch.net/test/read.cgi/game/
-
-@@||krsw.5ch.net/test/read.cgi/gamesm/
-@@||itest.5ch.net/krsw/test/read.cgi/gamesm/
+||5ch.net^all,important
 ||dic.nicovideo.jp^$all,important
 ||note.com^$all,important
 ||togetter.com^$all,important
