@@ -1,14 +1,6 @@
 ! Title: Content Block filter by mori-jio
 ! Homepage: https://github.com/mori-jio/ContentBlock
 
-*###gdpr-banner
-*###recentcomments
-*##.comment-lists
-*##.comment_area
-*##.plugin-follow_buttons
-*##.wp-block-comment-template
-*##[id^="modernImgRSS"]
-*##[id^="modernRSS"]
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.box-border.box-margin.box.plugin-box.plugin-blogroll
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.box-border.box-margin.box.plugin-box.plugin-comment_list
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.extlink.outside-border.blog-footer
