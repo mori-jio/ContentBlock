@@ -37,7 +37,6 @@ nicovideo.jp##.common-header-6zywm
 nicovideo.jp##.FormationFrame-message
 nicovideo.jp##.suggestBox.nicolib-SuggestSearch-suggestions
 note.com##.o-shareBooster
-shonenjumpplus.com##.series-comment-contents
 watch.impress.co.jp###floating-social-buttons
 watch.impress.co.jp##.extension.recursive
 www.bing.com###inline_rs
@@ -87,7 +86,6 @@ www.youtube.com###comments
 ||2ch.sc^$all,important
 ||5ch.net^all,important
 ||dic.nicovideo.jp^$all,important
-||note.com^$all,important
 ||togetter.com^$all,important
 ||twitter.com^$all,important
 ||nanj*od.com^$all,important
