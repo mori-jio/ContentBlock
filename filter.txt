@@ -89,9 +89,8 @@ www.youtube.com###comments
 ||togetter.com^$all,important
 ||twitter.com^$all,important
 ||nanj*od.com^$all,important
-|https://w.atwiki.jp/aniwotawiki/$all,important
-|https://wiki3.jp/aniwotadata/$all,important
-|https://wikiwiki.jp/aniwota/$all,important
+! |https://w.atwiki.jp/aniwotawiki/$all,important
+! |https://wiki3.jp/aniwotadata/$all,important
 ! |https://w.atwiki.jp/gcmatome/$all,important
 
 !#if cap_html_filtering
