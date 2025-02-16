@@ -87,6 +87,20 @@ www.youtube.com###comments
 /matomedane$all,important
 /nanase_aoi$document,important
 /wintermutex$document,important
+/AI_otintin$all,important
+/Cinq_en_Sion$all,important
+/Dr_HAKU6697$all,important
+/HaruruChanDesu$all,important
+/Kusanimal$all,important
+/a_tnk3$all,important
+/chanmaro360$all,important
+/iA06vtl$all,important
+/lamrongol$all,important
+/moripan2_ano$all,important
+/ppp_pppp2020$all,important
+/rito_92s5Yq$all,important
+/royal_UDON$all,important
+/x_aorichan_x$all,important
 /icon_rss.$image
 /icon_twitter.$image
 
