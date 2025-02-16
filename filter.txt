@@ -79,8 +79,9 @@ www.youtube.com###comments
 /_/json/blog_news_sp.json
 /_/json/pbp_ranking.json
 /_/json/ranking_
-/*rolist_kr$all,important
+/Brolist_kr$all,important
 /htmk73$all,important
+/matomedane$all,important
 /jin115$all,important
 /icon_rss.$image
 /icon_twitter.$image
