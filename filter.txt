@@ -32,6 +32,7 @@ kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news4vip/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
+www.google.*,www.pixiv.net##[href^="https://www.pixiv.net/users/2320114"]
 www.google.*,*##[href*="/Brolist_kr"]
 www.google.*,*##[href*="/brolist_kr"]
 m.youtube.com##.modern-styling
@@ -52,8 +53,6 @@ www.google.*##.wtFsOb:has-text(/トップニュース/)
 ! www.google.*##block-component
 www.google.*##div.sc-it[role="listitem"]
 www.nicovideo.jp##^.UadVideosContainer.Card
-! スマホ版画像検索上のキーワード
-www.google.*##.dmFHw
 ! 関連キーワード系 もう適当
 www.google.*###main > div > .pkphOe.EtOod.xpd.Gx5Zad
 www.youtube.com###comments
@@ -102,11 +101,13 @@ www.youtube.com###comments
 ||nanjgod.com^$all,important
 ||posfie.com^$all,important
 ||togetter.com^$all,important
+||twipla.jp^$all,important
 ||twitter.com^$all,important
 ||www.gadget2ch.com^$all,important
 ||x.com^$all,important
 ||yaraon-blog.com^$all,important
 |https://w.atwiki.jp/genai_problem/$all,important
+|https://www.pixiv.net/users/2320114/$all,important
 ! |https://w.atwiki.jp/aniwotawiki/$all,important
 ! |https://wiki3.jp/aniwotadata/$all,important
 ! |https://w.atwiki.jp/gcmatome/$all,important
