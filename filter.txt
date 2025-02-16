@@ -32,6 +32,8 @@ kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news4vip/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
+www.google.*,*##[href*="/Brolist_kr"]
+www.google.*,*##[href*="/brolist_kr"]
 m.youtube.com##.modern-styling
 nicovideo.jp##.common-header-6zywm
 nicovideo.jp##.FormationFrame-message
@@ -79,7 +81,7 @@ www.youtube.com###comments
 /_/json/blog_news_sp.json
 /_/json/pbp_ranking.json
 /_/json/ranking_
-/Brolist_kr$all,important
+/brolist_kr$all,important
 /genai_problem$document,important
 /htmk73$all,important
 /jin115$all,important
