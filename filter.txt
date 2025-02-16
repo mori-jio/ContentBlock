@@ -80,9 +80,12 @@ www.youtube.com###comments
 /_/json/pbp_ranking.json
 /_/json/ranking_
 /Brolist_kr$all,important
+/genai_problem$document,important
 /htmk73$all,important
-/matomedane$all,important
 /jin115$all,important
+/matomedane$all,important
+/nanase_aoi$document,important
+/wintermutex$document,important
 /icon_rss.$image
 /icon_twitter.$image
 
@@ -92,6 +95,7 @@ www.youtube.com###comments
 ||blog.esuteru.com^$all,important
 ||buhitter.com^$all,important
 ||dic.nicovideo.jp^$all,important
+||gakyusoku.blog.jp^$all,important
 ||jin115.com^$all,important
 ||nanjgod.com^$all,important
 ||posfie.com^$all,important
@@ -100,6 +104,7 @@ www.youtube.com###comments
 ||www.gadget2ch.com^$all,important
 ||x.com^$all,important
 ||yaraon-blog.com^$all,important
+|https://w.atwiki.jp/genai_problem/$all,important
 ! |https://w.atwiki.jp/aniwotawiki/$all,important
 ! |https://wiki3.jp/aniwotadata/$all,important
 ! |https://w.atwiki.jp/gcmatome/$all,important
