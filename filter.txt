@@ -79,16 +79,26 @@ www.youtube.com###comments
 /_/json/blog_news_sp.json
 /_/json/pbp_ranking.json
 /_/json/ranking_
+/*rolist_kr$all,important
+/htmk73$all,important
+/jin115$all,important
 /icon_rss.$image
 /icon_twitter.$image
 
 ||2ch.net^$all,important
 ||2ch.sc^$all,important
 ||5ch.net^all,important
+||blog.esuteru.com^$all,important
+||buhitter.com^$all,important
 ||dic.nicovideo.jp^$all,important
+||jin115.com^$all,important
+||nanjgod.com^$all,important
+||posfie.com^$all,important
 ||togetter.com^$all,important
 ||twitter.com^$all,important
-||nanj*od.com^$all,important
+||www.gadget2ch.com^$all,important
+||x.com^$all,important
+||yaraon-blog.com^$all,important
 ! |https://w.atwiki.jp/aniwotawiki/$all,important
 ! |https://wiki3.jp/aniwotadata/$all,important
 ! |https://w.atwiki.jp/gcmatome/$all,important
