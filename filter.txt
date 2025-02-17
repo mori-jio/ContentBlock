@@ -80,6 +80,7 @@ www.youtube.com###comments
 /htmk73$all,important,domain=twitter.com|x.com
 /jin115$all,important,domain=twitter.com|x.com
 /matomedane$all,important,domain=twitter.com|x.com
+/mutyun$all,important,domain=twitter.com|x.com
 /nanase_aoi$all,important,domain=twitter.com|x.com
 /wintermutex$document,important,domain=note.com|hatenablog.com
 /Aoi_Nanase3$all,important,domain=twitter.com|x.com
@@ -108,13 +109,18 @@ www.youtube.com###comments
 ||buhitter.com^$all,important
 ||dic.nicovideo.jp^$all,important
 ||gakyusoku.blog.jp^$all,important
+||hokanko-alt.com^$all,important
+||hokanko-alt.ldblog.jp^$all,important
 ||jin115.com^$all,important
 ||nanjgod.com^$all,important
-||nlab.itmedia.co.jp^
+||nlab.itmedia.co.jp^^$all,important
+||pokemon-matome.net^$all,important
 ||posfie.com^$all,important
 ||togetter.com^$all,important
 ||twipla.jp^$all,important
+||www.anige-sokuhouvip.com^$all,important
 ||www.gadget2ch.com^$all,important
+||www.mutyun.com^$all,important
 ||yaraon-blog.com^$all,important
 |http://blog.livedoor.jp/itsoku/$all,important
 |https://www.pixiv.net/users/2320114/$all,important
