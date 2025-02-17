@@ -51,8 +51,6 @@ www.google.*##.UUbT9
 www.google.*##.wtFsOb:has-text(/トップニュース/)
 www.google.*##div.sc-it[role="listitem"]
 www.nicovideo.jp##^.UadVideosContainer.Card
-! 関連キーワード系 もう適当
-! www.google.*###main > div > .pkphOe.EtOod.xpd.Gx5Zad
 www.youtube.com###comments
 
 ||clap.blogcms.jp^
@@ -78,28 +76,28 @@ www.youtube.com###comments
 /_/json/blog_news_sp.json
 /_/json/pbp_ranking.json
 /_/json/ranking_
-/brolist_kr$all,important
-/genai_problem$document,important
-/htmk73$all,important
-/jin115$all,important
-/matomedane$all,important
-/nanase_aoi$document,important
-/wintermutex$document,important
-/AI_otintin$all,important
-/Cinq_en_Sion$all,important
-/Dr_HAKU6697$all,important
-/HaruruChanDesu$all,important
-/Kusanimal$all,important
-/Liquidsauce215$all,important
-/a_tnk3$all,important
-/chanmaro360$all,important
-/iA06vtl$all,important
-/lamrongol$all,important
-/moripan2_ano$all,important
-/ppp_pppp2020$all,important
-/rito_92s5Yq$all,important
-/royal_UDON$all,important
-/x_aorichan_x$all,important
+/brolist_kr$all,important,domain=twitter.com|x.com,domain=twitter.com|x.com
+/htmk73$all,important,domain=twitter.com|x.com
+/jin115$all,important,domain=twitter.com|x.com
+/matomedane$all,important,domain=twitter.com|x.com
+/nanase_aoi$all,important,domain=twitter.com|x.com
+/wintermutex$document,important,domain=note.com|hatenablog.com
+/Aoi_Nanase3$all,important,domain=twitter.com|x.com
+/AI_otintin$all,important,domain=twitter.com|x.com
+/Cinq_en_Sion$all,important,domain=twitter.com|x.com
+/Dr_HAKU6697$all,important,domain=twitter.com|x.com
+/HaruruChanDesu$all,important,domain=twitter.com|x.com
+/Kusanimal$all,important,domain=twitter.com|x.com
+/Liquidsauce215$all,important,domain=twitter.com|x.com
+/a_tnk3$all,important,domain=twitter.com|x.com
+/chanmaro360$all,important,domain=twitter.com|x.com
+/iA06vtl$all,important,domain=twitter.com|x.com
+/lamrongol$all,important,domain=twitter.com|x.com
+/moripan2_ano$all,important,domain=twitter.com|x.com
+/ppp_pppp2020$all,important,domain=twitter.com|x.com
+/rito_92s5Yq$all,important,domain=twitter.com|x.com
+/royal_UDON$all,important,domain=twitter.com|x.com
+/x_aorichan_x$all,important,domain=twitter.com|x.com
 /icon_rss.$image
 /icon_twitter.$image
 
@@ -112,15 +110,15 @@ www.youtube.com###comments
 ||gakyusoku.blog.jp^$all,important
 ||jin115.com^$all,important
 ||nanjgod.com^$all,important
+||nlab.itmedia.co.jp^
 ||posfie.com^$all,important
 ||togetter.com^$all,important
 ||twipla.jp^$all,important
-||twitter.com^$all,important
 ||www.gadget2ch.com^$all,important
-||x.com^$all,important
 ||yaraon-blog.com^$all,important
-|https://w.atwiki.jp/genai_problem/$all,important
+|http://blog.livedoor.jp/itsoku/$all,important
 |https://www.pixiv.net/users/2320114/$all,important
+|https://w.atwiki.jp/genai_problem/$all,important
 ! |https://w.atwiki.jp/aniwotawiki/$all,important
 ! |https://wiki3.jp/aniwotadata/$all,important
 ! |https://w.atwiki.jp/gcmatome/$all,important
