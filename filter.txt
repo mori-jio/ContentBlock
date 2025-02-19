@@ -97,6 +97,8 @@ www.youtube.com###comments
 /moripan2_ano$all,important,domain=twitter.com|x.com
 /ppp_pppp2020$all,important,domain=twitter.com|x.com
 /rito_92s5Yq$all,important,domain=twitter.com|x.com
+/rixyou0$all,important,domain=twitter.com|x.com
+/rixyou404$all,important,domain=twitter.com|x.com
 /royal_UDON$all,important,domain=twitter.com|x.com
 /sakanakirinovel$all,important,domain=twitter.com|x.com
 /x_aorichan_x$all,important,domain=twitter.com|x.com
