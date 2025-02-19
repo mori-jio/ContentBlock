@@ -98,6 +98,7 @@ www.youtube.com###comments
 /ppp_pppp2020$all,important,domain=twitter.com|x.com
 /rito_92s5Yq$all,important,domain=twitter.com|x.com
 /royal_UDON$all,important,domain=twitter.com|x.com
+/sakanakirinovel$all,important,domain=twitter.com|x.com
 /x_aorichan_x$all,important,domain=twitter.com|x.com
 /icon_rss.$image
 /icon_twitter.$image
