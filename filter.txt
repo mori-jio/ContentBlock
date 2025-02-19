@@ -91,10 +91,12 @@ www.youtube.com###comments
 /Kusanimal$all,important,domain=twitter.com|x.com
 /Liquidsauce215$all,important,domain=twitter.com|x.com
 /a_tnk3$all,important,domain=twitter.com|x.com
+/canchanandme$all,important,domain=twitter.com|x.com
 /chanmaro360$all,important,domain=twitter.com|x.com
 /iA06vtl$all,important,domain=twitter.com|x.com
 /kanzakihiro$all,important,domain=twitter.com|x.com
 /lamrongol$all,important,domain=twitter.com|x.com
+/mokumemomoji1$all,important,domain=twitter.com|x.com
 /moripan2_ano$all,important,domain=twitter.com|x.com
 /ppp_pppp2020$all,important,domain=twitter.com|x.com
 /rito_92s5Yq$all,important,domain=twitter.com|x.com
