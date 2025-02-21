@@ -81,7 +81,6 @@ www.youtube.com###comments
 /jin115$all,important,domain=twitter.com|x.com
 /matomedane$all,important,domain=twitter.com|x.com
 /mutyun$all,important,domain=twitter.com|x.com
-/nanase_aoi$all,important,domain=twitter.com|x.com
 /wintermutex$document,important,domain=note.com|hatenablog.com
 /Aoi_Nanase3$all,important,domain=twitter.com|x.com
 /AI_otintin$all,important,domain=twitter.com|x.com
@@ -130,6 +129,7 @@ www.youtube.com###comments
 ||yaraon-blog.com^$all,important
 |http://blog.livedoor.jp/itsoku/$all,important
 |https://www.pixiv.net/users/2320114/$all,important
+|https://note.com/nanase_aoi/$all,important
 |https://w.atwiki.jp/genai_problem/$all,important
 ! |https://w.atwiki.jp/aniwotawiki/$all,important
 ! |https://wiki3.jp/aniwotadata/$all,important
