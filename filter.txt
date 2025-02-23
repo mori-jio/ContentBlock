@@ -32,8 +32,8 @@ kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news4vip/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
 www.google.*,www.pixiv.net##[href^="https://www.pixiv.net/users/2320114"]
-www.google.*,*##[href*="/Brolist_kr"]
-www.google.*,*##[href*="/brolist_kr"]
+www.google.*##[href*="/Brolist_kr"]
+www.google.*##[href*="/brolist_kr"]
 m.youtube.com##.modern-styling
 nicovideo.jp##.common-header-6zywm
 nicovideo.jp##.FormationFrame-message
