@@ -21,6 +21,8 @@
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##aside#lite_link.box-border.box-margin.box.plugin-box.section-box
 5ch.net###overright
 5ch.net##.back-links
+dic.pixiv.net###article-pixivcomic-comic
+dic.pixiv.net###article-pixivision
 fireflyframer.blog.jp##[src^="https://c1.staticflickr.com/"]
 jump.5ch.net##.post-item-box
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/ghard/"]
