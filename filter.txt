@@ -120,6 +120,10 @@ www.youtube.com###comments
 /ume_nanminchamp$all,important,domain=twitter.com|x.com
 /x_aorichan_x$all,important,domain=twitter.com|x.com
 /you629$all,important,domain=twitter.com|x.com
+! 規約を読んだり専門家をつけるのは大事なことだ
+/NOMORE__MUDAN$all,important,domain=twitter.com|x.com
+|http://nomore-mudan.com/$all,important
+/canchanandme$all,important,domain=twitter.com|x.com
 /icon_rss.$image
 /icon_twitter.$image
 
