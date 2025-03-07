@@ -105,6 +105,7 @@ www.youtube.com###comments
 /ishi_kei$all,important,domain=twitter.com|x.com
 /kanzakihiro$all,important,domain=twitter.com|x.com
 /lamrongol$all,important,domain=twitter.com|x.com
+/likula_00$all,important,domain=twitter.com|x.com
 /mokumemomoji1$all,important,domain=twitter.com|x.com
 /moripan2_ano$all,important,domain=twitter.com|x.com
 /otr_ut$all,important,domain=twitter.com|x.com
