@@ -34,6 +34,8 @@ kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news4vip/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/"]
 kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
 www.google.*,www.pixiv.net##[href^="https://www.pixiv.net/users/2320114"]
+www.google.*##[href^="http://mamemamemon.com/"]
+www.google.*##[href^="http://www4.plala.or.jp/ozzy/"]
 www.google.*##[href*="/Brolist_kr"]
 www.google.*##[href*="/brolist_kr"]
 m.youtube.com##.modern-styling
@@ -138,6 +140,8 @@ www.youtube.com###comments
 ||hokanko-alt.com^$all,important
 ||hokanko-alt.ldblog.jp^$all,important
 ||jin115.com^$all,important
+||mamemamemon.com^$all,important
+||mibumibu00.blog112.fc2.com^$all,important
 ||nanjgod.com^$all,important
 ||nlab.itmedia.co.jp^^$all,important
 ||pokemon-matome.net^$all,important
@@ -150,6 +154,7 @@ www.youtube.com###comments
 ||yaraon-blog.com^$all,important
 |http://blog.livedoor.jp/itsoku/$all,important
 |https://www.pixiv.net/users/2320114/$all,important
+|http://www4.plala.or.jp/ozzy/$all,important
 |https://note.com/nanase_aoi/$all,important
 |https://w.atwiki.jp/genai_problem/$all,important
 ! |https://w.atwiki.jp/aniwotawiki/$all,important
