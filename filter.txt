@@ -144,6 +144,7 @@ www.youtube.com###comments
 ||mamemamemon.com^$all,important
 ||mibumibu00.blog112.fc2.com^$all,important
 ||nanjgod.com^$all,important
+||news.yahoo.co.jp^$all,important
 ||nlab.itmedia.co.jp^^$all,important
 ||pokemon-matome.net^$all,important
 ||posfie.com^$all,important
