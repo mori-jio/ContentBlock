@@ -139,6 +139,7 @@ www.youtube.com###comments
 ||buhitter.com^$all,important
 ||dic.nicovideo.jp^$all,important
 ||gakyusoku.blog.jp^$all,important
+||hiro155.blog.fc2.com^$all,important
 ||hokanko-alt.com^$all,important
 ||hokanko-alt.ldblog.jp^$all,important
 ||jin115.com^$all,important
