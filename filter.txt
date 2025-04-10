@@ -137,6 +137,7 @@ www.youtube.com###comments
 ||5ch.net^all,important
 ||blog.esuteru.com^$all,important
 ||buhitter.com^$all,important
+||chiebukuro.yahoo.co.jp^$all,important
 ||dic.nicovideo.jp^$all,important
 ||gakyusoku.blog.jp^$all,important
 ||hiro155.blog.fc2.com^$all,important
