@@ -53,8 +53,8 @@ www.bing.com##.b_mop.b_ans
 www.google.*##.AUiS2
 www.google.*##.Bhmw4
 www.google.*##.UUbT9
+www.google.*##.Wt5Tfe:has-text(/他の人はこちらも検索/)
 www.google.*##.wtFsOb:has-text(/トップニュース/)
-www.google.com##.Wt5Tfe:has-text(/他の人はこちらも検索/)
 www.google.*##div.sc-it[role="listitem"]
 www.nicovideo.jp##^.UadVideosContainer.Card
 www.youtube.com###comments
