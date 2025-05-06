@@ -9,7 +9,6 @@
 *##.wp-block-comment-template
 *##[id^="modernImgRSS"]
 *##[id^="modernRSS"]
-www.google.*###appbar > div
 !#endif
 
 *###commentarea
@@ -26,14 +25,14 @@ dic.pixiv.net##[id^="article-pixivcomic-"]
 dic.pixiv.net###article-pixivision
 fireflyframer.blog.jp##[src^="https://c1.staticflickr.com/"]
 jump.5ch.net##.post-item-box
-kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/ghard/"]
-kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/livegalileo/"]
-kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/livejupiter/"]
-kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/mnewsplus/"]
-kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news/"]
-kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/news4vip/"]
-kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/newsplus/"]
-kakolog.jp,www.google.*##[href*=".5ch.net/test/read.cgi/poverty/"]
+kakolog.jp##[href*=".5ch.net/test/read.cgi/ghard/"]
+kakolog.jp##[href*=".5ch.net/test/read.cgi/livegalileo/"]
+kakolog.jp##[href*=".5ch.net/test/read.cgi/livejupiter/"]
+kakolog.jp##[href*=".5ch.net/test/read.cgi/mnewsplus/"]
+kakolog.jp##[href*=".5ch.net/test/read.cgi/news/"]
+kakolog.jp##[href*=".5ch.net/test/read.cgi/news4vip/"]
+kakolog.jp##[href*=".5ch.net/test/read.cgi/newsplus/"]
+kakolog.jp##[href*=".5ch.net/test/read.cgi/poverty/"]
 www.google.*,www.pixiv.net##[href^="https://www.pixiv.net/users/2320114"]
 www.google.*##[href^="http://mamemamemon.com/"]
 www.google.*##[href^="http://mibumibu00.blog112.fc2.com/"]
@@ -54,8 +53,6 @@ www.bing.com##.b_mop.b_ans
 www.google.*##.AUiS2
 www.google.*##.Bhmw4
 www.google.*##.UUbT9
-www.google.*##div.BA0zte:contains(/関連キーワード/)
-! www.google.*##div.sc-it[role="listitem"]
 www.nicovideo.jp##^.UadVideosContainer.Card
 www.youtube.com###comments
 
