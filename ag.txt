@@ -42,12 +42,12 @@ watch.impress.co.jp##.topics.recommend
 watch.impress.co.jp##.topics.top-news
 wikiwiki.jp##[class*="-comments"]
 www.ecosia.org##div[class*="related-queries__"]
-www.google.*###Odp5De
-www.google.*##.AP7Wnd.deIvCb.BNeawe:has-text(/画像/)
-www.google.*##.O4T6Pe
-www.google.*##.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
-www.google.com##.oIk2Cb
-www.google.com##.yG4QQe.TBC9ub
+! www.google.*###Odp5De
+! www.google.*##.AP7Wnd.deIvCb.BNeawe:has-text(/画像/)
+! www.google.*##.O4T6Pe
+! www.google.*##.T6zPgb:has-text(/他の人|質問|関連|キーワード/):upward(2)
+! www.google.com##.oIk2Cb
+! www.google.com##.yG4QQe.TBC9ub
 www.infoseek.co.jp###content
 
 !#if adguard_app_android
