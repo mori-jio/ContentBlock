@@ -9,6 +9,7 @@
 *##.wp-block-comment-template
 *##[id^="modernImgRSS"]
 *##[id^="modernRSS"]
+www.google.*###appbar > div
 !#endif
 
 *###commentarea
@@ -54,7 +55,6 @@ www.google.*##.AUiS2
 www.google.*##.Bhmw4
 www.google.*##.UUbT9
 www.google.*##div.BA0zte:contains(/関連キーワード/)
-www.google.*###appbar > div
 ! www.google.*##div.sc-it[role="listitem"]
 www.nicovideo.jp##^.UadVideosContainer.Card
 www.youtube.com###comments
