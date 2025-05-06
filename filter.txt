@@ -135,7 +135,6 @@ www.youtube.com###comments
 
 ||2ch.net^$all,important
 ||2ch.sc^$all,important
-||5ch.net^all,important
 ||blog.esuteru.com^$all,important
 ||buhitter.com^$all,important
 ||chiebukuro.yahoo.co.jp^$all,important
@@ -159,6 +158,7 @@ www.youtube.com###comments
 ||www.menuguildsystem.com^$all,important
 ||www.mutyun.com^$all,important
 ||yaraon-blog.com^$all,important
+||yaraon.blog109.fc2.com^$all,important
 |http://blog.livedoor.jp/itsoku/$all,important
 |https://www.pixiv.net/users/2320114/$all,important
 |http://www4.plala.or.jp/ozzy/$all,important
@@ -167,6 +167,10 @@ www.youtube.com###comments
 ! |https://w.atwiki.jp/aniwotawiki/$all,important
 ! |https://wiki3.jp/aniwotadata/$all,important
 ! |https://w.atwiki.jp/gcmatome/$all,important
+
+! 5ch.net 特定のワードを含むレスを非表示 2025-05-06
+5ch.net##.post.clear:contains(/含み[損益]|ジェイク|ネイサン/)
+itest.5ch.net##.threadview_response-list.threadview_response:contains(/含み[損益]|ジェイク|ネイサン/)
 
 !#if cap_html_filtering
 !#include ubo_ff.txt
