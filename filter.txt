@@ -156,6 +156,7 @@ www.youtube.com###comments
 ||www.mutyun.com^$all,important
 ||yaraon-blog.com^$all,important
 ||yaraon.blog109.fc2.com^$all,important
+||yyoossk.blogspot.com^$all,important
 |http://blog.livedoor.jp/itsoku/$all,important
 |https://www.pixiv.net/users/2320114/$all,important
 |http://www4.plala.or.jp/ozzy/$all,important
