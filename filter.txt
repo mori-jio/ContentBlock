@@ -162,7 +162,7 @@ www.youtube.com###comments
 |http://www4.plala.or.jp/ozzy/$all,important
 |https://note.com/nanase_aoi/$all,important
 |https://w.atwiki.jp/genai_problem/$all,important
-|https://w.atwiki.jp/aniwotawiki/$all,important
+! https://w.atwiki.jp/aniwotawiki/$all,important
 ! |https://wiki3.jp/aniwotadata/$all,important
 ! |https://w.atwiki.jp/gcmatome/$all,important
 
