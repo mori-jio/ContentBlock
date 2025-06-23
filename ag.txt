@@ -1,7 +1,6 @@
 ! Title: Content Block filter（for AdGuard）by mori-jio
 ! Homepage: https://github.com/mori-jio/ContentBlock
 
-*###comments-list
 *###comments-thread
 *##.comment-v2.section-box
 *##[id^="div-comment-"]
