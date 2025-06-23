@@ -7,6 +7,7 @@
 *##.comment_area
 *##.plugin-follow_buttons
 *##.wp-block-comment-template
+*##[id^="comments-list"]
 *##[id^="modernImgRSS"]
 *##[id^="modernRSS"]
 !#endif
