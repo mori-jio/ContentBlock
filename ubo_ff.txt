@@ -2,7 +2,6 @@
 ! Homepage: https://github.com/mori-jio/ContentBlock
 ! Description: uBlock Origin と Firefox の組み合わせでのみ動作するフィルタルール
 
-*##^#comments-list
 *##^#comments-thread
 *##^.comment-v2.section-box
 *##^[id^="div-comment-"]
