@@ -26,6 +26,9 @@
 dic.pixiv.net##[id^="article-pixivcomic-"]
 dic.pixiv.net###article-pixivision
 fireflyframer.blog.jp##[src^="https://c1.staticflickr.com/"]
+! レビュー…？
+freesoft-100.com###contribute
+freesoft-100.com###review
 jump.5ch.net##.post-item-box
 kakolog.jp##[href*=".5ch.net/test/read.cgi/ghard/"]
 kakolog.jp##[href*=".5ch.net/test/read.cgi/livegalileo/"]
