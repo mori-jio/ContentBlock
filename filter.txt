@@ -27,7 +27,7 @@
 dic.pixiv.net##[id^="article-pixivcomic-"]
 dic.pixiv.net###article-pixivision
 fireflyframer.blog.jp##[src^="https://c1.staticflickr.com/"]
-! レビュー…？
+! …レビュー…？
 freesoft-100.com###contribute
 freesoft-100.com###review
 jump.5ch.net##.post-item-box
@@ -39,6 +39,9 @@ kakolog.jp##[href*=".5ch.net/test/read.cgi/news/"]
 kakolog.jp##[href*=".5ch.net/test/read.cgi/news4vip/"]
 kakolog.jp##[href*=".5ch.net/test/read.cgi/newsplus/"]
 kakolog.jp##[href*=".5ch.net/test/read.cgi/poverty/"]
+itest.5ch.net###jump2
+itest.5ch.net###jump3
+itest.5ch.net###jump4
 www.google.*,www.pixiv.net##[href^="https://www.pixiv.net/users/2320114"]
 www.google.*##[href^="http://mamemamemon.com/"]
 www.google.*##[href^="http://mibumibu00.blog112.fc2.com/"]
