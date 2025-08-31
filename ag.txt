@@ -27,7 +27,6 @@ dic.pixiv.net##.spotlight
 duckduckgo.com##.at-bottom.t-m.related-searches
 fc2.com##.ad_footer
 freesoft-100.com###fadsban
-freesoft-100.com###review
 freesoft-100.com##.header_banner
 kakolog.jp##.side
 w.atwiki.jp###tanuki-list
