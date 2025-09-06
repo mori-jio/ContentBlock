@@ -144,7 +144,7 @@ www.youtube.com###comments
 ||blog.esuteru.com^$all,important
 ||buhitter.com^$all,important
 ||chiebukuro.yahoo.co.jp^$all,important
-||dic.nicovideo.jp^$all,important
+! ||dic.nicovideo.jp^$all,important
 ||gakyusoku.blog.jp^$all,important
 ||hiro155.blog.fc2.com^$all,important
 ||hokanko-alt.com^$all,important
@@ -156,8 +156,8 @@ www.youtube.com###comments
 ||news.yahoo.co.jp^$all,important
 ||nlab.itmedia.co.jp^^$all,important
 ||pokemon-matome.net^$all,important
-||posfie.com^$all,important
-||togetter.com^$all,important
+! ||posfie.com^$all,important
+! ||togetter.com^$all,important
 ||twipla.jp^$all,important
 ||www.anige-sokuhouvip.com^$all,important
 ||www.gadget2ch.com^$all,important
