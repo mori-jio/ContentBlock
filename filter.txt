@@ -62,7 +62,7 @@ www.bing.com##.b_mop.b_ans
 www.google.*##.AUiS2
 www.google.*##.Bhmw4
 www.google.*##.UUbT9
-www.nicovideo.jp##^.UadVideosContainer.Card
+www.nicovideo.jp##.UadVideosContainer.Card
 www.youtube.com###comments
 
 ||clap.blogcms.jp^
@@ -167,7 +167,6 @@ www.youtube.com###comments
 ||yaraon.blog109.fc2.com^$all,important
 ||yyoossk.blogspot.com^$all,important
 |http://blog.livedoor.jp/itsoku/$all,important
-|https://www.pixiv.net/users/2320114/$all,important
 |http://www4.plala.or.jp/ozzy/$all,important
 |https://note.com/nanase_aoi/$all,important
 |https://w.atwiki.jp/genai_problem/$all,important
