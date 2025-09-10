@@ -53,9 +53,7 @@ www.infoseek.co.jp###content
 ||static.event.notifier.rakuten.co.jp^$app=jp.co.rakuten.slide
 ||thumbnail.image.rakuten.co.jp^$app=jp.co.rakuten.slide
 ||tshop.r10s.jp^$app=jp.co.rakuten.slide
-||legy-jp.line-apps.com^$app=jp.naver.line.android
 ||lyprec.line-scdn.net^$app=jp.naver.line.android
-||vos.line-scdn.net^$app=jp.naver.line.android
 ||ch-news.line-apps.com^$app=jp.naver.line.android
 ||news.line-apps.com^$app=jp.naver.line.android
 ||voom-assets.line-scdn.net^$app=jp.naver.line.android
