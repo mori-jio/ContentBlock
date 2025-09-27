@@ -46,6 +46,7 @@ www.google.*,www.pixiv.net##[href^="https://www.pixiv.net/users/2320114"]
 www.google.*##[href^="http://mamemamemon.com/"]
 www.google.*##[href^="http://mibumibu00.blog112.fc2.com/"]
 www.google.*##[href^="http://www4.plala.or.jp/ozzy/"]
+www.google.*##[href^="https://note.com/megamarsun/"]
 www.google.*##[href*="/Brolist_kr"]
 www.google.*##[href*="/brolist_kr"]
 m.youtube.com##.modern-styling
@@ -94,7 +95,7 @@ www.youtube.com###comments
 /matomedane$all,important,domain=twitter.com|x.com
 /mutyun$all,important,domain=twitter.com|x.com
 /wintermutex$document,important,domain=note.com|hatenablog.com
-/Aoi_Nanase3$all,important,domain=twitter.com|x.com
+/Aoi_Nanase_$all,important,domain=twitter.com|x.com
 /menuguildsystem$all,important,domain=twitter.com|x.com
 /AI_otintin$all,important,domain=twitter.com|x.com
 /Aqu21977920$all,important,domain=twitter.com|x.com
@@ -168,7 +169,7 @@ www.youtube.com###comments
 ||yyoossk.blogspot.com^$all,important
 |http://blog.livedoor.jp/itsoku/$all,important
 |http://www4.plala.or.jp/ozzy/$all,important
-|https://note.com/nanase_aoi/$all,important
+|https://note.com/megamarsun/$all,important
 |https://w.atwiki.jp/genai_problem/$all,important
 ! https://w.atwiki.jp/aniwotawiki/$all,important
 ! |https://wiki3.jp/aniwotadata/$all,important
