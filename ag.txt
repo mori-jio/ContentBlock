@@ -25,7 +25,6 @@ dic.pixiv.net###bottom_infobar_touch
 dic.pixiv.net###bottom_spotlight_touch
 dic.pixiv.net##.spotlight
 duckduckgo.com##.at-bottom.t-m.related-searches
-fc2.com##.ad_footer
 freesoft-100.com###fadsban
 freesoft-100.com##.header_banner
 kakolog.jp##.side
