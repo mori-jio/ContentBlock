@@ -28,6 +28,8 @@ duckduckgo.com##.at-bottom.t-m.related-searches
 freesoft-100.com###fadsban
 freesoft-100.com##.header_banner
 kakolog.jp##.side
+smarthr.jp##.karte-action-root
+smarthr.jp###system-requirements-alert
 w.atwiki.jp###tanuki-list
 w.atwiki.jp##.atwiki-list-title
 w.atwiki.jp##.atwiki-recent-list
