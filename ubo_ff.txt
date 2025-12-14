@@ -20,7 +20,6 @@ dic.nicovideo.jp##^.sw-Article_Title-sns
 dic.nicovideo.jp##^.tp-PopularArticle
 dic.nicovideo.jp##^[class="sw-Column tp-TrendWord"]
 dic.nicovideo.jp##^[src^="https://wktk.cdn.nimg.jp/wktk/"]
-dic.nicovideo.jp##^div[class*="bbs"]
 dic.pixiv.net##^#bottom_infobar_touch
 dic.pixiv.net##^#bottom_spotlight_touch
 dic.pixiv.net##^#inner_pixivnovel_touch
