@@ -10,6 +10,7 @@
 dic.nicovideo.jp###dic_media_scrum_sp
 dic.nicovideo.jp###nicoad_users_article_sp
 dic.nicovideo.jp##.oshirase
+dic.nicovideo.jp###recommended_contents
 dic.nicovideo.jp###sp-nicodic-hotwords
 dic.nicovideo.jp###sukinamono_lives
 dic.nicovideo.jp##.st-Header_PushWord
