@@ -173,7 +173,7 @@ www.youtube.com###comments
 5ch.net##.post.clear:contains(/含み[損益]|ジェイク|ネイサン/)
 itest.5ch.net##.threadview_response-list.threadview_response:contains(/含み[損益]|ジェイク|ネイサン/)
 
-!#if ublock
+!#if ext_ublock
 !#include ubo_ff.txt
 !#endif
 
