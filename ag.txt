@@ -57,6 +57,7 @@ www.infoseek.co.jp###content
 ||lyprec.line-scdn.net^$app=jp.naver.line.android
 ||ch-news.line-apps.com^$app=jp.naver.line.android
 ||news.line-apps.com^$app=jp.naver.line.android
+||uts-front.line-apps.com^$app=jp.naver.line.android
 ||voom-assets.line-scdn.net^$app=jp.naver.line.android
 ||voom-obs.line-scdn.net^$app=jp.naver.line.android
 !#endif
