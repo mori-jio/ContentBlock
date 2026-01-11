@@ -48,17 +48,16 @@ www.google.*##[href^="http://www4.plala.or.jp/ozzy/"]
 www.google.*##[href^="https://note.com/megamarsun/"]
 www.google.*##[href*="/Brolist_kr"]
 www.google.*##[href*="/brolist_kr"]
-google.com##.Wt5Tfe:has-text(関連する質問)
-google.com##.oIk2Cb:has-text(他の人はこちらも検索)
-nicovideo.jp##.common-header-6zywm
 nicovideo.jp##.FormationFrame-message
+nicovideo.jp##.common-header-6zywm
 nicovideo.jp##.suggestBox.nicolib-SuggestSearch-suggestions
 note.com##.o-shareBooster
 watch.impress.co.jp###floating-social-buttons
 watch.impress.co.jp##.extension.recursive
 www.google.*##.AUiS2
 www.google.*##.Bhmw4
-www.google.*##.UUbT9
+www.google.*##.oIk2Cb:has-text(他の人はこちらも検索)
+www.www.google.*##.Wt5Tfe:has-text(関連する質問)
 www.nicovideo.jp##.UadVideosContainer.Card
 www.youtube.com###comments
 
