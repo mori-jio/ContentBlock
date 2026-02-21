@@ -44,6 +44,9 @@ wikiwiki.jp##[class*="-comments"]
 www.ecosia.org##div[class*="related-queries__"]
 www.infoseek.co.jp###content
 
+! Allow
+www.google.com#@#[role="listitem"]:has(a[href*="aep=1&ntc=1"])
+
 !#if adguard_app_android
 ||flyer-announce.api.screen.rakuten.co.jp^$app=jp.co.rakuten.slide
 ||flyer.screen.r10s.jp^$app=jp.co.rakuten.slide
