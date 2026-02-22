@@ -165,6 +165,7 @@ www.youtube.com###comments
 ||yyoossk.blogspot.com^$all,important
 |http://blog.livedoor.jp/itsoku/$all,important
 |http://www4.plala.or.jp/ozzy/$all,important
+|https://ameblo.jp/mysethokan/$all,important
 |https://note.com/megamarsun/$all,important
 |https://w.atwiki.jp/genai_problem/$all,important
 ! https://w.atwiki.jp/aniwotawiki/$all,important
