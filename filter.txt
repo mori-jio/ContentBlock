@@ -74,6 +74,7 @@ www.youtube.com###comments
 ||cdn.cookielaw.org/scripttemplates/otSDKStub.js
 ||connect.facebook.net^*/sdk.js
 ||geolog.mydns.jp/bc-geocities.yahoo.co.jp/js/notifier.html
+||i.pximg.net$image,domain=dic.pixiv.net
 ||img.5ch.net/ico/*.gif|
 ||jbbs.shitaraba.net/js/staff_blog_jbbs.json?$domain=shitaraba.net
 ||rdc-api-catalog-gateway-api.rakuten.co.jp/gsp-ac/autocomplete/v1/autocomplete.jp_websearch_page?callback=
