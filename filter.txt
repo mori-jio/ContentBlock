@@ -74,7 +74,7 @@ www.youtube.com###comments
 ||cdn.cookielaw.org/scripttemplates/otSDKStub.js
 ||connect.facebook.net^*/sdk.js
 ||geolog.mydns.jp/bc-geocities.yahoo.co.jp/js/notifier.html
-||i.pximg.net^$image,domain=dic.pixiv.net
+||i.pximg.net^$domain=dic.pixiv.net
 ||img.5ch.net/ico/*.gif|
 ||jbbs.shitaraba.net/js/staff_blog_jbbs.json?$domain=shitaraba.net
 ||rdc-api-catalog-gateway-api.rakuten.co.jp/gsp-ac/autocomplete/v1/autocomplete.jp_websearch_page?callback=
@@ -153,8 +153,8 @@ www.youtube.com###comments
 ||news.yahoo.co.jp^$all,important
 ||nlab.itmedia.co.jp^^$all,important
 ||pokemon-matome.net^$all,important
-! ||posfie.com^$all,important
-! ||togetter.com^$all,important
+||posfie.com^$all,important
+||togetter.com^$all,important
 ||twipla.jp^$all,important
 ||www.anige-sokuhouvip.com^$all,important
 ||www.gadget2ch.com^$all,important
