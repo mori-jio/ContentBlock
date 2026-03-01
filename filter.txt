@@ -23,6 +23,7 @@
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##.section-box > .plugin-news
 2chblog.jp,blog.livedoor.jp,blog.jp,bloggeek.jp,blogism.jp,blogo.jp,blogstation.jp,blogto.jp,cafeblog.jp,corpblog.jp,diary.to,doorblog.jp,dreamlog.jp,gger.jp,golog.jp,ldblog.jp,liblo.jp,livedoor.biz,livedoor.blog,myjournal.jp,mynikki.jp,officeblog.jp,officialblog.jp,publog.jp,storeblog.jp,teamblog.jp,techblog.jp,weblog.to,xxxblog.jp,youblog.jp##aside#lite_link.box-border.box-margin.box.plugin-box.section-box
 5ch.net##.back-links
+dic.pixiv.net##.size-\[112px\]
 dic.pixiv.net##[id^="article-pixivcomic-"]
 dic.pixiv.net###article-pixivision
 fireflyframer.blog.jp##[src^="https://c1.staticflickr.com/"]
@@ -74,6 +75,7 @@ www.youtube.com###comments
 ||cdn.cookielaw.org/scripttemplates/otSDKStub.js
 ||connect.facebook.net^*/sdk.js
 ||geolog.mydns.jp/bc-geocities.yahoo.co.jp/js/notifier.html
+||i.pximg.net^$domain=dic.pixiv.net
 ||img.5ch.net/ico/*.gif|
 ||jbbs.shitaraba.net/js/staff_blog_jbbs.json?$domain=shitaraba.net
 ||rdc-api-catalog-gateway-api.rakuten.co.jp/gsp-ac/autocomplete/v1/autocomplete.jp_websearch_page?callback=
@@ -113,8 +115,8 @@ www.youtube.com###comments
 ||news.yahoo.co.jp^$all,important
 ||nlab.itmedia.co.jp^^$all,important
 ||pokemon-matome.net^$all,important
-! ||posfie.com^$all,important
-! ||togetter.com^$all,important
+||posfie.com^$all,important
+||togetter.com^$all,important
 ||twipla.jp^$all,important
 ||www.anige-sokuhouvip.com^$all,important
 ||www.gadget2ch.com^$all,important
@@ -125,6 +127,7 @@ www.youtube.com###comments
 ||yyoossk.blogspot.com^$all,important
 |http://blog.livedoor.jp/itsoku/$all,important
 |http://www4.plala.or.jp/ozzy/$all,important
+|https://ameblo.jp/mysethokan/$all,important
 |https://note.com/megamarsun/$all,important
 |https://w.atwiki.jp/genai_problem/$all,important
 ! https://w.atwiki.jp/aniwotawiki/$all,important
