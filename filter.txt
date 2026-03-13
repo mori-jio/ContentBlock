@@ -134,9 +134,9 @@ www.youtube.com###comments
 ! |https://wiki3.jp/aniwotadata/$all,important
 ! |https://w.atwiki.jp/gcmatome/$all,important
 
-! 5ch.net 特定のワードを含むレスを非表示 2025-05-06
-5ch.net##.post.clear:contains(/含み[損益]|ジェイク|ネイサン/)
-itest.5ch.net##.threadview_response-list.threadview_response:contains(/含み[損益]|ジェイク|ネイサン/)
+! 5ch.io 特定のワードを含むレスを非表示 2026-03-13
+5ch.io##.post.clear:contains(/含み[損益]|ジェイク|ネイサン/)
+itest.5ch.io##.threadview_response-list.threadview_response:contains(/含み[損益]|ジェイク|ネイサン/)
 
 !#if ext_ublock
 !#include ubo_ff.txt
