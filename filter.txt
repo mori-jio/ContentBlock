@@ -60,6 +60,7 @@ www.google.*##.AUiS2
 www.google.*##.Bhmw4
 www.google.*##.oIk2Cb:has-text(他の人はこちらも検索)
 www.www.google.*##.Wt5Tfe:has-text(関連する質問)
+www.google.com#@#[role="listitem"]:has(a[href*="aep=1&ntc=1"])
 bing.com#@##b_copilot_search
 www.nicovideo.jp##.UadVideosContainer.Card
 www.youtube.com###comments
